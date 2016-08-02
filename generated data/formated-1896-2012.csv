@@ -1,0 +1,1791 @@
+,Discipline,Event,Event gender,Medal,NOC,Sport,Year
+0,Taekwondo,- 58 kg,M,Bronze,AFG,Taekwondo,2008
+1,Sailing,board (division II),M,Silver,AHO,Sailing,1988
+2,Boxing,71-75kg,M,Bronze,ALG,Boxing,1984
+3,Boxing,71-75kg,M,Bronze,ALG,Boxing,1996
+4,Boxing,75 - 81kg (light-heavyweight),M,Bronze,ALG,Boxing,1984
+5,Athletics,1500m,W,Gold,ALG,Athletics,1992
+6,Athletics,1500m,M,Gold,ALG,Athletics,1996
+7,Athletics,1500m,W,Gold,ALG,Athletics,2000
+8,Boxing,54 - 57kg (featherweight),M,Bronze,ALG,Boxing,1992
+9,Boxing,57 - 60kg (lightweight),M,Gold,ALG,Boxing,1996
+10,Cycling Track,5000m,M,Silver,ALG,Cycling,2000
+11,Athletics,5000m,M,Silver,ALG,Athletics,2000
+12,Swimming,1500m freestyle,M,Bronze,ANZ,Aquatics,1908
+13,Swimming,1500m freestyle,M,Bronze,ANZ,Aquatics,1912
+14,Athletics,3500m walk,M,Bronze,ANZ,Athletics,1908
+15,Swimming,400m freestyle,M,Silver,ANZ,Aquatics,1908
+16,Swimming,400m freestyle,M,Bronze,ANZ,Aquatics,1912
+17,Boxing,63.5 - 71.67kg (middleweight),M,Silver,ANZ,Boxing,1908
+18,Rugby,rugby,M,Gold,ANZ,Rugby,1908
+19,Swimming,100m freestyle,M,Silver,ANZ,Aquatics,1912
+20,Swimming,100m freestyle,W,Gold,ANZ,Aquatics,1912
+21,Swimming,100m freestyle,W,Silver,ANZ,Aquatics,1912
+22,Swimming,4x200m freestyle relay,M,Gold,ANZ,Aquatics,1912
+23,Tennis,singles indoor,M,Bronze,ANZ,Tennis,1912
+24,Boxing,+ 79.38kg (heavyweight),M,Bronze,ARG,Boxing,1924
+25,Boxing,+ 79.38kg (heavyweight),M,Gold,ARG,Boxing,1928
+26,Boxing,+ 79.38kg (heavyweight),M,Gold,ARG,Boxing,1932
+27,Boxing,+ 79.38kg (heavyweight),M,Silver,ARG,Boxing,1936
+28,Boxing,53.52 - 57.15kg (featherweight),M,Bronze,ARG,Boxing,1924
+29,Boxing,53.52 - 57.15kg (featherweight),M,Silver,ARG,Boxing,1928
+30,Boxing,57.15 - 61.24kg (lightweight),M,Silver,ARG,Boxing,1924
+31,Boxing,61.24 - 66.68kg (welterweight),M,Silver,ARG,Boxing,1924
+32,Boxing,61.24 - 66.68kg (welterweight),M,Silver,ARG,Boxing,1928
+33,Polo,polo,M,Gold,ARG,Polo,1924
+34,Boxing,- 48kg (light-flyweight),M,Silver,ARM,Boxing,1996
+35,Wrestling Free.,- 48kg (light-flyweight),M,Silver,ARM,Wrestling,1996
+36,Wrestling Gre-R,- 48kg (light-flyweight),M,Silver,ARM,Wrestling,1996
+37,Wrestling Free.,48 - 52kg (flyweight),M,Gold,ARM,Wrestling,1996
+38,Wrestling Gre-R,48 - 52kg (flyweight),M,Gold,ARM,Wrestling,1996
+39,Weightlifting,77kg,M,Bronze,ARM,Weightlifting,2000
+40,Weightlifting,77kg,M,Bronze,ARM,Weightlifting,2008
+41,Wrestling Free.,- 55kg,M,Bronze,ARM,Wrestling,2008
+42,Wrestling Gre-R,- 55kg,M,Bronze,ARM,Wrestling,2008
+43,Boxing,57 - 60kg (lightweight),M,Bronze,ARM,Boxing,2008
+44,Athletics,1500m,M,Gold,AUS,Athletics,1896
+45,Athletics,1500m,M,Bronze,AUS,Athletics,1956
+46,Athletics,1500m,M,Gold,AUS,Athletics,1960
+47,Athletics,800m,M,Gold,AUS,Athletics,1896
+48,Athletics,800m,W,Silver,AUS,Athletics,1960
+49,Athletics,800m,M,Gold,AUS,Athletics,1968
+50,Athletics,100m,M,Bronze,AUS,Athletics,1900
+51,Athletics,100m,W,Bronze,AUS,Athletics,1948
+52,Athletics,100m,W,Bronze,AUS,Athletics,1952
+53,Athletics,100m,W,Gold,AUS,Athletics,1952
+54,Athletics,100m,M,Bronze,AUS,Athletics,1956
+55,Athletics,100m,W,Bronze,AUS,Athletics,1956
+56,Athletics,100m,W,Gold,AUS,Athletics,1956
+57,Swimming,100m freestyle,M,Silver,AUT,Aquatics,1896
+58,Cycling Track,10km,M,Bronze,AUT,Cycling,1896
+59,Cycling Track,12-hour race,M,Gold,AUT,Cycling,1896
+60,Cycling Track,1km time trial,M,Bronze,AUT,Cycling,1896
+61,Swimming,400m freestyle,M,Gold,AUT,Aquatics,1896
+62,Swimming,400m freestyle,M,Bronze,AUT,Aquatics,1904
+63,Swimming,400m freestyle,M,Bronze,AUT,Aquatics,1908
+64,Swimming,1500m freestyle,M,Silver,AUT,Aquatics,1900
+65,Swimming,200m backstroke,M,Silver,AUT,Aquatics,1900
+66,Swimming,200m backstroke,M,Silver,AUT,Aquatics,2004
+67,Wrestling Free.,48 - 52kg (flyweight),M,Silver,AZE,Wrestling,1996
+68,Wrestling Gre-R,48 - 52kg (flyweight),M,Silver,AZE,Wrestling,1996
+69,Wrestling Free.,48 - 54kg,M,Gold,AZE,Wrestling,2000
+70,Wrestling Gre-R,48 - 54kg,M,Gold,AZE,Wrestling,2000
+71,Boxing,71-75kg,M,Bronze,AZE,Boxing,2000
+72,Shooting,skeet (75 targets),W,Gold,AZE,Shooting,2000
+73,Shooting,skeet (75 targets),W,Bronze,AZE,Shooting,2004
+74,Shooting,25m pistol (30+30 shots),W,Bronze,AZE,Shooting,2004
+75,Boxing,48 - 51kg (flyweight),M,Bronze,AZE,Boxing,2004
+76,Boxing,51 - 54kg (bantamweight),M,Bronze,AZE,Boxing,2004
+77,Sailing,two-person keelboat open (Star),X,Bronze,BAH,Sailing,1956
+78,Sailing,two-person keelboat open (Star),X,Gold,BAH,Sailing,1964
+79,Athletics,triple jump,M,Bronze,BAH,Athletics,1992
+80,Athletics,triple jump,M,Bronze,BAH,Athletics,2008
+81,Athletics,4x100m relay,W,Silver,BAH,Athletics,1996
+82,Athletics,4x100m relay,W,Gold,BAH,Athletics,2000
+83,Athletics,200m,W,Gold,BAH,Athletics,2000
+84,Athletics,200m,W,Bronze,BAH,Athletics,2004
+85,Athletics,400m,W,Gold,BAH,Athletics,2004
+86,Athletics,4x400m relay,M,Silver,BAH,Athletics,2008
+87,Athletics,100m,M,Bronze,BAR,Athletics,2000
+88,Cycling Track,5000m,M,Gold,BDI,Cycling,1996
+89,Athletics,5000m,M,Gold,BDI,Athletics,1996
+90,Shooting,"army rifle, 300m, 3 positions",M,Bronze,BEL,Shooting,1900
+91,Shooting,"army rifle, 300m, standing",M,Bronze,BEL,Shooting,1900
+92,Archery,"au chapelet, 33m",M,Gold,BEL,Archery,1900
+93,Archery,"au cordon doré, 33m",M,Gold,BEL,Archery,1900
+94,Archery,"au cordon doré, 50m",M,Silver,BEL,Archery,1900
+95,Rowing,eight with coxswain (8+),M,Silver,BEL,Rowing,1900
+96,Rowing,eight with coxswain (8+),M,Silver,BEL,Rowing,1908
+97,Football,football,M,Bronze,BEL,Football,1900
+98,Football,football,M,Gold,BEL,Football,1920
+99,Athletics,high jump,X,Bronze,BEL,Athletics,1900
+100,Boxing,+ 81kg (heavyweight),M,Bronze,BER,Boxing,1976
+101,Boxing,- 48kg (light-flyweight),M,Silver,BLR,Boxing,1996
+102,Wrestling Free.,- 48kg (light-flyweight),M,Silver,BLR,Wrestling,1996
+103,Wrestling Gre-R,- 48kg (light-flyweight),M,Silver,BLR,Wrestling,1996
+104,Wrestling Free.,100 - 130kg (super heavyweight),M,Silver,BLR,Wrestling,1996
+105,Wrestling Gre-R,100 - 130kg (super heavyweight),M,Silver,BLR,Wrestling,1996
+106,Shooting,50m pistol (60 shots),M,Silver,BLR,Shooting,1996
+107,Shooting,50m pistol (60 shots),M,Silver,BLR,Shooting,2000
+108,Wrestling Free.,74 - 82kg (middleweight),M,Bronze,BLR,Wrestling,1996
+109,Wrestling Gre-R,74 - 82kg (middleweight),M,Bronze,BLR,Wrestling,1996
+110,Wrestling Free.,90 - 100kg (heavyweight),M,Silver,BLR,Wrestling,1996
+111,Athletics,discus throw,M,Silver,BOH,Athletics,1900
+112,Tennis,singles,W,Bronze,BOH,Tennis,1900
+113,Table Tennis,singles,W,Bronze,BOH,Table Tennis,1900
+114,Badminton,singles,W,Bronze,BOH,Badminton,1900
+115,Fencing,sabre individual,M,Bronze,BOH,Fencing,1908
+116,Fencing,sabre team,M,Bronze,BOH,Fencing,1908
+117,Shooting,25m rapid fire pistol (60 shots),M,Gold,BRA,Shooting,1920
+118,Shooting,"50m army pistol, team",M,Bronze,BRA,Shooting,1920
+119,Shooting,50m pistol (60 shots),M,Silver,BRA,Shooting,1920
+120,Basketball,basketball,M,Bronze,BRA,Basketball,1948
+121,Basketball,basketball,M,Bronze,BRA,Basketball,1960
+122,Basketball,basketball,M,Bronze,BRA,Basketball,1964
+123,Basketball,basketball,W,Silver,BRA,Basketball,1996
+124,Basketball,basketball,W,Bronze,BRA,Basketball,2000
+125,Swimming,1500m freestyle,M,Bronze,BRA,Aquatics,1952
+126,Athletics,high jump,M,Bronze,BRA,Athletics,1952
+127,Boxing,71-75kg,M,Bronze,BUL,Boxing,1952
+128,Wrestling Free.,+ 87kg (heavyweight),M,Silver,BUL,Wrestling,1956
+129,Wrestling Free.,73 - 79kg (middleweight),M,Gold,BUL,Wrestling,1956
+130,Wrestling Free.,73 - 79kg (middleweight),M,Silver,BUL,Wrestling,1956
+131,Wrestling Gre-R,73 - 79kg (middleweight),M,Gold,BUL,Wrestling,1956
+132,Wrestling Gre-R,73 - 79kg (middleweight),M,Silver,BUL,Wrestling,1956
+133,Wrestling Free.,73 - 79kg (middleweight),M,Gold,BUL,Wrestling,1960
+134,Wrestling Gre-R,73 - 79kg (middleweight),M,Gold,BUL,Wrestling,1960
+135,Wrestling Free.,79 - 87kg (light-heavyweight),M,Silver,BUL,Wrestling,1956
+136,Wrestling Gre-R,79 - 87kg (light-heavyweight),M,Silver,BUL,Wrestling,1956
+137,Wrestling Free.,79 - 87kg (light-heavyweight),M,Silver,BUL,Wrestling,1960
+138,Wrestling Gre-R,79 - 87kg (light-heavyweight),M,Silver,BUL,Wrestling,1960
+139,Athletics,4x400m relay,M,Bronze,BWI,Athletics,1960
+140,Athletics,800m,M,Bronze,BWI,Athletics,1960
+141,Athletics,3000m steeplechase,M,Gold,CAN,Athletics,1900
+142,Athletics,400m hurdles,M,Bronze,CAN,Athletics,1900
+143,Athletics,400m hurdles,M,Silver,CAN,Athletics,1936
+144,Athletics,56lb weight throw (25.4kg),M,Gold,CAN,Athletics,1904
+145,Rowing,eight with coxswain (8+),M,Silver,CAN,Rowing,1904
+146,Rowing,eight with coxswain (8+),M,Bronze,CAN,Rowing,1908
+147,Rowing,eight with coxswain (8+),M,Silver,CAN,Rowing,1924
+148,Rowing,eight with coxswain (8+),M,Bronze,CAN,Rowing,1928
+149,Rowing,eight with coxswain (8+),M,Bronze,CAN,Rowing,1932
+150,Rowing,eight with coxswain (8+),M,Silver,CAN,Rowing,1956
+151,Athletics,marathon,M,Silver,CHI,Athletics,1928
+152,Jumping,individual,X,Silver,CHI,Equestrian,1952
+153,Golf,individual,X,Silver,CHI,Golf,1952
+154,Roque,individual,X,Silver,CHI,Roque,1952
+155,Jeu de Paume,individual,X,Silver,CHI,Jeu de paume,1952
+156,Rackets,individual,X,Silver,CHI,Rackets,1952
+157,Figure skating,individual,X,Silver,CHI,Skating,1952
+158,Dressage,individual,X,Silver,CHI,Equestrian,1952
+159,Eventing,individual,X,Silver,CHI,Equestrian,1952
+160,Trampoline,individual,X,Silver,CHI,Gymnastics,1952
+161,Weightlifting,"- 52kg, total (flyweight)",M,Gold,CHN,Weightlifting,1984
+162,Weightlifting,"- 52kg, total (flyweight)",M,Silver,CHN,Weightlifting,1984
+163,Weightlifting,"- 52kg, total (flyweight)",M,Bronze,CHN,Weightlifting,1988
+164,Weightlifting,"- 52kg, total (flyweight)",M,Silver,CHN,Weightlifting,1992
+165,Weightlifting,"- 56kg, total (bantamweight)",M,Gold,CHN,Weightlifting,1984
+166,Weightlifting,"- 56kg, total (bantamweight)",M,Silver,CHN,Weightlifting,1984
+167,Weightlifting,"- 56kg, total (bantamweight)",M,Bronze,CHN,Weightlifting,1988
+168,Weightlifting,"- 56kg, total (bantamweight)",M,Silver,CHN,Weightlifting,1988
+169,Weightlifting,"- 56kg, total (bantamweight)",M,Bronze,CHN,Weightlifting,1992
+170,Weightlifting,"- 56kg, total (bantamweight)",M,Silver,CHN,Weightlifting,1992
+171,Weightlifting,"- 56kg, total (bantamweight)",M,Silver,CHN,Weightlifting,2004
+172,Weightlifting,"- 56kg, total (bantamweight)",M,Gold,CHN,Weightlifting,2008
+173,Shooting,10m air rifle (40 shots),W,Bronze,CHN,Shooting,1984
+174,Shooting,10m air rifle (40 shots),W,Bronze,CHN,Shooting,2000
+175,Athletics,400m,M,Silver,CIV,Athletics,1984
+176,Boxing,63.5 - 67kg (welterweight),M,Silver,CMR,Boxing,1968
+177,Boxing,57 - 60kg (lightweight),M,Bronze,CMR,Boxing,1984
+178,Football,football,M,Gold,CMR,Football,2000
+179,Athletics,triple jump,W,Gold,CMR,Athletics,2004
+180,Athletics,triple jump,W,Gold,CMR,Athletics,2008
+181,Shooting,50m running target (30+30 shots),X,Silver,COL,Shooting,1972
+182,Shooting,50m running target (30+30 shots),M,Silver,COL,Shooting,1984
+183,Boxing,54 - 57kg (featherweight),M,Bronze,COL,Boxing,1972
+184,Boxing,57 - 60kg (lightweight),M,Bronze,COL,Boxing,1972
+185,Boxing,51 - 54kg (bantamweight),M,Bronze,COL,Boxing,1988
+186,Athletics,400m,W,Bronze,COL,Athletics,1992
+187,Weightlifting,75kg,W,Gold,COL,Weightlifting,2000
+188,Weightlifting,53kg,W,Bronze,COL,Weightlifting,2004
+189,Cycling Track,points race,W,Bronze,COL,Cycling,2004
+190,Wrestling Free.,48 - 55kg,W,Bronze,COL,Wrestling,2008
+191,Swimming,200m freestyle,W,Silver,CRC,Aquatics,1988
+192,Swimming,200m freestyle,W,Gold,CRC,Aquatics,1996
+193,Swimming,200m freestyle,W,Bronze,CRC,Aquatics,2000
+194,Swimming,400m freestyle,W,Bronze,CRC,Aquatics,2000
+195,Basketball,basketball,M,Silver,CRO,Basketball,1992
+196,Tennis,doubles,M,Bronze,CRO,Tennis,1992
+197,Table Tennis,doubles,M,Bronze,CRO,Table Tennis,1992
+198,Badminton,doubles,M,Bronze,CRO,Badminton,1992
+199,Tennis,doubles,M,Bronze,CRO,Tennis,2004
+200,Table Tennis,doubles,M,Bronze,CRO,Table Tennis,2004
+201,Badminton,doubles,M,Bronze,CRO,Badminton,2004
+202,Tennis,singles,M,Bronze,CRO,Tennis,1992
+203,Table Tennis,singles,M,Bronze,CRO,Table Tennis,1992
+204,Badminton,singles,M,Bronze,CRO,Badminton,1992
+205,Fencing,épée individual,M,Gold,CUB,Fencing,1900
+206,Fencing,épée individual,M,Bronze,CUB,Fencing,1904
+207,Fencing,épée individual,M,Gold,CUB,Fencing,1904
+208,Fencing,épée individual,M,Silver,CUB,Fencing,1904
+209,Fencing,épée individual,M,Silver,CUB,Fencing,1996
+210,Fencing,"épée, amateurs and masters",M,Silver,CUB,Fencing,1900
+211,Fencing,foil individual,M,Bronze,CUB,Fencing,1904
+212,Fencing,foil individual,M,Gold,CUB,Fencing,1904
+213,Fencing,foil individual,M,Silver,CUB,Fencing,1904
+214,Fencing,foil individual,M,Bronze,CUB,Fencing,1992
+215,Fencing,sabre individual,M,Bronze,CUB,Fencing,1904
+216,Fencing,sabre individual,M,Gold,CUB,Fencing,1904
+217,Fencing,"stick, single",M,Gold,CUB,Fencing,1904
+218,Sailing,two-person keelboat open (Star),X,Silver,CUB,Sailing,1948
+219,Athletics,100m,M,Silver,CUB,Athletics,1964
+220,Shooting,50m running target (30+30 shots),M,Bronze,CZE,Shooting,1996
+221,Canoe / Kayak S,C-1 (canoe single),M,Silver,CZE,Canoe / Kayak,1996
+222,Canoe / Kayak F,C-1 1000m (canoe single),M,Gold,CZE,Canoe / Kayak,1996
+223,Canoe / Kayak F,C-1 500m (canoe single),M,Gold,CZE,Canoe / Kayak,1996
+224,Canoe / Kayak S,C-2 (canoe double),M,Silver,CZE,Canoe / Kayak,1996
+225,Canoe / Kayak S,C-2 (canoe double),M,Bronze,CZE,Canoe / Kayak,2000
+226,Canoe / Kayak S,C-2 (canoe double),M,Bronze,CZE,Canoe / Kayak,2004
+227,Canoe / Kayak S,C-2 (canoe double),M,Silver,CZE,Canoe / Kayak,2008
+228,Canoe / Kayak S,K-1 (kayak single),W,Gold,CZE,Canoe / Kayak,1996
+229,Canoe / Kayak S,K-1 (kayak single),W,Gold,CZE,Canoe / Kayak,2000
+230,Shooting,25m rapid fire pistol (60 shots),M,Bronze,DEN,Shooting,1896
+231,Shooting,50m pistol (60 shots),M,Silver,DEN,Shooting,1896
+232,Shooting,"army rifle, 300m",M,Bronze,DEN,Shooting,1896
+233,Weightlifting,heavyweight - one hand lift,M,Silver,DEN,Weightlifting,1896
+234,Weightlifting,heavyweight - two hand lift,M,Gold,DEN,Weightlifting,1896
+235,Fencing,sabre individual,M,Bronze,DEN,Fencing,1896
+236,Athletics,400m,M,Bronze,DEN,Athletics,1900
+237,Shooting,"army rifle, 300m, 3 positions",M,Silver,DEN,Shooting,1900
+238,Shooting,"army rifle, 300m, kneeling",M,Silver,DEN,Shooting,1900
+239,Shooting,"army rifle, 300m, prone",M,Silver,DEN,Shooting,1900
+240,Athletics,marathon,M,Bronze,DJI,Athletics,1988
+241,Boxing,51 - 54kg (bantamweight),M,Bronze,DOM,Boxing,1984
+242,Athletics,400m hurdles,M,Gold,DOM,Athletics,2004
+243,Taekwondo,- 58 kg,M,Silver,DOM,Taekwondo,2008
+244,Boxing,60 - 64 kg,M,Gold,DOM,Boxing,2008
+245,Athletics,20km walk,M,Gold,ECU,Athletics,1996
+246,Athletics,20km walk,M,Silver,ECU,Athletics,2008
+247,Diving,10m platform,M,Silver,EGY,Aquatics,1928
+248,Diving,3m springboard,M,Bronze,EGY,Aquatics,1928
+249,Wrestling Gre-R,75 - 82.5kg (light-heavyweight),M,Gold,EGY,Wrestling,1928
+250,Weightlifting,"75 - 82.5kg, total (light-heavyweight)",M,Gold,EGY,Weightlifting,1928
+251,Weightlifting,"75 - 82.5kg, total (light-heavyweight)",M,Bronze,EGY,Weightlifting,1936
+252,Weightlifting,"- 60kg, total (featherweight)",M,Bronze,EGY,Weightlifting,1936
+253,Weightlifting,"- 60kg, total (featherweight)",M,Silver,EGY,Weightlifting,1936
+254,Weightlifting,"60 - 67.5kg, total (lightweight)",M,Gold,EGY,Weightlifting,1936
+255,Weightlifting,"60 - 67.5kg, total (lightweight)",M,Gold,EGY,Weightlifting,1948
+256,Weightlifting,"60 - 67.5kg, total (lightweight)",M,Silver,EGY,Weightlifting,1948
+257,Weightlifting,"67.5 - 75kg, total (middleweight)",M,Gold,EGY,Weightlifting,1936
+258,Wrestling Free.,52 - 57kg (bantamweight),M,Silver,EGY,Wrestling,1948
+259,Athletics,10000m,M,Bronze,ERI,Athletics,2004
+260,Basque Pelota,cesta punta,M,Gold,ESP,Basque Pelota,1900
+261,Football,football,M,Silver,ESP,Football,1920
+262,Football,football,M,Gold,ESP,Football,1992
+263,Football,football,M,Silver,ESP,Football,2000
+264,Polo,polo,M,Silver,ESP,Polo,1920
+265,Golf,team,X,Gold,ESP,Golf,1928
+266,Eventing,team,X,Gold,ESP,Equestrian,1928
+267,Jumping,team,X,Gold,ESP,Equestrian,1928
+268,Dressage,team,X,Gold,ESP,Equestrian,1928
+269,Synchronized S.,team,X,Gold,ESP,Aquatics,1928
+270,Weightlifting,"- 60kg, one-two hand 3 events (featherweight)",M,Silver,EST,Weightlifting,1920
+271,Weightlifting,"60 - 67.5kg, one-two hand 3 events (lightweight)",M,Gold,EST,Weightlifting,1920
+272,Athletics,marathon,M,Silver,EST,Athletics,1920
+273,Weightlifting,"+ 82.5kg, one-two hand 5 events (heavyweight)",M,Bronze,EST,Weightlifting,1924
+274,Wrestling Gre-R,- 58kg (bantamweight),M,Gold,EST,Wrestling,1924
+275,Wrestling Gre-R,67.5 - 75kg (middleweight),M,Bronze,EST,Wrestling,1924
+276,Wrestling Free.,67.5 - 75kg (middleweight),M,Bronze,EST,Wrestling,1924
+277,Wrestling Gre-R,67.5 - 75kg (middleweight),M,Bronze,EST,Wrestling,1928
+278,Wrestling Free.,67.5 - 75kg (middleweight),M,Bronze,EST,Wrestling,1928
+279,Weightlifting,"67.5 - 75kg, one-two hand 5 events (middleweight)",M,Bronze,EST,Weightlifting,1924
+280,Weightlifting,"67.5 - 75kg, one-two hand 5 events (middleweight)",M,Silver,EST,Weightlifting,1924
+281,Athletics,marathon,M,Gold,ETH,Athletics,1960
+282,Athletics,marathon,M,Gold,ETH,Athletics,1964
+283,Athletics,marathon,M,Gold,ETH,Athletics,1968
+284,Athletics,marathon,M,Bronze,ETH,Athletics,1972
+285,Athletics,marathon,W,Gold,ETH,Athletics,1996
+286,Athletics,marathon,M,Bronze,ETH,Athletics,2000
+287,Athletics,marathon,M,Gold,ETH,Athletics,2000
+288,Athletics,marathon,M,Bronze,ETH,Athletics,2008
+289,Athletics,10000m,M,Silver,ETH,Athletics,1968
+290,Athletics,10000m,M,Bronze,ETH,Athletics,1972
+291,Athletics,10000m,M,Bronze,ETH,Athletics,1980
+292,Athletics,10000m,M,Gold,ETH,Athletics,1980
+293,Wrestling Gre-R,+ 87kg (super heavyweight),M,Silver,EUA,Wrestling,1956
+294,Wrestling Gre-R,+ 87kg (super heavyweight),M,Silver,EUA,Wrestling,1960
+295,Athletics,100m,W,Silver,EUA,Athletics,1956
+296,Athletics,100m,M,Gold,EUA,Athletics,1960
+297,Athletics,1500m,M,Silver,EUA,Athletics,1956
+298,Athletics,200m,W,Silver,EUA,Athletics,1956
+299,Athletics,200m,W,Silver,EUA,Athletics,1960
+300,Swimming,200m breaststroke,W,Bronze,EUA,Aquatics,1956
+301,Swimming,200m breaststroke,W,Gold,EUA,Aquatics,1956
+302,Swimming,200m breaststroke,W,Bronze,EUA,Aquatics,1960
+303,Swimming,200m breaststroke,W,Silver,EUA,Aquatics,1960
+304,Athletics,400m,M,Silver,EUA,Athletics,1956
+305,Weightlifting,"+ 110kg, total (super heavyweight)",M,Gold,EUN,Weightlifting,1992
+306,Weightlifting,"+ 110kg, total (super heavyweight)",M,Silver,EUN,Weightlifting,1992
+307,Judo,+ 95kg (heavyweight),M,Gold,EUN,Judo,1992
+308,Boxing,- 48kg (light-flyweight),M,Bronze,EUN,Boxing,1992
+309,Boxing,- 48kg (light-flyweight),M,Gold,EUN,Boxing,1992
+310,Wrestling Free.,- 48kg (light-flyweight),M,Bronze,EUN,Wrestling,1992
+311,Wrestling Free.,- 48kg (light-flyweight),M,Gold,EUN,Wrestling,1992
+312,Wrestling Gre-R,- 48kg (light-flyweight),M,Bronze,EUN,Wrestling,1992
+313,Wrestling Gre-R,- 48kg (light-flyweight),M,Gold,EUN,Wrestling,1992
+314,Judo,- 60 kg,M,Gold,EUN,Judo,1992
+315,Weightlifting,"100 - 110kg, total (heavyweight)",M,Silver,EUN,Weightlifting,1992
+316,Wrestling Free.,100 - 130kg (super heavyweight),M,Bronze,EUN,Wrestling,1992
+317,Wrestling Free.,100 - 130kg (super heavyweight),M,Gold,EUN,Wrestling,1992
+318,Wrestling Gre-R,100 - 130kg (super heavyweight),M,Bronze,EUN,Wrestling,1992
+319,Wrestling Gre-R,100 - 130kg (super heavyweight),M,Gold,EUN,Wrestling,1992
+320,Athletics,10000m walk,W,Silver,EUN,Athletics,1992
+321,Wrestling Gre-R,- 66.6kg (lightweight),M,Bronze,FIN,Wrestling,1908
+322,Wrestling Gre-R,73 - 93kg (light-heavyweight),M,Gold,FIN,Wrestling,1908
+323,Wrestling Gre-R,73 - 93kg (light-heavyweight),M,Silver,FIN,Wrestling,1908
+324,Athletics,discus throw ancient style,M,Bronze,FIN,Athletics,1908
+325,Artistic G.,team competition,M,Bronze,FIN,Gymnastics,1908
+326,Artistic G.,team competition,M,Bronze,FIN,Gymnastics,1932
+327,Artistic G.,team competition,M,Bronze,FIN,Gymnastics,1936
+328,Artistic G.,team competition,M,Gold,FIN,Gymnastics,1948
+329,Artistic G.,team competition,M,Bronze,FIN,Gymnastics,1952
+330,Artistic G.,team competition,M,Bronze,FIN,Gymnastics,1956
+331,Wrestling Gre-R,+ 82.5kg (super heavyweight),M,Gold,FIN,Wrestling,1912
+332,Wrestling Gre-R,+ 82.5kg (super heavyweight),M,Silver,FIN,Wrestling,1912
+333,Cycling Track,100km,M,Gold,FRA,Cycling,1896
+334,Cycling Track,100km,M,Bronze,FRA,Cycling,1908
+335,Cycling Track,10km,M,Gold,FRA,Cycling,1896
+336,Cycling Track,10km,M,Silver,FRA,Cycling,1896
+337,Athletics,1500m,M,Bronze,FRA,Athletics,1896
+338,Athletics,1500m,M,Silver,FRA,Athletics,1900
+339,Athletics,1500m,M,Silver,FRA,Athletics,1928
+340,Athletics,1500m,M,Silver,FRA,Athletics,1960
+341,Athletics,1500m,M,Bronze,FRA,Athletics,2008
+342,Cycling Track,1km time trial,M,Gold,FRA,Cycling,1896
+343,Cycling Track,1km time trial,M,Bronze,FRA,Cycling,1932
+344,Wrestling Free.,+ 97kg (heavyweight),M,Bronze,FRG,Wrestling,1968
+345,Athletics,1500m,M,Bronze,FRG,Athletics,1968
+346,Athletics,1500m,M,Bronze,FRG,Athletics,1976
+347,Athletics,400m hurdles,M,Silver,FRG,Athletics,1968
+348,Athletics,400m hurdles,M,Bronze,FRG,Athletics,1984
+349,Swimming,400m individual medley,M,Bronze,FRG,Aquatics,1968
+350,Swimming,400m individual medley,W,Bronze,FRG,Aquatics,1984
+351,Swimming,4x100m medley relay,W,Bronze,FRG,Aquatics,1968
+352,Swimming,4x100m medley relay,W,Bronze,FRG,Aquatics,1972
+353,Swimming,4x100m medley relay,M,Bronze,FRG,Aquatics,1976
+354,Athletics,110m hurdles,M,Silver,GBR,Athletics,1896
+355,Athletics,110m hurdles,M,Bronze,GBR,Athletics,1932
+356,Athletics,110m hurdles,M,Silver,GBR,Athletics,1936
+357,Athletics,110m hurdles,M,Silver,GBR,Athletics,1988
+358,Cycling Track,12-hour race,M,Silver,GBR,Cycling,1896
+359,Athletics,400m,M,Bronze,GBR,Athletics,1896
+360,Athletics,400m,M,Gold,GBR,Athletics,1908
+361,Athletics,400m,M,Silver,GBR,Athletics,1920
+362,Athletics,400m,M,Bronze,GBR,Athletics,1924
+363,Athletics,400m,M,Gold,GBR,Athletics,1924
+364,Athletics,400m,M,Silver,GBR,Athletics,1936
+365,Swimming,100m backstroke,M,Gold,GDR,Aquatics,1968
+366,Swimming,100m backstroke,M,Gold,GDR,Aquatics,1972
+367,Swimming,100m backstroke,M,Bronze,GDR,Aquatics,1976
+368,Swimming,100m backstroke,W,Gold,GDR,Aquatics,1976
+369,Swimming,100m backstroke,W,Silver,GDR,Aquatics,1976
+370,Swimming,100m backstroke,W,Bronze,GDR,Aquatics,1980
+371,Swimming,100m backstroke,W,Gold,GDR,Aquatics,1980
+372,Swimming,100m backstroke,W,Silver,GDR,Aquatics,1980
+373,Swimming,100m backstroke,W,Bronze,GDR,Aquatics,1988
+374,Swimming,100m backstroke,W,Gold,GDR,Aquatics,1988
+375,Swimming,200m backstroke,M,Gold,GDR,Aquatics,1968
+376,Swimming,200m backstroke,M,Gold,GDR,Aquatics,1972
+377,Swimming,200m backstroke,W,Gold,GDR,Aquatics,1976
+378,Swimming,200m backstroke,W,Silver,GDR,Aquatics,1976
+379,Swimming,200m backstroke,W,Bronze,GDR,Aquatics,1980
+380,Swimming,200m backstroke,W,Gold,GDR,Aquatics,1980
+381,Swimming,200m backstroke,W,Silver,GDR,Aquatics,1980
+382,Swimming,200m backstroke,M,Silver,GDR,Aquatics,1988
+383,Swimming,200m backstroke,W,Bronze,GDR,Aquatics,1988
+384,Swimming,200m backstroke,W,Silver,GDR,Aquatics,1988
+385,Judo,73 - 81kg (half-middleweight),M,Bronze,GEO,Judo,1996
+386,Wrestling Free.,82 - 90kg (light-heavyweight),M,Bronze,GEO,Wrestling,1996
+387,Wrestling Gre-R,82 - 90kg (light-heavyweight),M,Bronze,GEO,Wrestling,1996
+388,Wrestling Free.,58 - 63kg,M,Bronze,GEO,Wrestling,2000
+389,Wrestling Gre-R,58 - 63kg,M,Bronze,GEO,Wrestling,2000
+390,Judo,60 - 66kg (half-lightweight),M,Bronze,GEO,Judo,2000
+391,Wrestling Free.,76 - 85kg,M,Bronze,GEO,Wrestling,2000
+392,Wrestling Gre-R,76 - 85kg,M,Bronze,GEO,Wrestling,2000
+393,Boxing,81 - 91kg (heavyweight),M,Bronze,GEO,Boxing,2000
+394,Wrestling Free.,85 - 97kg,M,Bronze,GEO,Wrestling,2000
+395,Athletics,100m,M,Silver,GER,Athletics,1896
+396,Athletics,100m,M,Bronze,GER,Athletics,1928
+397,Athletics,100m,M,Bronze,GER,Athletics,1932
+398,Athletics,100m,W,Bronze,GER,Athletics,1936
+399,Artistic G.,horizontal bar,M,Gold,GER,Gymnastics,1896
+400,Artistic G.,horizontal bar,M,Silver,GER,Gymnastics,1896
+401,Artistic G.,horizontal bar,M,Bronze,GER,Gymnastics,1936
+402,Artistic G.,horizontal bar,M,Silver,GER,Gymnastics,1936
+403,Artistic G.,horizontal bar,M,Silver,GER,Gymnastics,1952
+404,Artistic G.,horizontal bar,M,Silver,GER,Gymnastics,1992
+405,Artistic G.,horizontal bar,M,Gold,GER,Gymnastics,1996
+406,Artistic G.,horizontal bar,M,Bronze,GER,Gymnastics,2008
+407,Boxing,60 - 63.5kg (light-welterweight),M,Silver,GHA,Boxing,1960
+408,Boxing,60 - 63.5kg (light-welterweight),M,Bronze,GHA,Boxing,1964
+409,Boxing,71-75kg,M,Bronze,GHA,Boxing,1972
+410,Football,football,M,Bronze,GHA,Football,1992
+411,Cycling Track,100km,M,Silver,GRE,Cycling,1896
+412,Swimming,100m freestyle for sailors,M,Bronze,GRE,Aquatics,1896
+413,Swimming,100m freestyle for sailors,M,Gold,GRE,Aquatics,1896
+414,Swimming,100m freestyle for sailors,M,Silver,GRE,Aquatics,1896
+415,Swimming,1200m freestyle,M,Bronze,GRE,Aquatics,1896
+416,Swimming,1200m freestyle,M,Silver,GRE,Aquatics,1896
+417,Cycling Track,1km time trial,M,Silver,GRE,Cycling,1896
+418,Shooting,25m army pistol,M,Bronze,GRE,Shooting,1896
+419,Shooting,25m rapid fire pistol (60 shots),M,Gold,GRE,Shooting,1896
+420,Shooting,25m rapid fire pistol (60 shots),M,Silver,GRE,Shooting,1896
+421,Swimming,400m freestyle,M,Bronze,GRE,Aquatics,1896
+422,Swimming,400m freestyle,M,Silver,GRE,Aquatics,1896
+423,Shooting,50m pistol (60 shots),M,Bronze,GRE,Shooting,1896
+424,Athletics,800m,M,Bronze,GRE,Athletics,1896
+425,Cycling Track,Sprint indivual,M,Silver,GRE,Cycling,1896
+426,Boxing,51 - 54kg (bantamweight),M,Bronze,GUY,Boxing,1980
+427,Shooting,"400, 600, 800m free rifle, team",M,Bronze,HAI,Shooting,1924
+428,Athletics,long jump,M,Silver,HAI,Athletics,1928
+429,Sailing,board (Mistral),W,Gold,HKG,Sailing,1996
+430,Tennis,doubles,M,Silver,HKG,Tennis,2004
+431,Table Tennis,doubles,M,Silver,HKG,Table Tennis,2004
+432,Badminton,doubles,M,Silver,HKG,Badminton,2004
+433,Athletics,100m,M,Bronze,HUN,Athletics,1896
+434,Swimming,100m freestyle,M,Gold,HUN,Aquatics,1896
+435,Swimming,100m freestyle,M,Gold,HUN,Aquatics,1904
+436,Swimming,100m freestyle,M,Silver,HUN,Aquatics,1908
+437,Swimming,100m freestyle,M,Silver,HUN,Aquatics,1928
+438,Swimming,100m freestyle,M,Gold,HUN,Aquatics,1936
+439,Swimming,100m freestyle,M,Bronze,HUN,Aquatics,1948
+440,Swimming,100m freestyle,W,Bronze,HUN,Aquatics,1952
+441,Swimming,100m freestyle,W,Gold,HUN,Aquatics,1952
+442,Swimming,1200m freestyle,M,Gold,HUN,Aquatics,1896
+443,Athletics,800m,M,Silver,HUN,Athletics,1896
+444,Archery,teams FITA round,W,Silver,INA,Archery,1988
+445,Tennis,doubles,M,Silver,INA,Tennis,1992
+446,Table Tennis,doubles,M,Silver,INA,Table Tennis,1992
+447,Badminton,doubles,M,Silver,INA,Badminton,1992
+448,Tennis,doubles,M,Bronze,INA,Tennis,1996
+449,Tennis,doubles,M,Gold,INA,Tennis,1996
+450,Table Tennis,doubles,M,Bronze,INA,Table Tennis,1996
+451,Table Tennis,doubles,M,Gold,INA,Table Tennis,1996
+452,Badminton,doubles,M,Bronze,INA,Badminton,1996
+453,Badminton,doubles,M,Gold,INA,Badminton,1996
+454,Tennis,doubles,M,Gold,INA,Tennis,2000
+455,Tennis,doubles,X,Silver,INA,Tennis,2000
+456,Table Tennis,doubles,M,Gold,INA,Table Tennis,2000
+457,Table Tennis,doubles,X,Silver,INA,Table Tennis,2000
+458,Badminton,doubles,M,Gold,INA,Badminton,2000
+459,Badminton,doubles,X,Silver,INA,Badminton,2000
+460,Athletics,200m,M,Silver,IND,Athletics,1900
+461,Athletics,200m hurdles,M,Silver,IND,Athletics,1900
+462,Hockey,hockey,M,Gold,IND,Hockey,1928
+463,Hockey,hockey,M,Gold,IND,Hockey,1932
+464,Hockey,hockey,M,Gold,IND,Hockey,1936
+465,Hockey,hockey,M,Gold,IND,Hockey,1948
+466,Hockey,hockey,M,Gold,IND,Hockey,1952
+467,Hockey,hockey,M,Gold,IND,Hockey,1956
+468,Hockey,hockey,M,Silver,IND,Hockey,1960
+469,Hockey,hockey,M,Gold,IND,Hockey,1964
+470,Shooting,10m air pistol (40 shots),W,Silver,IOP,Shooting,1992
+471,Shooting,10m air rifle (40 shots),W,Bronze,IOP,Shooting,1992
+472,Shooting,50m rifle prone (60 shots),M,Bronze,IOP,Shooting,1992
+473,Weightlifting,"56 - 60kg, total (featherweight)",M,Bronze,IRI,Weightlifting,1948
+474,Wrestling Free.,- 52kg (flyweight),M,Bronze,IRI,Wrestling,1952
+475,Wrestling Gre-R,- 52kg (flyweight),M,Bronze,IRI,Wrestling,1952
+476,Wrestling Free.,- 52kg (flyweight),M,Silver,IRI,Wrestling,1956
+477,Wrestling Gre-R,- 52kg (flyweight),M,Silver,IRI,Wrestling,1956
+478,Wrestling Free.,- 52kg (flyweight),M,Bronze,IRI,Wrestling,1960
+479,Wrestling Gre-R,- 52kg (flyweight),M,Bronze,IRI,Wrestling,1960
+480,Wrestling Free.,- 52kg (flyweight),M,Bronze,IRI,Wrestling,1964
+481,Wrestling Gre-R,- 52kg (flyweight),M,Bronze,IRI,Wrestling,1964
+482,Weightlifting,"- 56kg, total (bantamweight)",M,Bronze,IRI,Weightlifting,1952
+483,Weightlifting,"- 56kg, total (bantamweight)",M,Silver,IRI,Weightlifting,1952
+484,Athletics,hammer throw,M,Gold,IRL,Athletics,1928
+485,Athletics,hammer throw,M,Gold,IRL,Athletics,1932
+486,Athletics,400m hurdles,M,Gold,IRL,Athletics,1932
+487,Boxing,51 - 54kg (bantamweight),M,Silver,IRL,Boxing,1952
+488,Boxing,51 - 54kg (bantamweight),M,Bronze,IRL,Boxing,1956
+489,Boxing,51 - 54kg (bantamweight),M,Silver,IRL,Boxing,1992
+490,Boxing,- 51kg (flyweight),M,Bronze,IRL,Boxing,1956
+491,Athletics,1500m,M,Gold,IRL,Athletics,1956
+492,Boxing,57 - 60kg (lightweight),M,Bronze,IRL,Boxing,1956
+493,Boxing,57 - 60kg (lightweight),M,Bronze,IRL,Boxing,1964
+494,Weightlifting,"60 - 67.5kg, total (lightweight)",M,Bronze,IRQ,Weightlifting,1960
+495,Athletics,triple jump,M,Silver,ISL,Athletics,1956
+496,Judo,86 - 95kg (half-heavyweight),M,Bronze,ISL,Judo,1984
+497,Athletics,pole vault,W,Bronze,ISL,Athletics,2000
+498,Handball,handball,M,Silver,ISL,Handball,2008
+499,Judo,56 - 61kg (half-middleweight),W,Silver,ISR,Judo,1992
+500,Judo,65 - 71kg (lightweight),M,Bronze,ISR,Judo,1992
+501,Sailing,board (Mistral),M,Bronze,ISR,Sailing,1996
+502,Sailing,board (Mistral),M,Gold,ISR,Sailing,2004
+503,Canoe / Kayak F,K-1 500m (kayak single),M,Bronze,ISR,Canoe / Kayak,2000
+504,Judo,90 - 100kg (half-heavyweight),M,Bronze,ISR,Judo,2004
+505,Sailing,RS:X - Windsurfer,M,Bronze,ISR,Sailing,2008
+506,Sailing,single-handed dinghy (Finn),M,Silver,ISV,Sailing,1988
+507,Athletics,high jump,X,Gold,ITA,Athletics,1900
+508,Jumping,high jump,X,Gold,ITA,Equestrian,1900
+509,Athletics,high jump,W,Silver,ITA,Athletics,1976
+510,Jumping,high jump,W,Silver,ITA,Equestrian,1976
+511,Athletics,high jump,W,Gold,ITA,Athletics,1980
+512,Jumping,high jump,W,Gold,ITA,Equestrian,1980
+513,Athletics,high jump,W,Silver,ITA,Athletics,1984
+514,Jumping,high jump,W,Silver,ITA,Equestrian,1984
+515,Jumping,long jump individual,X,Silver,ITA,Equestrian,1900
+516,Fencing,"sabre, masters",M,Gold,ITA,Fencing,1900
+517,Fencing,"sabre, masters",M,Silver,ITA,Fencing,1900
+518,Athletics,400m,M,Gold,JAM,Athletics,1948
+519,Athletics,400m,M,Silver,JAM,Athletics,1948
+520,Athletics,400m,M,Gold,JAM,Athletics,1952
+521,Athletics,400m,M,Silver,JAM,Athletics,1952
+522,Athletics,400m,M,Bronze,JAM,Athletics,2000
+523,Athletics,400m,W,Silver,JAM,Athletics,2000
+524,Athletics,400m,W,Silver,JAM,Athletics,2008
+525,Athletics,800m,M,Silver,JAM,Athletics,1948
+526,Athletics,800m,M,Silver,JAM,Athletics,1952
+527,Athletics,100m,M,Silver,JAM,Athletics,1952
+528,Athletics,100m,M,Silver,JAM,Athletics,1968
+529,Athletics,100m,M,Bronze,JAM,Athletics,1972
+530,Athletics,100m,M,Silver,JAM,Athletics,1976
+531,Tennis,doubles,M,Silver,JPN,Tennis,1920
+532,Table Tennis,doubles,M,Silver,JPN,Table Tennis,1920
+533,Badminton,doubles,M,Silver,JPN,Badminton,1920
+534,Tennis,singles,M,Silver,JPN,Tennis,1920
+535,Table Tennis,singles,M,Silver,JPN,Table Tennis,1920
+536,Badminton,singles,M,Silver,JPN,Badminton,1920
+537,Wrestling Free.,56 - 61kg (featherweight),M,Bronze,JPN,Wrestling,1924
+538,Wrestling Gre-R,56 - 61kg (featherweight),M,Bronze,JPN,Wrestling,1924
+539,Swimming,100m freestyle,M,Bronze,JPN,Aquatics,1928
+540,Swimming,100m freestyle,M,Gold,JPN,Aquatics,1932
+541,Swimming,100m freestyle,M,Silver,JPN,Aquatics,1932
+542,Shooting,25m rapid fire pistol (60 shots),M,Bronze,KAZ,Shooting,1996
+543,Boxing,48 - 51kg (flyweight),M,Silver,KAZ,Boxing,1996
+544,Boxing,48 - 51kg (flyweight),M,Silver,KAZ,Boxing,2000
+545,Wrestling Free.,48 - 52kg (flyweight),M,Bronze,KAZ,Wrestling,1996
+546,Wrestling Gre-R,48 - 52kg (flyweight),M,Bronze,KAZ,Wrestling,1996
+547,Shooting,50m rifle 3 positions (3x40 shots),M,Silver,KAZ,Shooting,1996
+548,Shooting,50m rifle prone (60 shots),M,Silver,KAZ,Shooting,1996
+549,Wrestling Free.,52 - 57kg (bantamweight),M,Gold,KAZ,Wrestling,1996
+550,Wrestling Gre-R,52 - 57kg (bantamweight),M,Gold,KAZ,Wrestling,1996
+551,Boxing,60 - 63.5kg (light-welterweight),M,Bronze,KAZ,Boxing,1996
+552,Athletics,800m,M,Bronze,KEN,Athletics,1964
+553,Athletics,800m,M,Silver,KEN,Athletics,1968
+554,Athletics,800m,M,Bronze,KEN,Athletics,1972
+555,Athletics,800m,M,Gold,KEN,Athletics,1988
+556,Athletics,800m,M,Gold,KEN,Athletics,1992
+557,Athletics,800m,M,Silver,KEN,Athletics,1992
+558,Athletics,800m,M,Bronze,KEN,Athletics,1996
+559,Athletics,800m,M,Bronze,KEN,Athletics,2008
+560,Athletics,800m,M,Gold,KEN,Athletics,2008
+561,Athletics,800m,W,Gold,KEN,Athletics,2008
+562,Athletics,800m,W,Silver,KEN,Athletics,2008
+563,Athletics,10000m,M,Gold,KEN,Athletics,1968
+564,Athletics,10000m,M,Bronze,KEN,Athletics,1984
+565,Athletics,10000m,M,Bronze,KEN,Athletics,1988
+566,Judo,- 60 kg,M,Bronze,KGZ,Judo,2000
+567,Wrestling Free.,55 - 60kg,M,Bronze,KGZ,Wrestling,2008
+568,Wrestling Gre-R,55 - 60kg,M,Bronze,KGZ,Wrestling,2008
+569,Wrestling Free.,60 - 66kg,M,Silver,KGZ,Wrestling,2008
+570,Wrestling Gre-R,60 - 66kg,M,Silver,KGZ,Wrestling,2008
+571,Boxing,- 51kg (flyweight),M,Bronze,KOR,Boxing,1948
+572,Weightlifting,"67.5 - 75kg, total (middleweight)",M,Bronze,KOR,Weightlifting,1948
+573,Weightlifting,"67.5 - 75kg, total (middleweight)",M,Bronze,KOR,Weightlifting,1952
+574,Boxing,51 - 54kg (bantamweight),M,Bronze,KOR,Boxing,1952
+575,Boxing,51 - 54kg (bantamweight),M,Silver,KOR,Boxing,1956
+576,Boxing,51 - 54kg (bantamweight),M,Silver,KOR,Boxing,1964
+577,Boxing,51 - 54kg (bantamweight),M,Bronze,KOR,Boxing,1968
+578,Weightlifting,"60 - 67.5kg, total (lightweight)",M,Bronze,KOR,Weightlifting,1956
+579,Wrestling Free.,- 52kg (flyweight),M,Silver,KOR,Wrestling,1964
+580,Wrestling Gre-R,- 52kg (flyweight),M,Silver,KOR,Wrestling,1964
+581,Athletics,400m hurdles,M,Silver,KSA,Athletics,2000
+582,Jumping,individual,X,Bronze,KSA,Equestrian,2000
+583,Golf,individual,X,Bronze,KSA,Golf,2000
+584,Roque,individual,X,Bronze,KSA,Roque,2000
+585,Jeu de Paume,individual,X,Bronze,KSA,Jeu de paume,2000
+586,Rackets,individual,X,Bronze,KSA,Rackets,2000
+587,Figure skating,individual,X,Bronze,KSA,Skating,2000
+588,Dressage,individual,X,Bronze,KSA,Equestrian,2000
+589,Eventing,individual,X,Bronze,KSA,Equestrian,2000
+590,Trampoline,individual,X,Bronze,KSA,Gymnastics,2000
+591,Shooting,double trap (150 targets),M,Bronze,KUW,Shooting,2000
+592,Athletics,50km walk,M,Silver,LAT,Athletics,1932
+593,Athletics,50km walk,M,Bronze,LAT,Athletics,1936
+594,Athletics,50km walk,M,Silver,LAT,Athletics,2000
+595,Wrestling Free.,79 - 87kg (light-heavyweight),M,Silver,LAT,Wrestling,1936
+596,Wrestling Gre-R,79 - 87kg (light-heavyweight),M,Silver,LAT,Wrestling,1936
+597,Shooting,25m rapid fire pistol (60 shots),M,Silver,LAT,Shooting,1992
+598,Canoe / Kayak F,C-1 1000m (canoe single),M,Silver,LAT,Canoe / Kayak,1992
+599,Canoe / Kayak F,C-1 1000m (canoe single),M,Silver,LAT,Canoe / Kayak,1996
+600,Cycling Road,individual road race,M,Bronze,LAT,Cycling,1992
+601,Judo,66 - 73kg (lightweight),M,Bronze,LAT,Judo,2000
+602,Wrestling Free.,52 - 57kg (bantamweight),M,Silver,LIB,Wrestling,1952
+603,Wrestling Gre-R,52 - 57kg (bantamweight),M,Silver,LIB,Wrestling,1952
+604,Wrestling Free.,67 - 73kg (welterweight),M,Bronze,LIB,Wrestling,1952
+605,Wrestling Gre-R,67 - 73kg (welterweight),M,Bronze,LIB,Wrestling,1952
+606,Weightlifting,"67.5 - 75kg, total (middleweight)",M,Silver,LIB,Weightlifting,1972
+607,Wrestling Free.,+ 100kg (super heavyweight),M,Bronze,LIB,Wrestling,1980
+608,Wrestling Gre-R,+ 100kg (super heavyweight),M,Bronze,LIB,Wrestling,1980
+609,Basketball,basketball,M,Bronze,LTU,Basketball,1992
+610,Basketball,basketball,M,Bronze,LTU,Basketball,1996
+611,Basketball,basketball,M,Bronze,LTU,Basketball,2000
+612,Athletics,discus throw,M,Gold,LTU,Athletics,1992
+613,Athletics,discus throw,M,Gold,LTU,Athletics,2000
+614,Athletics,discus throw,M,Gold,LTU,Athletics,2004
+615,Athletics,discus throw,M,Bronze,LTU,Athletics,2008
+616,Rowing,double sculls (2x),W,Bronze,LTU,Rowing,2000
+617,Cycling Road,individual road race,W,Bronze,LTU,Cycling,2000
+618,Shooting,trap (75 targets),W,Gold,LTU,Shooting,2000
+619,Weightlifting,"+ 82.5kg, one-two hand 3 events (heavyweight)",M,Silver,LUX,Weightlifting,1920
+620,Athletics,1500m,M,Gold,LUX,Athletics,1952
+621,Athletics,marathon,M,Silver,MAR,Athletics,1960
+622,Athletics,marathon,M,Silver,MAR,Athletics,2008
+623,Athletics,400m hurdles,W,Gold,MAR,Athletics,1984
+624,Athletics,400m hurdles,W,Bronze,MAR,Athletics,2000
+625,Cycling Track,5000m,M,Gold,MAR,Cycling,1984
+626,Athletics,5000m,M,Gold,MAR,Athletics,1984
+627,Cycling Track,5000m,M,Bronze,MAR,Cycling,1996
+628,Athletics,5000m,M,Bronze,MAR,Athletics,1996
+629,Cycling Track,5000m,M,Bronze,MAR,Cycling,2000
+630,Athletics,5000m,M,Bronze,MAR,Athletics,2000
+631,Tennis,doubles,M,Bronze,MAS,Tennis,1992
+632,Table Tennis,doubles,M,Bronze,MAS,Table Tennis,1992
+633,Badminton,doubles,M,Bronze,MAS,Badminton,1992
+634,Tennis,doubles,M,Silver,MAS,Tennis,1996
+635,Table Tennis,doubles,M,Silver,MAS,Table Tennis,1996
+636,Badminton,doubles,M,Silver,MAS,Badminton,1996
+637,Tennis,singles,M,Bronze,MAS,Tennis,1996
+638,Table Tennis,singles,M,Bronze,MAS,Table Tennis,1996
+639,Badminton,singles,M,Bronze,MAS,Badminton,1996
+640,Tennis,singles,M,Silver,MAS,Tennis,2008
+641,Wrestling Free.,100 - 130kg (super heavyweight),M,Bronze,MDA,Wrestling,1996
+642,Wrestling Gre-R,100 - 130kg (super heavyweight),M,Bronze,MDA,Wrestling,1996
+643,Canoe / Kayak F,C-2 500m (canoe double),M,Silver,MDA,Canoe / Kayak,1996
+644,Shooting,10m running target (30+30 shots),M,Silver,MDA,Shooting,2000
+645,Boxing,63.5 - 67kg (welterweight),M,Bronze,MDA,Boxing,2000
+646,Boxing,51 - 54kg (bantamweight),M,Bronze,MDA,Boxing,2008
+647,Boxing,- 50.8kg (flyweight),M,Silver,MEX,Boxing,1932
+648,Shooting,50m rifle prone (60 shots),M,Silver,MEX,Shooting,1932
+649,Boxing,50.8 - 54kg (bantamweight),M,Bronze,MEX,Boxing,1936
+650,Basketball,basketball,M,Bronze,MEX,Basketball,1936
+651,Polo,polo,M,Bronze,MEX,Polo,1936
+652,Diving,10m platform,M,Bronze,MEX,Aquatics,1948
+653,Diving,10m platform,M,Silver,MEX,Aquatics,1952
+654,Diving,10m platform,M,Gold,MEX,Aquatics,1956
+655,Diving,10m platform,M,Silver,MEX,Aquatics,1968
+656,Diving,10m platform,M,Bronze,MEX,Aquatics,1988
+657,Wrestling Free.,- 52kg (flyweight),M,Bronze,MGL,Wrestling,1968
+658,Wrestling Gre-R,- 52kg (flyweight),M,Bronze,MGL,Wrestling,1968
+659,Wrestling Free.,63 - 70kg (lightweight),M,Bronze,MGL,Wrestling,1968
+660,Wrestling Gre-R,63 - 70kg (lightweight),M,Bronze,MGL,Wrestling,1968
+661,Wrestling Free.,70 - 78kg (welterweight),M,Bronze,MGL,Wrestling,1968
+662,Wrestling Gre-R,70 - 78kg (welterweight),M,Bronze,MGL,Wrestling,1968
+663,Wrestling Free.,78 - 87kg (middleweight),M,Silver,MGL,Wrestling,1968
+664,Wrestling Gre-R,78 - 87kg (middleweight),M,Silver,MGL,Wrestling,1968
+665,Wrestling Free.,90 - 100kg (heavyweight),M,Silver,MGL,Wrestling,1972
+666,Wrestling Gre-R,90 - 100kg (heavyweight),M,Silver,MGL,Wrestling,1972
+667,Wrestling Free.,76 - 85kg,M,Bronze,MKD,Wrestling,2000
+668,Wrestling Gre-R,76 - 85kg,M,Bronze,MKD,Wrestling,2000
+669,Athletics,800m,W,Bronze,MOZ,Athletics,1996
+670,Athletics,800m,W,Gold,MOZ,Athletics,2000
+671,Boxing,51 - 54kg (bantamweight),M,Bronze,MRI,Boxing,2008
+672,Athletics,100m,M,Silver,NAM,Athletics,1992
+673,Athletics,100m,M,Silver,NAM,Athletics,1996
+674,Athletics,200m,M,Silver,NAM,Athletics,1992
+675,Athletics,200m,M,Silver,NAM,Athletics,1996
+676,Swimming,200m backstroke,M,Bronze,NED,Aquatics,1900
+677,Swimming,200m backstroke,W,Gold,NED,Aquatics,1984
+678,Shooting,"50m army pistol, team",M,Bronze,NED,Shooting,1900
+679,Rowing,eight with coxswain (8+),M,Bronze,NED,Rowing,1900
+680,Rowing,eight with coxswain (8+),W,Bronze,NED,Rowing,1984
+681,Rowing,eight with coxswain (8+),M,Gold,NED,Rowing,1996
+682,Rowing,eight with coxswain (8+),W,Silver,NED,Rowing,2000
+683,Rowing,eight with coxswain (8+),M,Silver,NED,Rowing,2004
+684,Rowing,eight with coxswain (8+),W,Bronze,NED,Rowing,2004
+685,Rowing,eight with coxswain (8+),W,Silver,NED,Rowing,2008
+686,Rowing,four-oared shell with coxswain (4-),M,Silver,NED,Rowing,1900
+687,Boxing,67 - 71kg (light-middleweight),M,Bronze,NGR,Boxing,1964
+688,Boxing,75 - 81kg (light-heavyweight),M,Bronze,NGR,Boxing,1972
+689,Athletics,4x400m relay,M,Bronze,NGR,Athletics,1984
+690,Athletics,4x400m relay,W,Silver,NGR,Athletics,1996
+691,Athletics,4x400m relay,M,Silver,NGR,Athletics,2000
+692,Athletics,4x400m relay,M,Bronze,NGR,Athletics,2004
+693,Boxing,54 - 57kg (featherweight),M,Silver,NGR,Boxing,1984
+694,Boxing,+ 91kg (super heavyweight),M,Silver,NGR,Boxing,1992
+695,Boxing,+ 91kg (super heavyweight),M,Bronze,NGR,Boxing,1996
+696,Athletics,4x100m relay,M,Silver,NGR,Athletics,1992
+697,Athletics,4x100m relay,W,Bronze,NGR,Athletics,1992
+698,Boxing,60 - 63.5kg (light-welterweight),M,Bronze,NIG,Boxing,1972
+699,Shooting,"army rifle, 300m, 3 positions",M,Bronze,NOR,Shooting,1900
+700,Shooting,"army rifle, 300m, 3 positions",M,Bronze,NOR,Shooting,1912
+701,Shooting,"army rifle, 300m, prone",M,Bronze,NOR,Shooting,1900
+702,Shooting,"army rifle, 300m, prone",M,Gold,NOR,Shooting,1920
+703,Shooting,"army rifle, 300m, standing",M,Silver,NOR,Shooting,1900
+704,Shooting,"free rifle, team",M,Silver,NOR,Shooting,1900
+705,Shooting,"free rifle, team",M,Gold,NOR,Shooting,1908
+706,Shooting,"free rifle, team",M,Silver,NOR,Shooting,1912
+707,Shooting,"free rifle, team",M,Silver,NOR,Shooting,1920
+708,Athletics,pole vault,M,Bronze,NOR,Athletics,1900
+709,Rowing,single sculls (1x),M,Bronze,NZL,Rowing,1920
+710,Rowing,single sculls (1x),M,Bronze,NZL,Rowing,1988
+711,Rowing,single sculls (1x),M,Gold,NZL,Rowing,2000
+712,Rowing,single sculls (1x),M,Bronze,NZL,Rowing,2008
+713,Athletics,100m,M,Bronze,NZL,Athletics,1924
+714,Boxing,61.24 - 66.68kg (welterweight),M,Gold,NZL,Boxing,1928
+715,Rowing,coxless pair (2-),M,Silver,NZL,Rowing,1932
+716,Rowing,coxless pair (2-),M,Bronze,NZL,Rowing,2008
+717,Athletics,1500m,M,Gold,NZL,Athletics,1936
+718,Athletics,1500m,M,Bronze,NZL,Athletics,1964
+719,Athletics,1500m,M,Gold,NZL,Athletics,1964
+720,Hockey,hockey,M,Silver,PAK,Hockey,1956
+721,Hockey,hockey,M,Gold,PAK,Hockey,1960
+722,Hockey,hockey,M,Silver,PAK,Hockey,1964
+723,Hockey,hockey,M,Gold,PAK,Hockey,1968
+724,Hockey,hockey,M,Silver,PAK,Hockey,1972
+725,Hockey,hockey,M,Bronze,PAK,Hockey,1976
+726,Hockey,hockey,M,Gold,PAK,Hockey,1984
+727,Hockey,hockey,M,Bronze,PAK,Hockey,1992
+728,Wrestling Free.,67 - 73kg (welterweight),M,Bronze,PAK,Wrestling,1960
+729,Wrestling Gre-R,67 - 73kg (welterweight),M,Bronze,PAK,Wrestling,1960
+730,Athletics,100m,M,Bronze,PAN,Athletics,1948
+731,Athletics,200m,M,Bronze,PAN,Athletics,1948
+732,Athletics,long jump,M,Gold,PAN,Athletics,2008
+733,Football,football,M,Silver,PAR,Football,2004
+734,Shooting,50m pistol (60 shots),M,Gold,PER,Shooting,1948
+735,Shooting,trap (125 targets),X,Silver,PER,Shooting,1984
+736,Volleyball,volleyball,W,Silver,PER,Volleyball,1988
+737,Shooting,skeet (125 targets),X,Silver,PER,Shooting,1992
+738,Swimming,200m breaststroke,M,Bronze,PHI,Aquatics,1928
+739,Swimming,200m breaststroke,M,Bronze,PHI,Aquatics,1932
+740,Boxing,50.8 - 54kg (bantamweight),M,Bronze,PHI,Boxing,1932
+741,Athletics,high jump,M,Bronze,PHI,Athletics,1932
+742,Jumping,high jump,M,Bronze,PHI,Equestrian,1932
+743,Athletics,400m hurdles,M,Bronze,PHI,Athletics,1936
+744,Boxing,54 - 57kg (featherweight),M,Silver,PHI,Boxing,1964
+745,Boxing,- 48kg (light-flyweight),M,Bronze,PHI,Boxing,1988
+746,Wrestling Free.,- 48kg (light-flyweight),M,Bronze,PHI,Wrestling,1988
+747,Wrestling Gre-R,- 48kg (light-flyweight),M,Bronze,PHI,Wrestling,1988
+748,Cycling Track,Team Pursuit (4000m),M,Silver,POL,Cycling,1924
+749,Jumping,individual,X,Bronze,POL,Equestrian,1924
+750,Golf,individual,X,Bronze,POL,Golf,1924
+751,Roque,individual,X,Bronze,POL,Roque,1924
+752,Jeu de Paume,individual,X,Bronze,POL,Jeu de paume,1924
+753,Rackets,individual,X,Bronze,POL,Rackets,1924
+754,Figure skating,individual,X,Bronze,POL,Skating,1924
+755,Dressage,individual,X,Bronze,POL,Equestrian,1924
+756,Eventing,individual,X,Bronze,POL,Equestrian,1924
+757,Trampoline,individual,X,Bronze,POL,Gymnastics,1924
+758,Golf,team,X,Bronze,POR,Golf,1924
+759,Eventing,team,X,Bronze,POR,Equestrian,1924
+760,Jumping,team,X,Bronze,POR,Equestrian,1924
+761,Dressage,team,X,Bronze,POR,Equestrian,1924
+762,Synchronized S.,team,X,Bronze,POR,Aquatics,1924
+763,Table Tennis,team,X,Bronze,POR,Table Tennis,1924
+764,Golf,team,X,Bronze,POR,Golf,1936
+765,Eventing,team,X,Bronze,POR,Equestrian,1936
+766,Jumping,team,X,Bronze,POR,Equestrian,1936
+767,Dressage,team,X,Bronze,POR,Equestrian,1936
+768,Boxing,- 48kg (light-flyweight),M,Silver,PRK,Boxing,1972
+769,Wrestling Free.,- 48kg (light-flyweight),M,Silver,PRK,Wrestling,1972
+770,Wrestling Gre-R,- 48kg (light-flyweight),M,Silver,PRK,Wrestling,1972
+771,Boxing,- 48kg (light-flyweight),M,Silver,PRK,Boxing,1976
+772,Wrestling Free.,- 48kg (light-flyweight),M,Silver,PRK,Wrestling,1976
+773,Wrestling Gre-R,- 48kg (light-flyweight),M,Silver,PRK,Wrestling,1976
+774,Boxing,- 48kg (light-flyweight),M,Bronze,PRK,Boxing,1980
+775,Boxing,- 48kg (light-flyweight),M,Silver,PRK,Boxing,1980
+776,Wrestling Free.,- 48kg (light-flyweight),M,Bronze,PRK,Wrestling,1980
+777,Wrestling Free.,- 48kg (light-flyweight),M,Silver,PRK,Wrestling,1980
+778,Wrestling Gre-R,- 48kg (light-flyweight),M,Bronze,PRK,Wrestling,1980
+779,Wrestling Gre-R,- 48kg (light-flyweight),M,Silver,PRK,Wrestling,1980
+780,Boxing,- 48kg (light-flyweight),M,Gold,PRK,Boxing,1992
+781,Boxing,51 - 54kg (bantamweight),M,Bronze,PUR,Boxing,1948
+782,Boxing,- 48kg (light-flyweight),M,Bronze,PUR,Boxing,1976
+783,Wrestling Free.,- 48kg (light-flyweight),M,Bronze,PUR,Wrestling,1976
+784,Wrestling Gre-R,- 48kg (light-flyweight),M,Bronze,PUR,Wrestling,1976
+785,Boxing,57 - 60kg (lightweight),M,Silver,PUR,Boxing,1984
+786,Boxing,71-75kg,M,Bronze,PUR,Boxing,1984
+787,Boxing,63.5 - 67kg (welterweight),M,Bronze,PUR,Boxing,1992
+788,Boxing,63.5 - 67kg (welterweight),M,Bronze,PUR,Boxing,1996
+789,Athletics,1500m,M,Bronze,QAT,Athletics,1992
+790,Weightlifting,105kg,M,Bronze,QAT,Weightlifting,2000
+791,Rugby,rugby,M,Bronze,ROU,Rugby,1924
+792,Jumping,individual,X,Silver,ROU,Equestrian,1936
+793,Golf,individual,X,Silver,ROU,Golf,1936
+794,Roque,individual,X,Silver,ROU,Roque,1936
+795,Jeu de Paume,individual,X,Silver,ROU,Jeu de paume,1936
+796,Rackets,individual,X,Silver,ROU,Rackets,1936
+797,Figure skating,individual,X,Silver,ROU,Skating,1936
+798,Dressage,individual,X,Silver,ROU,Equestrian,1936
+799,Eventing,individual,X,Silver,ROU,Equestrian,1936
+800,Trampoline,individual,X,Silver,ROU,Gymnastics,1936
+801,Athletics,100m,M,Gold,RSA,Athletics,1908
+802,Athletics,100m,W,Silver,RSA,Athletics,1952
+803,Athletics,marathon,M,Silver,RSA,Athletics,1908
+804,Athletics,marathon,M,Gold,RSA,Athletics,1912
+805,Athletics,marathon,M,Silver,RSA,Athletics,1912
+806,Athletics,marathon,M,Gold,RSA,Athletics,1996
+807,Tennis,doubles,M,Gold,RSA,Tennis,1912
+808,Table Tennis,doubles,M,Gold,RSA,Table Tennis,1912
+809,Badminton,doubles,M,Gold,RSA,Badminton,1912
+810,Tennis,doubles,M,Silver,RSA,Tennis,1992
+811,Table Tennis,doubles,M,Silver,RSA,Table Tennis,1992
+812,Wrestling Gre-R,+ 93kg (super heavyweight),M,Silver,RU1,Wrestling,1908
+813,Wrestling Gre-R,- 66.6kg (lightweight),M,Silver,RU1,Wrestling,1908
+814,Figure skating,special figures,M,Gold,RU1,Skating,1908
+815,Sailing,10m,X,Bronze,RU1,Sailing,1912
+816,Shooting,"30m army pistol, team",M,Silver,RU1,Shooting,1912
+817,Wrestling Gre-R,67.5 - 75kg (middleweight),M,Silver,RU1,Wrestling,1912
+818,Wrestling Free.,67.5 - 75kg (middleweight),M,Silver,RU1,Wrestling,1912
+819,Rowing,single sculls (1x),M,Bronze,RU1,Rowing,1912
+820,Shooting,trap (125 targets),M,Bronze,RU1,Shooting,1912
+821,Weightlifting,"+ 108kg, total (super heavyweight)",M,Gold,RUS,Weightlifting,1996
+822,Boxing,+ 91kg (super heavyweight),M,Bronze,RUS,Boxing,1996
+823,Boxing,+ 91kg (super heavyweight),M,Gold,RUS,Boxing,2004
+824,Boxing,- 48kg (light-flyweight),M,Bronze,RUS,Boxing,1996
+825,Wrestling Free.,- 48kg (light-flyweight),M,Bronze,RUS,Wrestling,1996
+826,Wrestling Gre-R,- 48kg (light-flyweight),M,Bronze,RUS,Wrestling,1996
+827,Wrestling Free.,100 - 130kg (super heavyweight),M,Gold,RUS,Wrestling,1996
+828,Wrestling Gre-R,100 - 130kg (super heavyweight),M,Gold,RUS,Wrestling,1996
+829,Athletics,10000m walk,W,Gold,RUS,Athletics,1996
+830,Swimming,100m butterfly,M,Bronze,RUS,Aquatics,1996
+831,Swimming,100m butterfly,M,Gold,RUS,Aquatics,1996
+832,Shooting,10m air pistol (40 shots),W,Silver,SCG,Shooting,2004
+833,Water polo,water polo,M,Silver,SCG,Aquatics,2004
+834,Athletics,400m hurdles,M,Silver,SEN,Athletics,1988
+835,Weightlifting,"60 - 67.5kg, total (lightweight)",M,Silver,SIN,Weightlifting,1960
+836,Golf,team,W,Silver,SIN,Golf,2008
+837,Eventing,team,W,Silver,SIN,Equestrian,2008
+838,Jumping,team,W,Silver,SIN,Equestrian,2008
+839,Dressage,team,W,Silver,SIN,Equestrian,2008
+840,Synchronized S.,team,W,Silver,SIN,Aquatics,2008
+841,Table Tennis,team,W,Silver,SIN,Table Tennis,2008
+842,Rowing,coxless pair (2-),M,Bronze,SLO,Rowing,1992
+843,Rowing,four without coxswain (4-),M,Bronze,SLO,Rowing,1992
+844,Athletics,100m hurdles,W,Silver,SLO,Athletics,1996
+845,Canoe / Kayak S,K-1 (kayak single),M,Silver,SLO,Canoe / Kayak,1996
+846,Shooting,50m rifle 3 positions (3x40 shots),M,Gold,SLO,Shooting,2000
+847,Shooting,50m rifle 3 positions (3x40 shots),M,Bronze,SLO,Shooting,2008
+848,Rowing,double sculls (2x),M,Gold,SLO,Rowing,2000
+849,Rowing,double sculls (2x),M,Silver,SLO,Rowing,2004
+850,Judo,57 - 63kg (half-middleweight),W,Bronze,SLO,Judo,2004
+851,Athletics,800m,W,Bronze,SLO,Athletics,2004
+852,Swimming,100m butterfly,M,Silver,SRB,Aquatics,2008
+853,Tennis,singles,M,Bronze,SRB,Tennis,2008
+854,Table Tennis,singles,M,Bronze,SRB,Table Tennis,2008
+855,Badminton,singles,M,Bronze,SRB,Badminton,2008
+856,Water polo,water polo,M,Bronze,SRB,Aquatics,2008
+857,Athletics,400m hurdles,M,Silver,SRI,Athletics,1948
+858,Athletics,200m,W,Silver,SRI,Athletics,2000
+859,Athletics,800m,M,Silver,SUD,Athletics,2008
+860,Artistic G.,parallel bars,M,Silver,SUI,Gymnastics,1896
+861,Artistic G.,parallel bars,M,Gold,SUI,Gymnastics,1924
+862,Artistic G.,parallel bars,M,Bronze,SUI,Gymnastics,1928
+863,Artistic G.,parallel bars,M,Silver,SUI,Gymnastics,1936
+864,Artistic G.,parallel bars,M,Bronze,SUI,Gymnastics,1948
+865,Artistic G.,parallel bars,M,Gold,SUI,Gymnastics,1948
+866,Artistic G.,parallel bars,M,Bronze,SUI,Gymnastics,1952
+867,Artistic G.,parallel bars,M,Gold,SUI,Gymnastics,1952
+868,Artistic G.,pommel horse,M,Gold,SUI,Gymnastics,1896
+869,Artistic G.,pommel horse,M,Bronze,SUI,Gymnastics,1924
+870,Artistic G.,pommel horse,M,Gold,SUI,Gymnastics,1924
+871,Artistic G.,pommel horse,M,Silver,SUI,Gymnastics,1924
+872,Artistic G.,pommel horse,M,Gold,SUI,Gymnastics,1928
+873,Artistic G.,pommel horse,M,Silver,SUI,Gymnastics,1928
+874,Artistic G.,pommel horse,M,Bronze,SUI,Gymnastics,1936
+875,Artistic G.,pommel horse,M,Silver,SUI,Gymnastics,1936
+876,Swimming,100m butterfly,M,Gold,SUR,Aquatics,1988
+877,Swimming,100m butterfly,M,Bronze,SUR,Aquatics,1992
+878,Shooting,50m rifle prone (60 shots),M,Bronze,SVK,Shooting,1996
+879,Canoe / Kayak S,C-1 (canoe single),M,Gold,SVK,Canoe / Kayak,1996
+880,Canoe / Kayak S,C-1 (canoe single),M,Bronze,SVK,Canoe / Kayak,2000
+881,Canoe / Kayak S,C-1 (canoe single),M,Silver,SVK,Canoe / Kayak,2000
+882,Canoe / Kayak S,C-1 (canoe single),M,Silver,SVK,Canoe / Kayak,2004
+883,Canoe / Kayak S,C-1 (canoe single),M,Gold,SVK,Canoe / Kayak,2008
+884,Canoe / Kayak F,C-1 500m (canoe single),M,Silver,SVK,Canoe / Kayak,1996
+885,Swimming,100m butterfly,W,Silver,SVK,Aquatics,2000
+886,Swimming,200m freestyle,W,Silver,SVK,Aquatics,2000
+887,Canoe / Kayak S,C-2 (canoe double),M,Gold,SVK,Canoe / Kayak,2000
+888,Canoe / Kayak S,C-2 (canoe double),M,Gold,SVK,Canoe / Kayak,2004
+889,Athletics,marathon,M,Bronze,SWE,Athletics,1900
+890,Athletics,marathon,M,Bronze,SWE,Athletics,1952
+891,Swimming,100m freestyle,M,Bronze,SWE,Aquatics,1908
+892,Swimming,100m freestyle,M,Bronze,SWE,Aquatics,1952
+893,Swimming,100m freestyle,M,Bronze,SWE,Aquatics,1980
+894,Swimming,100m freestyle,M,Silver,SWE,Aquatics,1980
+895,Swimming,100m freestyle,M,Bronze,SWE,Aquatics,1984
+896,Swimming,100m freestyle,W,Silver,SWE,Aquatics,2000
+897,Shooting,"100m running deer, double shots",M,Bronze,SWE,Shooting,1908
+898,Shooting,"100m running deer, double shots",M,Bronze,SWE,Shooting,1912
+899,Shooting,"100m running deer, double shots",M,Gold,SWE,Shooting,1912
+900,Shooting,"100m running deer, double shots",M,Silver,SWE,Shooting,1912
+901,Shooting,"100m running deer, double shots",M,Silver,SWE,Shooting,1920
+902,Wrestling Free.,90 - 100kg (heavyweight),M,Silver,SYR,Wrestling,1984
+903,Wrestling Gre-R,90 - 100kg (heavyweight),M,Silver,SYR,Wrestling,1984
+904,Athletics,heptathlon,W,Gold,SYR,Athletics,1996
+905,Boxing,81 - 91kg (heavyweight),M,Bronze,SYR,Boxing,2004
+906,Athletics,3000m steeplechase,M,Silver,TAN,Athletics,1980
+907,Cycling Track,5000m,M,Silver,TAN,Cycling,1980
+908,Athletics,5000m,M,Silver,TAN,Athletics,1980
+909,Ice Hockey,ice hockey,M,Bronze,TCH,Ice Hockey,1920
+910,Tennis,mixed doubles,X,Bronze,TCH,Tennis,1920
+911,Weightlifting,"60 - 67.5kg, one-two hand 5 events (lightweight)",M,Bronze,TCH,Weightlifting,1924
+912,Artistic G.,individual all-round,M,Bronze,TCH,Gymnastics,1924
+913,Artistic G.,individual all-round,M,Silver,TCH,Gymnastics,1924
+914,Rhythmic G.,individual all-round,M,Bronze,TCH,Gymnastics,1924
+915,Rhythmic G.,individual all-round,M,Silver,TCH,Gymnastics,1924
+916,Artistic G.,individual all-round,W,Gold,TCH,Gymnastics,1964
+917,Rhythmic G.,individual all-round,W,Gold,TCH,Gymnastics,1964
+918,Artistic G.,individual all-round,W,Gold,TCH,Gymnastics,1968
+919,Rhythmic G.,individual all-round,W,Gold,TCH,Gymnastics,1968
+920,Artistic G.,parallel bars,M,Silver,TCH,Gymnastics,1924
+921,Boxing,+ 91kg (super heavyweight),M,Silver,TGA,Boxing,1996
+922,Boxing,- 48kg (light-flyweight),M,Bronze,THA,Boxing,1976
+923,Wrestling Free.,- 48kg (light-flyweight),M,Bronze,THA,Wrestling,1976
+924,Wrestling Gre-R,- 48kg (light-flyweight),M,Bronze,THA,Wrestling,1976
+925,Boxing,60 - 63.5kg (light-welterweight),M,Silver,THA,Boxing,1984
+926,Boxing,51 - 54kg (bantamweight),M,Bronze,THA,Boxing,1988
+927,Boxing,51 - 54kg (bantamweight),M,Bronze,THA,Boxing,1996
+928,Boxing,51 - 54kg (bantamweight),M,Silver,THA,Boxing,2004
+929,Boxing,63.5 - 67kg (welterweight),M,Bronze,THA,Boxing,1992
+930,Boxing,54 - 57kg (featherweight),M,Gold,THA,Boxing,1996
+931,Boxing,48 - 51kg (flyweight),M,Gold,THA,Boxing,2000
+932,Judo,66 - 73kg (lightweight),M,Bronze,TJK,Judo,2008
+933,Wrestling Free.,74 - 84kg,M,Silver,TJK,Wrestling,2008
+934,Wrestling Gre-R,74 - 84kg,M,Silver,TJK,Wrestling,2008
+935,Canoe / Kayak S,K-1 (kayak single),M,Bronze,TOG,Canoe / Kayak,2008
+936,Athletics,decathlon,M,Silver,TPE,Athletics,1960
+937,Athletics,80m hurdles,W,Bronze,TPE,Athletics,1968
+938,Weightlifting,"56 - 60kg, total (featherweight)",M,Bronze,TPE,Weightlifting,1984
+939,Baseball,baseball,M,Silver,TPE,Baseball,1992
+940,Tennis,singles,W,Silver,TPE,Tennis,1996
+941,Table Tennis,singles,W,Silver,TPE,Table Tennis,1996
+942,Badminton,singles,W,Silver,TPE,Badminton,1996
+943,Tennis,singles,W,Bronze,TPE,Tennis,2000
+944,Table Tennis,singles,W,Bronze,TPE,Table Tennis,2000
+945,Badminton,singles,W,Bronze,TPE,Badminton,2000
+946,Weightlifting,"56 - 60kg, total (featherweight)",M,Silver,TRI,Weightlifting,1948
+947,Weightlifting,"56 - 60kg, total (featherweight)",M,Bronze,TRI,Weightlifting,1952
+948,Weightlifting,"82.5 - 90kg, total (middle-heavyweight)",M,Bronze,TRI,Weightlifting,1952
+949,Athletics,200m,M,Bronze,TRI,Athletics,1964
+950,Athletics,200m,M,Bronze,TRI,Athletics,1996
+951,Athletics,200m,M,Bronze,TRI,Athletics,2000
+952,Athletics,400m,M,Silver,TRI,Athletics,1964
+953,Athletics,4x400m relay,M,Bronze,TRI,Athletics,1964
+954,Athletics,100m,M,Gold,TRI,Athletics,1976
+955,Athletics,100m,M,Bronze,TRI,Athletics,1996
+956,Athletics,10000m,M,Silver,TUN,Athletics,1964
+957,Athletics,10000m,M,Bronze,TUN,Athletics,1968
+958,Boxing,60 - 63.5kg (light-welterweight),M,Bronze,TUN,Boxing,1964
+959,Boxing,60 - 63.5kg (light-welterweight),M,Bronze,TUN,Boxing,1996
+960,Cycling Track,5000m,M,Gold,TUN,Cycling,1968
+961,Athletics,5000m,M,Gold,TUN,Athletics,1968
+962,Cycling Track,5000m,M,Silver,TUN,Cycling,1972
+963,Athletics,5000m,M,Silver,TUN,Athletics,1972
+964,Swimming,1500m freestyle,M,Gold,TUN,Aquatics,2008
+965,Wrestling Free.,56 - 61kg (featherweight),M,Gold,TUR,Wrestling,1936
+966,Wrestling Gre-R,56 - 61kg (featherweight),M,Gold,TUR,Wrestling,1936
+967,Wrestling Free.,72 - 79kg (middleweight),M,Bronze,TUR,Wrestling,1936
+968,Wrestling Gre-R,72 - 79kg (middleweight),M,Bronze,TUR,Wrestling,1936
+969,Wrestling Gre-R,+ 87kg (super heavyweight),M,Gold,TUR,Wrestling,1948
+970,Wrestling Free.,- 52kg (flyweight),M,Silver,TUR,Wrestling,1948
+971,Wrestling Gre-R,- 52kg (flyweight),M,Silver,TUR,Wrestling,1948
+972,Wrestling Free.,- 52kg (flyweight),M,Gold,TUR,Wrestling,1952
+973,Wrestling Gre-R,- 52kg (flyweight),M,Gold,TUR,Wrestling,1952
+974,Wrestling Free.,- 52kg (flyweight),M,Bronze,TUR,Wrestling,1956
+975,Shooting,double trap (150 targets),M,Gold,UAE,Shooting,2004
+976,Boxing,48 - 51kg (flyweight),M,Bronze,UGA,Boxing,1968
+977,Boxing,48 - 51kg (flyweight),M,Silver,UGA,Boxing,1972
+978,Boxing,51 - 54kg (bantamweight),M,Silver,UGA,Boxing,1968
+979,Athletics,400m hurdles,M,Gold,UGA,Athletics,1972
+980,Boxing,63.5 - 67kg (welterweight),M,Silver,UGA,Boxing,1980
+981,Athletics,400m,M,Bronze,UGA,Athletics,1996
+982,Boxing,+ 91kg (super heavyweight),M,Gold,UKR,Boxing,1996
+983,Boxing,+ 91kg (super heavyweight),M,Bronze,UKR,Boxing,2008
+984,Boxing,- 48kg (light-flyweight),M,Bronze,UKR,Boxing,1996
+985,Wrestling Free.,- 48kg (light-flyweight),M,Bronze,UKR,Wrestling,1996
+986,Wrestling Gre-R,- 48kg (light-flyweight),M,Bronze,UKR,Wrestling,1996
+987,Sailing,470 - Two Person Dinghy,M,Gold,UKR,Sailing,1996
+988,Sailing,470 - Two Person Dinghy,W,Bronze,UKR,Sailing,1996
+989,Sailing,470 - Two Person Dinghy,W,Bronze,UKR,Sailing,2000
+990,Wrestling Free.,48 - 52kg (flyweight),M,Bronze,UKR,Wrestling,1996
+991,Wrestling Gre-R,48 - 52kg (flyweight),M,Bronze,UKR,Wrestling,1996
+992,Wrestling Free.,57 - 62kg (featherweight),M,Bronze,UKR,Wrestling,1996
+993,Wrestling Free.,+ 87kg (heavyweight),M,Gold,URS,Wrestling,1952
+994,Wrestling Free.,+ 87kg (heavyweight),M,Bronze,URS,Wrestling,1960
+995,Wrestling Gre-R,+ 87kg (super heavyweight),M,Gold,URS,Wrestling,1952
+996,Wrestling Gre-R,+ 87kg (super heavyweight),M,Gold,URS,Wrestling,1956
+997,Wrestling Gre-R,+ 87kg (super heavyweight),M,Gold,URS,Wrestling,1960
+998,Boxing,- 51kg (flyweight),M,Bronze,URS,Boxing,1952
+999,Boxing,- 51kg (flyweight),M,Silver,URS,Boxing,1960
+1000,Boxing,- 51kg (flyweight),M,Bronze,URS,Boxing,1964
+1001,Wrestling Free.,- 52kg (flyweight),M,Gold,URS,Wrestling,1952
+1002,Wrestling Gre-R,- 52kg (flyweight),M,Gold,URS,Wrestling,1952
+1003,Football,football,M,Gold,URU,Football,1924
+1004,Football,football,M,Gold,URU,Football,1928
+1005,Rowing,single sculls (1x),M,Bronze,URU,Rowing,1932
+1006,Rowing,single sculls (1x),M,Silver,URU,Rowing,1948
+1007,Rowing,double sculls (2x),M,Bronze,URU,Rowing,1948
+1008,Rowing,double sculls (2x),M,Bronze,URU,Rowing,1952
+1009,Basketball,basketball,M,Bronze,URU,Basketball,1952
+1010,Basketball,basketball,M,Bronze,URU,Basketball,1956
+1011,Boxing,51 - 54kg (bantamweight),M,Bronze,URU,Boxing,1964
+1012,Cycling Track,Points Race,M,Silver,URU,Cycling,2000
+1013,Athletics,100m,M,Bronze,USA,Athletics,1896
+1014,Athletics,100m,M,Gold,USA,Athletics,1896
+1015,Athletics,100m,M,Gold,USA,Athletics,1900
+1016,Athletics,100m,M,Silver,USA,Athletics,1900
+1017,Athletics,100m,M,Bronze,USA,Athletics,1904
+1018,Athletics,100m,M,Gold,USA,Athletics,1904
+1019,Athletics,100m,M,Silver,USA,Athletics,1904
+1020,Athletics,100m,M,Silver,USA,Athletics,1908
+1021,Athletics,100m,M,Bronze,USA,Athletics,1912
+1022,Athletics,100m,M,Gold,USA,Athletics,1912
+1023,Athletics,100m,M,Silver,USA,Athletics,1912
+1024,Athletics,100m,M,Gold,USA,Athletics,1920
+1025,Athletics,100m,M,Silver,USA,Athletics,1920
+1026,Athletics,100m,M,Silver,USA,Athletics,1924
+1027,Athletics,100m,W,Gold,USA,Athletics,1928
+1028,Athletics,100m,M,Gold,USA,Athletics,1932
+1029,Athletics,100m,M,Silver,USA,Athletics,1932
+1030,Athletics,100m,W,Bronze,USA,Athletics,1932
+1031,Athletics,100m,M,Gold,USA,Athletics,1936
+1032,Athletics,100m,M,Silver,USA,Athletics,1936
+1033,Athletics,100m,W,Gold,USA,Athletics,1936
+1034,Boxing,67 - 71kg (light-middleweight),M,Bronze,UZB,Boxing,1996
+1035,Judo,81 - 90kg (middleweight),M,Silver,UZB,Judo,1996
+1036,Boxing,+ 91kg (super heavyweight),M,Bronze,UZB,Boxing,2000
+1037,Boxing,60 - 63.5kg (light-welterweight),M,Gold,UZB,Boxing,2000
+1038,Boxing,75 - 81kg (light-heavyweight),M,Bronze,UZB,Boxing,2000
+1039,Boxing,75 - 81kg (light-heavyweight),M,Bronze,UZB,Boxing,2004
+1040,Wrestling Free.,97 - 130kg,M,Silver,UZB,Wrestling,2000
+1041,Wrestling Gre-R,97 - 130kg,M,Silver,UZB,Wrestling,2000
+1042,Boxing,51 - 54kg (bantamweight),M,Bronze,UZB,Boxing,2004
+1043,Wrestling Free.,66 - 74kg,M,Gold,UZB,Wrestling,2004
+1044,Athletics,triple jump,M,Bronze,VEN,Athletics,1952
+1045,Shooting,50m rifle prone (60 shots),M,Bronze,VEN,Shooting,1960
+1046,Boxing,- 48kg (light-flyweight),M,Gold,VEN,Boxing,1968
+1047,Wrestling Free.,- 48kg (light-flyweight),M,Gold,VEN,Wrestling,1968
+1048,Wrestling Gre-R,- 48kg (light-flyweight),M,Gold,VEN,Wrestling,1968
+1049,Boxing,- 48kg (light-flyweight),M,Bronze,VEN,Boxing,1984
+1050,Wrestling Free.,- 48kg (light-flyweight),M,Bronze,VEN,Wrestling,1984
+1051,Wrestling Gre-R,- 48kg (light-flyweight),M,Bronze,VEN,Wrestling,1984
+1052,Boxing,63.5 - 67kg (welterweight),M,Silver,VEN,Boxing,1976
+1053,Boxing,51 - 54kg (bantamweight),M,Silver,VEN,Boxing,1980
+1054,Taekwondo,49 - 57 kg,W,Silver,VIE,Taekwondo,2000
+1055,Weightlifting,"- 56kg, total (bantamweight)",M,Silver,VIE,Weightlifting,2008
+1056,Artistic G.,horizontal bar,M,Gold,YUG,Gymnastics,1924
+1057,Artistic G.,horizontal bar,M,Bronze,YUG,Gymnastics,1964
+1058,Artistic G.,individual all-round,M,Gold,YUG,Gymnastics,1924
+1059,Rhythmic G.,individual all-round,M,Gold,YUG,Gymnastics,1924
+1060,Artistic G.,individual all-round,M,Bronze,YUG,Gymnastics,1928
+1061,Rhythmic G.,individual all-round,M,Bronze,YUG,Gymnastics,1928
+1062,Artistic G.,parallel bars,M,Silver,YUG,Gymnastics,1928
+1063,Artistic G.,rings,M,Gold,YUG,Gymnastics,1928
+1064,Artistic G.,rings,M,Silver,YUG,Gymnastics,1936
+1065,Artistic G.,team competition,M,Bronze,YUG,Gymnastics,1928
+1066,Boxing,- 48kg (light-flyweight),M,Bronze,ZAM,Boxing,1984
+1067,Wrestling Free.,- 48kg (light-flyweight),M,Bronze,ZAM,Wrestling,1984
+1068,Wrestling Gre-R,- 48kg (light-flyweight),M,Bronze,ZAM,Wrestling,1984
+1069,Athletics,400m hurdles,M,Silver,ZAM,Athletics,1996
+1070,Hockey,hockey,W,Gold,ZIM,Hockey,1980
+1071,Swimming,100m backstroke,W,Silver,ZIM,Aquatics,2004
+1072,Swimming,100m backstroke,W,Silver,ZIM,Aquatics,2008
+1073,Swimming,200m backstroke,W,Gold,ZIM,Aquatics,2004
+1074,Swimming,200m backstroke,W,Gold,ZIM,Aquatics,2008
+1075,Swimming,200m individual medley,W,Bronze,ZIM,Aquatics,2004
+1076,Swimming,200m individual medley,W,Silver,ZIM,Aquatics,2008
+1077,Swimming,400m individual medley,W,Silver,ZIM,Aquatics,2008
+1078,Tennis,doubles,M,Bronze,ZZX,Tennis,1896
+1079,Tennis,doubles,M,Gold,ZZX,Tennis,1896
+1080,Tennis,doubles,M,Silver,ZZX,Tennis,1896
+1081,Table Tennis,doubles,M,Bronze,ZZX,Table Tennis,1896
+1082,Table Tennis,doubles,M,Gold,ZZX,Table Tennis,1896
+1083,Table Tennis,doubles,M,Silver,ZZX,Table Tennis,1896
+1084,Badminton,doubles,M,Bronze,ZZX,Badminton,1896
+1085,Badminton,doubles,M,Gold,ZZX,Badminton,1896
+1086,Badminton,doubles,M,Silver,ZZX,Badminton,1896
+1087,Tennis,doubles,M,Silver,ZZX,Tennis,1900
+1088,Table Tennis,doubles,M,Silver,ZZX,Table Tennis,1900
+1089,Badminton,doubles,M,Silver,ZZX,Badminton,1900
+1090,Athletics,5000m team,M,Gold,ZZX,Athletics,1900
+1091,Tennis,mixed doubles,X,Bronze,ZZX,Tennis,1900
+1092,Tennis,mixed doubles,X,Silver,ZZX,Tennis,1900
+1093,Rowing,pair-oared shell with coxswain (2+),M,Gold,ZZX,Rowing,1900
+1094,Polo,polo,M,Bronze,ZZX,Polo,1900
+1095,Polo,polo,M,Gold,ZZX,Polo,1900
+1096,Polo,polo,M,Silver,ZZX,Polo,1900
+1097,Diving,10m platform,M,Bronze,GBR,Aquatics,2012
+1098,Diving,10m platform,M,Gold,USA,Aquatics,2012
+1099,Diving,10m platform,M,Silver,CHN,Aquatics,2012
+1100,Diving,10m platform,W,Bronze,MAS,Aquatics,2012
+1101,Diving,10m platform,W,Gold,CHN,Aquatics,2012
+1102,Diving,10m platform,W,Silver,AUS,Aquatics,2012
+1103,Diving,3m springboard,M,Bronze,CHN,Aquatics,2012
+1104,Diving,3m springboard,M,Gold,RUS,Aquatics,2012
+1105,Diving,3m springboard,M,Silver,CHN,Aquatics,2012
+1106,Diving,3m springboard,W,Bronze,MEX,Aquatics,2012
+1107,Diving,3m springboard,W,Gold,CHN,Aquatics,2012
+1108,Diving,3m springboard,W,Silver,CHN,Aquatics,2012
+1109,Diving,synchronized 10m,M,Bronze,USA,Aquatics,2012
+1110,Diving,synchronized 10m,M,Gold,CHN,Aquatics,2012
+1111,Diving,synchronized 10m,M,Silver,MEX,Aquatics,2012
+1112,Diving,synchronized 10m,W,Bronze,CAN,Aquatics,2012
+1113,Diving,synchronized 10m,W,Gold,CHN,Aquatics,2012
+1114,Diving,synchronized 10m,W,Silver,MEX,Aquatics,2012
+1115,Diving,synchronized 3m,M,Bronze,USA,Aquatics,2012
+1116,Diving,synchronized 3m,M,Gold,CHN,Aquatics,2012
+1117,Diving,synchronized 3m,M,Silver,RUS,Aquatics,2012
+1118,Diving,synchronized 3m,W,Bronze,CAN,Aquatics,2012
+1119,Diving,synchronized 3m,W,Gold,CHN,Aquatics,2012
+1120,Diving,synchronized 3m,W,Silver,USA,Aquatics,2012
+1121,Swimming,100m backstroke,M,Bronze,JPN,Aquatics,2012
+1122,Swimming,100m backstroke,M,Gold,USA,Aquatics,2012
+1123,Swimming,100m backstroke,M,Silver,USA,Aquatics,2012
+1124,Swimming,100m backstroke,W,Bronze,JPN,Aquatics,2012
+1125,Swimming,100m backstroke,W,Gold,USA,Aquatics,2012
+1126,Swimming,100m backstroke,W,Silver,AUS,Aquatics,2012
+1127,Swimming,100m breaststroke,M,Bronze,USA,Aquatics,2012
+1128,Swimming,100m breaststroke,M,Gold,RSA,Aquatics,2012
+1129,Swimming,100m breaststroke,M,Silver,AUS,Aquatics,2012
+1130,Swimming,100m breaststroke,W,Bronze,JPN,Aquatics,2012
+1131,Swimming,100m breaststroke,W,Gold,LTU,Aquatics,2012
+1132,Swimming,100m breaststroke,W,Silver,USA,Aquatics,2012
+1133,Swimming,100m butterfly,M,Gold,USA,Aquatics,2012
+1134,Swimming,100m butterfly,M,Silver,RSA,Aquatics,2012
+1135,Swimming,100m butterfly,M,Silver,RUS,Aquatics,2012
+1136,Swimming,100m butterfly,W,Bronze,AUS,Aquatics,2012
+1137,Swimming,100m butterfly,W,Gold,USA,Aquatics,2012
+1138,Swimming,100m butterfly,W,Silver,CHN,Aquatics,2012
+1139,Swimming,100m freestyle,M,Bronze,CAN,Aquatics,2012
+1140,Swimming,100m freestyle,M,Gold,USA,Aquatics,2012
+1141,Swimming,100m freestyle,M,Silver,AUS,Aquatics,2012
+1142,Swimming,100m freestyle,W,Bronze,CHN,Aquatics,2012
+1143,Swimming,100m freestyle,W,Gold,NED,Aquatics,2012
+1144,Swimming,100m freestyle,W,Silver,BLR,Aquatics,2012
+1145,Swimming,1500m freestyle,M,Bronze,TUN,Aquatics,2012
+1146,Swimming,1500m freestyle,M,Gold,CHN,Aquatics,2012
+1147,Swimming,1500m freestyle,M,Silver,CAN,Aquatics,2012
+1148,Swimming,200m backstroke,M,Bronze,USA,Aquatics,2012
+1149,Swimming,200m backstroke,M,Gold,USA,Aquatics,2012
+1150,Swimming,200m backstroke,M,Silver,JPN,Aquatics,2012
+1151,Swimming,200m backstroke,W,Bronze,USA,Aquatics,2012
+1152,Swimming,200m backstroke,W,Gold,USA,Aquatics,2012
+1153,Swimming,200m backstroke,W,Silver,RUS,Aquatics,2012
+1154,Swimming,200m breaststroke,M,Bronze,JPN,Aquatics,2012
+1155,Swimming,200m breaststroke,M,Gold,HUN,Aquatics,2012
+1156,Swimming,200m breaststroke,M,Silver,GBR,Aquatics,2012
+1157,Swimming,200m breaststroke,W,Bronze,RUS,Aquatics,2012
+1158,Swimming,200m breaststroke,W,Gold,USA,Aquatics,2012
+1159,Swimming,200m breaststroke,W,Silver,JPN,Aquatics,2012
+1160,Swimming,200m butterfly,M,Bronze,JPN,Aquatics,2012
+1161,Swimming,200m butterfly,M,Gold,RSA,Aquatics,2012
+1162,Swimming,200m butterfly,M,Silver,USA,Aquatics,2012
+1163,Swimming,200m butterfly,W,Bronze,JPN,Aquatics,2012
+1164,Swimming,200m butterfly,W,Gold,CHN,Aquatics,2012
+1165,Swimming,200m butterfly,W,Silver,ESP,Aquatics,2012
+1166,Swimming,200m freestyle,M,Silver,CHN,Aquatics,2012
+1167,Swimming,200m freestyle,M,Gold,FRA,Aquatics,2012
+1168,Swimming,200m freestyle,M,Silver,KOR,Aquatics,2012
+1169,Swimming,200m freestyle,W,Bronze,AUS,Aquatics,2012
+1170,Swimming,200m freestyle,W,Gold,USA,Aquatics,2012
+1171,Swimming,200m freestyle,W,Silver,FRA,Aquatics,2012
+1172,Swimming,200m medley,M,Bronze,HUN,Aquatics,2012
+1173,Swimming,200m medley,M,Gold,USA,Aquatics,2012
+1174,Swimming,200m medley,M,Silver,USA,Aquatics,2012
+1175,Swimming,200m medley,W,Bronze,USA,Aquatics,2012
+1176,Swimming,200m medley,W,Gold,CHN,Aquatics,2012
+1177,Swimming,200m medley,W,Silver,AUS,Aquatics,2012
+1178,Swimming,400m freestyle,M,Bronze,USA,Aquatics,2012
+1179,Swimming,400m freestyle,M,Gold,CHN,Aquatics,2012
+1180,Swimming,400m freestyle,M,Silver,KOR,Aquatics,2012
+1181,Swimming,400m freestyle,W,Bronze,GBR,Aquatics,2012
+1182,Swimming,400m freestyle,W,Gold,FRA,Aquatics,2012
+1183,Swimming,400m freestyle,W,Silver,USA,Aquatics,2012
+1184,Swimming,400m medley,M,Bronze,JPN,Aquatics,2012
+1185,Swimming,400m medley,M,Gold,USA,Aquatics,2012
+1186,Swimming,400m medley,M,Silver,BRA,Aquatics,2012
+1187,Swimming,400m medley,W,Bronze,CHN,Aquatics,2012
+1188,Swimming,400m medley,W,Gold,CHN,Aquatics,2012
+1189,Swimming,400m medley,W,Silver,USA,Aquatics,2012
+1190,Swimming,4x100m freestyle,M,Bronze,RUS,Aquatics,2012
+1191,Swimming,4x100m freestyle,M,Gold,FRA,Aquatics,2012
+1192,Swimming,4x100m freestyle,M,Silver,USA,Aquatics,2012
+1193,Swimming,4x100m freestyle,W,Bronze,USA,Aquatics,2012
+1194,Swimming,4x100m freestyle,W,Gold,AUS,Aquatics,2012
+1195,Swimming,4x100m freestyle,W,Silver,NED,Aquatics,2012
+1196,Swimming,4x100m medley,M,Bronze,AUS,Aquatics,2012
+1197,Swimming,4x100m medley,M,Gold,USA,Aquatics,2012
+1198,Swimming,4x100m medley,M,Silver,JPN,Aquatics,2012
+1199,Swimming,4x100m medley,W,Bronze,JPN,Aquatics,2012
+1200,Swimming,4x100m medley,W,Gold,USA,Aquatics,2012
+1201,Swimming,4x100m medley,W,Silver,AUS,Aquatics,2012
+1202,Swimming,4x200m freestyle,M,Bronze,CHN,Aquatics,2012
+1203,Swimming,4x200m freestyle,M,Gold,USA,Aquatics,2012
+1204,Swimming,4x200m freestyle,M,Silver,FRA,Aquatics,2012
+1205,Swimming,4x200m freestyle,W,Bronze,FRA,Aquatics,2012
+1206,Swimming,4x200m freestyle,W,Gold,USA,Aquatics,2012
+1207,Swimming,4x200m freestyle,W,Silver,AUS,Aquatics,2012
+1208,Swimming,50m freestyle,M,Bronze,BRA,Aquatics,2012
+1209,Swimming,50m freestyle,M,Gold,FRA,Aquatics,2012
+1210,Swimming,50m freestyle,M,Silver,USA,Aquatics,2012
+1211,Swimming,50m freestyle,W,Bronze,NED,Aquatics,2012
+1212,Swimming,50m freestyle,W,Gold,NED,Aquatics,2012
+1213,Swimming,50m freestyle,W,Silver,BLR,Aquatics,2012
+1214,Swimming,800m freestyle,W,Bronze,GBR,Aquatics,2012
+1215,Swimming,800m freestyle,W,Gold,USA,Aquatics,2012
+1216,Swimming,800m freestyle,W,Silver,ESP,Aquatics,2012
+1217,Swimming,marathon 10km,M,Bronze,CAN,Aquatics,2012
+1218,Swimming,marathon 10km,M,Gold,TUN,Aquatics,2012
+1219,Swimming,marathon 10km,M,Silver,GER,Aquatics,2012
+1220,Swimming,marathon 10km,W,Bronze,ITA,Aquatics,2012
+1221,Swimming,marathon 10km,W,Gold,HUN,Aquatics,2012
+1222,Swimming,marathon 10km,W,Silver,USA,Aquatics,2012
+1223,Synchronized Swimming,duet,W,Bronze,CHN,Aquatics,2012
+1224,Synchronized Swimming,duet,W,Gold,RUS,Aquatics,2012
+1225,Synchronized Swimming,duet,W,Silver,ESP,Aquatics,2012
+1226,Synchronized Swimming,team,W,Bronze,ESP,Aquatics,2012
+1227,Synchronized Swimming,team,W,Gold,RUS,Aquatics,2012
+1228,Synchronized Swimming,team,W,Silver,CHN,Aquatics,2012
+1229,Water polo,water polo,M,Bronze,SRB,Aquatics,2012
+1230,Water polo,water polo,M,Gold,CRO,Aquatics,2012
+1231,Water polo,water polo,M,Silver,ITA,Aquatics,2012
+1232,Water polo,water polo,W,Bronze,AUS,Aquatics,2012
+1233,Water polo,water polo,W,Gold,USA,Aquatics,2012
+1234,Water polo,water polo,W,Silver,ESP,Aquatics,2012
+1235,Archery,individual,M,Bronze,CHN,Archery,2012
+1236,Archery,individual,M,Gold,KOR,Archery,2012
+1237,Archery,individual,M,Silver,JPN,Archery,2012
+1238,Archery,individual,W,Bronze,MEX,Archery,2012
+1239,Archery,individual,W,Gold,KOR,Archery,2012
+1240,Archery,individual,W,Silver,MEX,Archery,2012
+1241,Archery,team (FITA),M,Bronze,KOR,Archery,2012
+1242,Archery,team (FITA),M,Gold,ITA,Archery,2012
+1243,Archery,team (FITA),M,Silver,USA,Archery,2012
+1244,Archery,team (FITA),W,Bronze,JPN,Archery,2012
+1245,Archery,team (FITA),W,Gold,KOR,Archery,2012
+1246,Archery,team (FITA),W,Silver,CHN,Archery,2012
+1247,Athletics,10000m,M,Bronze,ETH,Athletics,2012
+1248,Athletics,10000m,M,Gold,GBR,Athletics,2012
+1249,Athletics,10000m,M,Silver,USA,Athletics,2012
+1250,Athletics,10000m,W,Bronze,KEN,Athletics,2012
+1251,Athletics,10000m,W,Gold,ETH,Athletics,2012
+1252,Athletics,10000m,W,Silver,KEN,Athletics,2012
+1253,Athletics,100m,M,Bronze,USA,Athletics,2012
+1254,Athletics,100m,M,Gold,JAM,Athletics,2012
+1255,Athletics,100m,M,Silver,JAM,Athletics,2012
+1256,Athletics,100m,W,Bronze,JAM,Athletics,2012
+1257,Athletics,100m,W,Gold,JAM,Athletics,2012
+1258,Athletics,100m,W,Silver,USA,Athletics,2012
+1259,Athletics,100m hurdles,W,Bronze,USA,Athletics,2012
+1260,Athletics,100m hurdles,W,Gold,AUS,Athletics,2012
+1261,Athletics,100m hurdles,W,Silver,USA,Athletics,2012
+1262,Athletics,110m hurdles,M,Bronze,JAM,Athletics,2012
+1263,Athletics,110m hurdles,M,Gold,USA,Athletics,2012
+1264,Athletics,110m hurdles,M,Silver,USA,Athletics,2012
+1265,Athletics,1500m,M,Bronze,MAR,Athletics,2012
+1266,Athletics,1500m,M,Gold,ALG,Athletics,2012
+1267,Athletics,1500m,M,Silver,USA,Athletics,2012
+1268,Athletics,1500m,W,Bronze,BRN,Athletics,2012
+1269,Athletics,1500m,W,Gold,pending,Athletics,2012
+1270,Athletics,1500m,W,Silver,TUR,Athletics,2012
+1271,Athletics,200m,M,Bronze,JAM,Athletics,2012
+1272,Athletics,200m,M,Gold,JAM,Athletics,2012
+1273,Athletics,200m,M,Silver,JAM,Athletics,2012
+1274,Athletics,200m,W,Bronze,USA,Athletics,2012
+1275,Athletics,200m,W,Gold,USA,Athletics,2012
+1276,Athletics,200m,W,Silver,JAM,Athletics,2012
+1277,Athletics,20km race walk,W,Bronze,CHN,Athletics,2012
+1278,Athletics,20km race walk,W,Gold,RUS,Athletics,2012
+1279,Athletics,20km race walk,W,Silver,pending,Athletics,2012
+1280,Athletics,20km walk,M,Bronze,CHN,Athletics,2012
+1281,Athletics,20km walk,M,Gold,CHN,Athletics,2012
+1282,Athletics,20km walk,M,Silver,GUA,Athletics,2012
+1283,Athletics,3000m steeple,W,Bronze,ETH,Athletics,2012
+1284,Athletics,3000m steeple,W,Gold,pending,Athletics,2012
+1285,Athletics,3000m steeple,W,Silver,TUN,Athletics,2012
+1286,Athletics,3000m steeplechase,M,Bronze,KEN,Athletics,2012
+1287,Athletics,3000m steeplechase,M,Gold,KEN,Athletics,2012
+1288,Athletics,3000m steeplechase,M,Silver,FRA,Athletics,2012
+1289,Athletics,400m,M,Bronze,TTO,Athletics,2012
+1290,Athletics,400m,M,Gold,GRN,Athletics,2012
+1291,Athletics,400m,M,Silver,DOM,Athletics,2012
+1292,Athletics,400m,W,Bronze,USA,Athletics,2012
+1293,Athletics,400m,W,Gold,USA,Athletics,2012
+1294,Athletics,400m,W,Silver,GBR,Athletics,2012
+1295,Athletics,400m hurdles,M,Bronze,PUR,Athletics,2012
+1296,Athletics,400m hurdles,M,Gold,DOM,Athletics,2012
+1297,Athletics,400m hurdles,M,Silver,USA,Athletics,2012
+1298,Athletics,400m hurdles,W,Bronze,CZE,Athletics,2012
+1299,Athletics,400m hurdles,W,Gold,RUS,Athletics,2012
+1300,Athletics,400m hurdles,W,Silver,USA,Athletics,2012
+1301,Athletics,4x100m relay,M,Bronze,FRA,Athletics,2012
+1302,Athletics,4x100m relay,M,Gold,JAM,Athletics,2012
+1303,Athletics,4x100m relay,M,Silver,TTO,Athletics,2012
+1304,Athletics,4x100m relay,W,Bronze,UKR,Athletics,2012
+1305,Athletics,4x100m relay,W,Gold,USA,Athletics,2012
+1306,Athletics,4x100m relay,W,Silver,JAM,Athletics,2012
+1307,Athletics,4x400m relay,M,Bronze,TTO,Athletics,2012
+1308,Athletics,4x400m relay,M,Gold,BAH,Athletics,2012
+1309,Athletics,4x400m relay,M,Silver,USA,Athletics,2012
+1310,Athletics,4x400m relay,W,Bronze,JAM,Athletics,2012
+1311,Athletics,4x400m relay,W,Gold,USA,Athletics,2012
+1312,Athletics,4x400m relay,W,Silver,RUS,Athletics,2012
+1313,Athletics,5000m,M,Bronze,KEN,Athletics,2012
+1314,Athletics,5000m,M,Gold,GBR,Athletics,2012
+1315,Athletics,5000m,M,Silver,ETH,Athletics,2012
+1316,Athletics,5000m,W,Bronze,ETH,Athletics,2012
+1317,Athletics,5000m,W,Gold,ETH,Athletics,2012
+1318,Athletics,5000m,W,Silver,KEN,Athletics,2012
+1319,Athletics,50km walk,M,Bronze,CHN,Athletics,2012
+1320,Athletics,50km walk,M,Gold,pending,Athletics,2012
+1321,Athletics,50km walk,M,Silver,AUS,Athletics,2012
+1322,Athletics,800m,M,Bronze,KEN,Athletics,2012
+1323,Athletics,800m,M,Gold,KEN,Athletics,2012
+1324,Athletics,800m,M,Silver,BOT,Athletics,2012
+1325,Athletics,800m,W,Bronze,RUS,Athletics,2012
+1326,Athletics,800m,W,Gold,RUS,Athletics,2012
+1327,Athletics,800m,W,Silver,RSA,Athletics,2012
+1328,Athletics,decathlon,M,Bronze,CUB,Athletics,2012
+1329,Athletics,decathlon,M,Gold,USA,Athletics,2012
+1330,Athletics,decathlon,M,Silver,USA,Athletics,2012
+1331,Athletics,discus throw,M,Bronze,EST,Athletics,2012
+1332,Athletics,discus throw,M,Gold,GER,Athletics,2012
+1333,Athletics,discus throw,M,Silver,IRI,Athletics,2012
+1334,Athletics,discus throw,W,Bronze,CUB,Athletics,2012
+1335,Athletics,discus throw,W,Gold,CRO,Athletics,2012
+1336,Athletics,discus throw,W,Silver,CHN,Athletics,2012
+1337,Athletics,hammer throw,M,Bronze,JPN,Athletics,2012
+1338,Athletics,hammer throw,M,Gold,HUN,Athletics,2012
+1339,Athletics,hammer throw,M,Silver,SLO,Athletics,2012
+1340,Athletics,hammer throw,W,Bronze,GER,Athletics,2012
+1341,Athletics,hammer throw,W,Gold,RUS,Athletics,2012
+1342,Athletics,hammer throw,W,Silver,POL,Athletics,2012
+1343,Athletics,heptathlon,W,Bronze,RUS,Athletics,2012
+1344,Athletics,heptathlon,W,Gold,GBR,Athletics,2012
+1345,Athletics,heptathlon,W,Silver,GER,Athletics,2012
+1346,Athletics,high jump,M,Bronze,CAN,Athletics,2012
+1347,Athletics,high jump,M,Bronze,GBR,Athletics,2012
+1348,Athletics,high jump,M,Bronze,QAT,Athletics,2012
+1349,Athletics,high jump,M,Gold,RUS,Athletics,2012
+1350,Athletics,high jump,M,Silver,USA,Athletics,2012
+1351,Athletics,high jump,W,Bronze,RUS,Athletics,2012
+1352,Athletics,high jump,W,Gold,RUS,Athletics,2012
+1353,Athletics,high jump,W,Silver,USA,Athletics,2012
+1354,Athletics,javelin throw,M,Bronze,FIN,Athletics,2012
+1355,Athletics,javelin throw,M,Gold,TTO,Athletics,2012
+1356,Athletics,javelin throw,M,Silver,UKR,Athletics,2012
+1357,Athletics,javelin throw,W,Bronze,GER,Athletics,2012
+1358,Athletics,javelin throw,W,Gold,CZE,Athletics,2012
+1359,Athletics,javelin throw,W,Silver,GER,Athletics,2012
+1360,Athletics,long jump,M,Bronze,USA,Athletics,2012
+1361,Athletics,long jump,M,Gold,GBR,Athletics,2012
+1362,Athletics,long jump,M,Silver,AUS,Athletics,2012
+1363,Athletics,long jump,W,Bronze,USA,Athletics,2012
+1364,Athletics,long jump,W,Gold,USA,Athletics,2012
+1365,Athletics,long jump,W,Silver,RUS,Athletics,2012
+1366,Athletics,marathon,M,Bronze,KEN,Athletics,2012
+1367,Athletics,marathon,M,Gold,UGA,Athletics,2012
+1368,Athletics,marathon,M,Silver,KEN,Athletics,2012
+1369,Athletics,marathon,W,Bronze,RUS,Athletics,2012
+1370,Athletics,marathon,W,Gold,ETH,Athletics,2012
+1371,Athletics,marathon,W,Silver,KEN,Athletics,2012
+1372,Athletics,pole vault,M,Bronze,GER,Athletics,2012
+1373,Athletics,pole vault,M,Gold,FRA,Athletics,2012
+1374,Athletics,pole vault,M,Silver,GER,Athletics,2012
+1375,Athletics,pole vault,W,Bronze,RUS,Athletics,2012
+1376,Athletics,pole vault,W,Gold,USA,Athletics,2012
+1377,Athletics,pole vault,W,Silver,CUB,Athletics,2012
+1378,Athletics,shot put,M,Bronze,USA,Athletics,2012
+1379,Athletics,shot put,M,Gold,POL,Athletics,2012
+1380,Athletics,shot put,M,Silver,GER,Athletics,2012
+1381,Athletics,shot put,W,Bronze,CHN,Athletics,2012
+1382,Athletics,shot put,W,Gold,NZL,Athletics,2012
+1383,Athletics,shot put,W,Silver,RUS,Athletics,2012
+1384,Athletics,triple jump,M,Bronze,ITA,Athletics,2012
+1385,Athletics,triple jump,M,Gold,USA,Athletics,2012
+1386,Athletics,triple jump,M,Silver,USA,Athletics,2012
+1387,Athletics,triple jump,W,Bronze,UKR,Athletics,2012
+1388,Athletics,triple jump,W,Gold,KAZ,Athletics,2012
+1389,Athletics,triple jump,W,Silver,COL,Athletics,2012
+1390,Badminton,doubles,M,Bronze,KOR,Badminton,2012
+1391,Badminton,doubles,M,Gold,CHN,Badminton,2012
+1392,Badminton,doubles,M,Silver,DEN,Badminton,2012
+1393,Badminton,doubles,W,Bronze,RUS,Badminton,2012
+1394,Badminton,doubles,W,Gold,CHN,Badminton,2012
+1395,Badminton,doubles,W,Silver,JPN,Badminton,2012
+1396,Badminton,doubles,Mixed,Bronze,DEN,Badminton,2012
+1397,Badminton,doubles,Mixed,Gold,CHN,Badminton,2012
+1398,Badminton,doubles,Mixed,Silver,CHN,Badminton,2012
+1399,Badminton,singles,M,Bronze,CHN,Badminton,2012
+1400,Badminton,singles,M,Gold,CHN,Badminton,2012
+1401,Badminton,singles,M,Silver,MAS,Badminton,2012
+1402,Badminton,singles,W,Bronze,IND,Badminton,2012
+1403,Badminton,singles,W,Gold,CHN,Badminton,2012
+1404,Badminton,singles,W,Silver,CHN,Badminton,2012
+1405,Basketball,basketball,M,Bronze,RUS,Basketball,2012
+1406,Basketball,basketball,M,Gold,USA,Basketball,2012
+1407,Basketball,basketball,M,Silver,ESP,Basketball,2012
+1408,Basketball,basketball,W,Bronze,AUS,Basketball,2012
+1409,Basketball,basketball,W,Gold,USA,Basketball,2012
+1410,Basketball,basketball,W,Silver,FRA,Basketball,2012
+1411,Boxing,+ 91kg,M,Bronze,AZE,Boxing,2012
+1412,Boxing,+ 91kg,M,Bronze,KAZ,Boxing,2012
+1413,Boxing,+ 91kg,M,Gold,GBR,Boxing,2012
+1414,Boxing,+ 91kg,M,Silver,ITA,Boxing,2012
+1415,Boxing,46 - 49kg,M,Bronze,IRL,Boxing,2012
+1416,Boxing,46 - 49kg,M,Bronze,RUS,Boxing,2012
+1417,Boxing,46 - 49kg,M,Gold,CHN,Boxing,2012
+1418,Boxing,46 - 49kg,M,Silver,THA,Boxing,2012
+1419,Boxing,51 kg,W,Bronze,IND,Boxing,2012
+1420,Boxing,51 kg,W,Bronze,USA,Boxing,2012
+1421,Boxing,51 kg,W,Gold,GBR,Boxing,2012
+1422,Boxing,51 kg,W,Silver,CHN,Boxing,2012
+1423,Boxing,52kg,M,Bronze,IRL,Boxing,2012
+1424,Boxing,52kg,M,Bronze,RUS,Boxing,2012
+1425,Boxing,52kg,M,Gold,CUB,Boxing,2012
+1426,Boxing,52kg,M,Silver,MGL,Boxing,2012
+1427,Boxing,56kg,M,Bronze,CUB,Boxing,2012
+1428,Boxing,56kg,M,Bronze,JPN,Boxing,2012
+1429,Boxing,56kg,M,Gold,GBR,Boxing,2012
+1430,Boxing,56kg,M,Silver,IRL,Boxing,2012
+1431,Boxing,57 - 60kg,M,Bronze,CUB,Boxing,2012
+1432,Boxing,57 - 60kg,M,Bronze,LTU,Boxing,2012
+1433,Boxing,57 - 60kg,M,Gold,UKR,Boxing,2012
+1434,Boxing,57 - 60kg,M,Silver,KOR,Boxing,2012
+1435,Boxing,60 - 64 kg,M,Bronze,ITA,Boxing,2012
+1436,Boxing,60 - 64 kg,M,Bronze,MGL,Boxing,2012
+1437,Boxing,60 - 64 kg,M,Gold,CUB,Boxing,2012
+1438,Boxing,60 - 64 kg,M,Silver,UKR,Boxing,2012
+1439,Boxing,60 kg,W,Bronze,BRA,Boxing,2012
+1440,Boxing,60 kg,W,Bronze,TJK,Boxing,2012
+1441,Boxing,60 kg,W,Gold,IRL,Boxing,2012
+1442,Boxing,60 kg,W,Silver,RUS,Boxing,2012
+1443,Boxing,64 - 69 kg,M,Bronze,RUS,Boxing,2012
+1444,Boxing,64 - 69 kg,M,Bronze,UKR,Boxing,2012
+1445,Boxing,64 - 69 kg,M,Gold,KAZ,Boxing,2012
+1446,Boxing,64 - 69 kg,M,Silver,GBR,Boxing,2012
+1447,Boxing,69 - 75 kg,M,Bronze,GBR,Boxing,2012
+1448,Boxing,69 - 75 kg,M,Bronze,UZB,Boxing,2012
+1449,Boxing,69 - 75 kg,M,Gold,JPN,Boxing,2012
+1450,Boxing,69 - 75 kg,M,Silver,BRA,Boxing,2012
+1451,Boxing,75 - 81kg,M,Bronze,BRA,Boxing,2012
+1452,Boxing,75 - 81kg,M,Bronze,UKR,Boxing,2012
+1453,Boxing,75 - 81kg,M,Gold,RUS,Boxing,2012
+1454,Boxing,75 - 81kg,M,Silver,KAZ,Boxing,2012
+1455,Boxing,75 kg,W,Bronze,CHN,Boxing,2012
+1456,Boxing,75 kg,W,Bronze,KAZ,Boxing,2012
+1457,Boxing,75 kg,W,Gold,USA,Boxing,2012
+1458,Boxing,75 kg,W,Silver,RUS,Boxing,2012
+1459,Boxing,81 - 91kg,M,Bronze,AZE,Boxing,2012
+1460,Boxing,81 - 91kg,M,Bronze,BUL,Boxing,2012
+1461,Boxing,81 - 91kg,M,Gold,UKR,Boxing,2012
+1462,Boxing,81 - 91kg,M,Silver,ITA,Boxing,2012
+1463,Canoe Sprint,C-1 1000m,M,Bronze,CAN,Canoe,2012
+1464,Canoe Sprint,C-1 1000m,M,Gold,GER,Canoe,2012
+1465,Canoe Sprint,C-1 1000m,M,Silver,ESP,Canoe,2012
+1466,Canoe Sprint,C-1 200m,M,Bronze,RUS,Canoe,2012
+1467,Canoe Sprint,C-1 200m,M,Gold,UKR,Canoe,2012
+1468,Canoe Sprint,C-1 200m,M,Silver,LTU,Canoe,2012
+1469,Canoe Sprint,C-2 1000m,M,Bronze,RUS,Canoe,2012
+1470,Canoe Sprint,C-2 1000m,M,Gold,GER,Canoe,2012
+1471,Canoe Sprint,C-2 1000m,M,Silver,BLR,Canoe,2012
+1472,Canoe Sprint,K-1 1000m,M,Bronze,GER,Canoe,2012
+1473,Canoe Sprint,K-1 1000m,M,Gold,NOR,Canoe,2012
+1474,Canoe Sprint,K-1 1000m,M,Silver,CAN,Canoe,2012
+1475,Canoe Sprint,K-1 200m,M,Bronze,CAN,Canoe,2012
+1476,Canoe Sprint,K-1 200m,M,Gold,GBR,Canoe,2012
+1477,Canoe Sprint,K-1 200m,M,Silver,ESP,Canoe,2012
+1478,Canoe Sprint,K-1 200m,W,Bronze,HUN,Canoe,2012
+1479,Canoe Sprint,K-1 200m,W,Gold,NZL,Canoe,2012
+1480,Canoe Sprint,K-1 200m,W,Silver,UKR,Canoe,2012
+1481,Canoe Sprint,K-1 500m,W,Bronze,RSA,Canoe,2012
+1482,Canoe Sprint,K-1 500m,W,Gold,HUN,Canoe,2012
+1483,Canoe Sprint,K-1 500m,W,Silver,UKR,Canoe,2012
+1484,Canoe Sprint,K-2 1000m,M,Bronze,GER,Canoe,2012
+1485,Canoe Sprint,K-2 1000m,M,Gold,HUN,Canoe,2012
+1486,Canoe Sprint,K-2 1000m,M,Silver,POR,Canoe,2012
+1487,Canoe Sprint,K-2 200m,M,Bronze,GBR,Canoe,2012
+1488,Canoe Sprint,K-2 200m,M,Gold,RUS,Canoe,2012
+1489,Canoe Sprint,K-2 200m,M,Silver,BLR,Canoe,2012
+1490,Canoe Sprint,K-2 500m,W,Bronze,POL,Canoe,2012
+1491,Canoe Sprint,K-2 500m,W,Gold,GER,Canoe,2012
+1492,Canoe Sprint,K-2 500m,W,Silver,HUN,Canoe,2012
+1493,Canoe Sprint,K-4 1000m,M,Bronze,CZE,Canoe,2012
+1494,Canoe Sprint,K-4 1000m,M,Gold,AUS,Canoe,2012
+1495,Canoe Sprint,K-4 1000m,M,Silver,HUN,Canoe,2012
+1496,Canoe Sprint,K-4 500m,W,Bronze,BLR,Canoe,2012
+1497,Canoe Sprint,K-4 500m,W,Gold,HUN,Canoe,2012
+1498,Canoe Sprint,K-4 500m,W,Silver,GER,Canoe,2012
+1499,Canoe Slalom,C-1 (single),M,Bronze,SVK,Canoe,2012
+1500,Canoe Slalom,C-1 (single),M,Gold,FRA,Canoe,2012
+1501,Canoe Slalom,C-1 (single),M,Silver,GER,Canoe,2012
+1502,Canoe Slalom,C-2 (double),M,Bronze,SVK,Canoe,2012
+1503,Canoe Slalom,C-2 (double),M,Gold,GBR,Canoe,2012
+1504,Canoe Slalom,C-2 (double),M,Silver,GBR,Canoe,2012
+1505,Canoe Slalom,K-1 (single),M,Bronze,GER,Canoe,2012
+1506,Canoe Slalom,K-1 (single),M,Gold,ITA,Canoe,2012
+1507,Canoe Slalom,K-1 (single),M,Silver,CZE,Canoe,2012
+1508,Canoe Slalom,K-1 (single),W,Bronze,ESP,Canoe,2012
+1509,Canoe Slalom,K-1 (single),W,Gold,FRA,Canoe,2012
+1510,Canoe Slalom,K-1 (single),W,Silver,AUS,Canoe,2012
+1511,Cycling BMX,Individual,M,Bronze,COL,Cycling,2012
+1512,Cycling BMX,Individual,M,Gold,LAT,Cycling,2012
+1513,Cycling BMX,Individual,M,Silver,AUS,Cycling,2012
+1514,Cycling BMX,individual,W,Bronze,NED,Cycling,2012
+1515,Cycling BMX,individual,W,Gold,COL,Cycling,2012
+1516,Cycling BMX,individual,W,Silver,NZL,Cycling,2012
+1517,Cycling Road,individual road race,M,Bronze,NOR,Cycling,2012
+1518,Cycling Road,individual road race,M,Gold,KAZ,Cycling,2012
+1519,Cycling Road,individual road race,M,Silver,COL,Cycling,2012
+1520,Cycling Road,individual road race,W,Bronze,RUS,Cycling,2012
+1521,Cycling Road,individual road race,W,Gold,NED,Cycling,2012
+1522,Cycling Road,individual road race,W,Silver,GBR,Cycling,2012
+1523,Cycling Road,time trial,M,Bronze,GBR,Cycling,2012
+1524,Cycling Road,time trial,M,Gold,GBR,Cycling,2012
+1525,Cycling Road,time trial,M,Silver,GER,Cycling,2012
+1526,Cycling Road,time trial,W,Bronze,RUS,Cycling,2012
+1527,Cycling Road,time trial,W,Gold,USA,Cycling,2012
+1528,Cycling Road,time trial,W,Silver,GER,Cycling,2012
+1529,Cycling Track,Keirin,M,Bronze,NED,Cycling,2012
+1530,Cycling Track,Keirin,M,Bronze,NZL,Cycling,2012
+1531,Cycling Track,Keirin,M,Gold,GBR,Cycling,2012
+1532,Cycling Track,Keirin,M,Silver,GER,Cycling,2012
+1533,Cycling Track,Kerin,W,Bronze,HKG,Cycling,2012
+1534,Cycling Track,Kerin,W,Gold,GBR,Cycling,2012
+1535,Cycling Track,Kerin,W,Silver,CHN,Cycling,2012
+1536,Cycling Track,Omnium,M,Bronze,GBR,Cycling,2012
+1537,Cycling Track,Omnium,M,Gold,DEN,Cycling,2012
+1538,Cycling Track,Omnium,M,Silver,FRA,Cycling,2012
+1539,Cycling Track,Omnium,W,Bronze,AUS,Cycling,2012
+1540,Cycling Track,Omnium,W,Gold,GBR,Cycling,2012
+1541,Cycling Track,Omnium,W,Silver,USA,Cycling,2012
+1542,Cycling Track,sprint,W,Bronze,CHN,Cycling,2012
+1543,Cycling Track,sprint,W,Gold,AUS,Cycling,2012
+1544,Cycling Track,sprint,W,Silver,GBR,Cycling,2012
+1545,Cycling Track,Sprint individual,M,Bronze,AUS,Cycling,2012
+1546,Cycling Track,Sprint individual,M,Gold,GBR,Cycling,2012
+1547,Cycling Track,Sprint individual,M,Silver,FRA,Cycling,2012
+1548,Cycling Track,Team Pursuit,M,Bronze,NZL,Cycling,2012
+1549,Cycling Track,Team Pursuit,M,Gold,GBR,Cycling,2012
+1550,Cycling Track,Team Pursuit,M,Silver,AUS,Cycling,2012
+1551,Cycling Track,Team Pursuit,W,Bronze,CAN,Cycling,2012
+1552,Cycling Track,Team Pursuit,W,Gold,GBR,Cycling,2012
+1553,Cycling Track,Team Pursuit,W,Silver,USA,Cycling,2012
+1554,Cycling Track,Team Sprint,M,Bronze,GER,Cycling,2012
+1555,Cycling Track,Team Sprint,M,Gold,GBR,Cycling,2012
+1556,Cycling Track,Team Sprint,M,Silver,FRA,Cycling,2012
+1557,Cycling Track,Team Sprint,W,Bronze,AUS,Cycling,2012
+1558,Cycling Track,Team Sprint,W,Gold,GER,Cycling,2012
+1559,Cycling Track,Team Sprint,W,Silver,CHN,Cycling,2012
+1560,Mountain Bike,cross-country,M,Bronze,ITA,Cycling,2012
+1561,Mountain Bike,cross-country,M,Gold,CZE,Cycling,2012
+1562,Mountain Bike,cross-country,M,Silver,SUI,Cycling,2012
+1563,Mountain Bike,cross-country,W,Bronze,USA,Cycling,2012
+1564,Mountain Bike,cross-country,W,Gold,FRA,Cycling,2012
+1565,Mountain Bike,cross-country,W,Silver,GER,Cycling,2012
+1566,Equestrian,Dressage Individual,Mixed,Bronze,GBR,Equestrian,2012
+1567,Equestrian,Dressage Individual,Mixed,Gold,GBR,Equestrian,2012
+1568,Equestrian,Dressage Individual,Mixed,Silver,NED,Equestrian,2012
+1569,Equestrian,Dressage Team,Mixed,Bronze,NED,Equestrian,2012
+1570,Equestrian,Dressage Team,Mixed,Gold,GBR,Equestrian,2012
+1571,Equestrian,Dressage Team,Mixed,Silver,GER,Equestrian,2012
+1572,Equestrian,Eventing Individual,Mixed,Bronze,GER,Equestrian,2012
+1573,Equestrian,Eventing Individual,Mixed,Gold,GER,Equestrian,2012
+1574,Equestrian,Eventing Individual,Mixed,Silver,SWE,Equestrian,2012
+1575,Equestrian,Eventing Team,Mixed,Bronze,NZL,Equestrian,2012
+1576,Equestrian,Eventing Team,Mixed,Gold,GER,Equestrian,2012
+1577,Equestrian,Eventing Team,Mixed,Silver,GBR,Equestrian,2012
+1578,Equestrian,Jumping Individual,Mixed,Bronze,IRL,Equestrian,2012
+1579,Equestrian,Jumping Individual,Mixed,Gold,SUI,Equestrian,2012
+1580,Equestrian,Jumping Individual,Mixed,Silver,NED,Equestrian,2012
+1581,Equestrian,Jumping Team,Mixed,Bronze,KSA,Equestrian,2012
+1582,Equestrian,Jumping Team,Mixed,Gold,GBR,Equestrian,2012
+1583,Equestrian,Jumping Team,Mixed,Silver,NED,Equestrian,2012
+1584,Fencing,_p_e individual,M,Bronze,KOR,Fencing,2012
+1585,Fencing,_p_e individual,M,Gold,VEN,Fencing,2012
+1586,Fencing,_p_e individual,M,Silver,NOR,Fencing,2012
+1587,Fencing,_p_e individual,W,Bronze,CHN,Fencing,2012
+1588,Fencing,_p_e individual,W,Gold,UKR,Fencing,2012
+1589,Fencing,_p_e individual,W,Silver,GER,Fencing,2012
+1590,Fencing,_p_e team,W,Bronze,USA,Fencing,2012
+1591,Fencing,_p_e team,W,Gold,CHN,Fencing,2012
+1592,Fencing,_p_e team,W,Silver,KOR,Fencing,2012
+1593,Fencing,foil individual,M,Bronze,KOR,Fencing,2012
+1594,Fencing,foil individual,M,Gold,CHN,Fencing,2012
+1595,Fencing,foil individual,M,Silver,EGY,Fencing,2012
+1596,Fencing,foil individual,W,Bronze,ITA,Fencing,2012
+1597,Fencing,foil individual,W,Gold,ITA,Fencing,2012
+1598,Fencing,foil individual,W,Silver,ITA,Fencing,2012
+1599,Fencing,foil team,M,Bronze,GER,Fencing,2012
+1600,Fencing,foil team,M,Gold,ITA,Fencing,2012
+1601,Fencing,foil team,M,Silver,JPN,Fencing,2012
+1602,Fencing,foil team,W,Bronze,KOR,Fencing,2012
+1603,Fencing,foil team,W,Gold,ITA,Fencing,2012
+1604,Fencing,foil team,W,Silver,RUS,Fencing,2012
+1605,Fencing,sabre individual,M,Bronze,RUS,Fencing,2012
+1606,Fencing,sabre individual,M,Gold,HUN,Fencing,2012
+1607,Fencing,sabre individual,M,Silver,ITA,Fencing,2012
+1608,Fencing,sabre individual,W,Bronze,UKR,Fencing,2012
+1609,Fencing,sabre individual,W,Gold,KOR,Fencing,2012
+1610,Fencing,sabre individual,W,Silver,RUS,Fencing,2012
+1611,Fencing,sabre team,M,Bronze,ITA,Fencing,2012
+1612,Fencing,sabre team,M,Gold,KOR,Fencing,2012
+1613,Fencing,sabre team,M,Silver,ROU,Fencing,2012
+1614,Football,football,M,Bronze,KOR,Football,2012
+1615,Football,football,M,Gold,MEX,Football,2012
+1616,Football,football,M,Silver,BRA,Football,2012
+1617,Football,football,W,Bronze,CAN,Football,2012
+1618,Football,football,W,Gold,USA,Football,2012
+1619,Football,football,W,Silver,JPN,Football,2012
+1620,Artistic Gymnastics,beam,W,Bronze,USA,Gymnastics,2012
+1621,Artistic Gymnastics,beam,W,Gold,CHN,Gymnastics,2012
+1622,Artistic Gymnastics,beam,W,Silver,CHN,Gymnastics,2012
+1623,Artistic Gymnastics,floor exercises,M,Bronze,RUS,Gymnastics,2012
+1624,Artistic Gymnastics,floor exercises,M,Gold,CHN,Gymnastics,2012
+1625,Artistic Gymnastics,floor exercises,M,Silver,JPN,Gymnastics,2012
+1626,Artistic Gymnastics,floor exercises,W,Bronze,RUS,Gymnastics,2012
+1627,Artistic Gymnastics,floor exercises,W,Gold,USA,Gymnastics,2012
+1628,Artistic Gymnastics,floor exercises,W,Silver,ROU,Gymnastics,2012
+1629,Artistic Gymnastics,horizontal bar,M,Bronze,CHN,Gymnastics,2012
+1630,Artistic Gymnastics,horizontal bar,M,Gold,NED,Gymnastics,2012
+1631,Artistic Gymnastics,horizontal bar,M,Silver,GER,Gymnastics,2012
+1632,Artistic Gymnastics,individual all-round,W,Bronze,RUS,Gymnastics,2012
+1633,Artistic Gymnastics,individual all-round,W,Gold,USA,Gymnastics,2012
+1634,Artistic Gymnastics,individual all-round,W,Silver,RUS,Gymnastics,2012
+1635,Artistic Gymnastics,individual all-round,M,Bronze,USA,Gymnastics,2012
+1636,Artistic Gymnastics,individual all-round,M,Gold,JPN,Gymnastics,2012
+1637,Artistic Gymnastics,individual all-round,M,Silver,GER,Gymnastics,2012
+1638,Artistic Gymnastics,parallel bars,M,Bronze,FRA,Gymnastics,2012
+1639,Artistic Gymnastics,parallel bars,M,Gold,CHN,Gymnastics,2012
+1640,Artistic Gymnastics,parallel bars,M,Silver,GER,Gymnastics,2012
+1641,Artistic Gymnastics,pommel horse,M,Bronze,GBR,Gymnastics,2012
+1642,Artistic Gymnastics,pommel horse,M,Gold,HUN,Gymnastics,2012
+1643,Artistic Gymnastics,pommel horse,M,Silver,GBR,Gymnastics,2012
+1644,Artistic Gymnastics,rings,M,Bronze,ITA,Gymnastics,2012
+1645,Artistic Gymnastics,rings,M,Gold,BRA,Gymnastics,2012
+1646,Artistic Gymnastics,rings,M,Silver,CHN,Gymnastics,2012
+1647,Artistic Gymnastics,team competition,M,Bronze,GBR,Gymnastics,2012
+1648,Artistic Gymnastics,team competition,M,Gold,CHN,Gymnastics,2012
+1649,Artistic Gymnastics,team competition,M,Silver,JPN,Gymnastics,2012
+1650,Artistic Gymnastics,team competition,W,Bronze,ROU,Gymnastics,2012
+1651,Artistic Gymnastics,team competition,W,Gold,USA,Gymnastics,2012
+1652,Artistic Gymnastics,team competition,W,Silver,RUS,Gymnastics,2012
+1653,Artistic Gymnastics,uneven bars,W,Bronze,GBR,Gymnastics,2012
+1654,Artistic Gymnastics,uneven bars,W,Gold,RUS,Gymnastics,2012
+1655,Artistic Gymnastics,uneven bars,W,Silver,CHN,Gymnastics,2012
+1656,Artistic Gymnastics,vault,M,Gold,KOR,Gymnastics,2012
+1657,Artistic Gymnastics,vault,M,Silver,RUS,Gymnastics,2012
+1658,Artistic Gymnastics,vault,M,Bronze,UKR,Gymnastics,2012
+1659,Artistic Gymnastics,vault,W,Bronze,RUS,Gymnastics,2012
+1660,Artistic Gymnastics,vault,W,Gold,ROU,Gymnastics,2012
+1661,Artistic Gymnastics,vault,W,Silver,USA,Gymnastics,2012
+1662,Rhythmic Gymnastics,group competition,W,Bronze,ITA,Gymnastics,2012
+1663,Rhythmic Gymnastics,group competition,W,Gold,RUS,Gymnastics,2012
+1664,Rhythmic Gymnastics,group competition,W,Silver,BLR,Gymnastics,2012
+1665,Rhythmic Gymnastics,individual all-round,W,Bronze,BLR,Gymnastics,2012
+1666,Rhythmic Gymnastics,individual all-round,W,Gold,RUS,Gymnastics,2012
+1667,Rhythmic Gymnastics,individual all-round,W,Silver,RUS,Gymnastics,2012
+1668,Trampoline,individual,M,Bronze,CHN,Gymnastics,2012
+1669,Trampoline,individual,M,Gold,CHN,Gymnastics,2012
+1670,Trampoline,individual,M,Silver,RUS,Gymnastics,2012
+1671,Trampoline,individual,W,Bronze,CHN,Gymnastics,2012
+1672,Trampoline,individual,W,Gold,CAN,Gymnastics,2012
+1673,Trampoline,individual,W,Silver,CHN,Gymnastics,2012
+1674,Handball,handball,M,Bronze,CRO,Handball,2012
+1675,Handball,handball,M,Gold,FRA,Handball,2012
+1676,Handball,handball,M,Silver,SWE,Handball,2012
+1677,Handball,handball,W,Bronze,ESP,Handball,2012
+1678,Handball,handball,W,Gold,NOR,Handball,2012
+1679,Handball,handball,W,Silver,MNE,Handball,2012
+1680,Hockey,hockey,M,Bronze,AUS,Hockey,2012
+1681,Hockey,hockey,M,Gold,GER,Hockey,2012
+1682,Hockey,hockey,M,Silver,NED,Hockey,2012
+1683,Hockey,hockey,W,Bronze,GBR,Hockey,2012
+1684,Hockey,hockey,W,Gold,NED,Hockey,2012
+1685,Hockey,hockey,W,Silver,ARG,Hockey,2012
+1686,Judo,- 48 kg,W,Bronze,BEL,Judo,2012
+1687,Judo,- 48 kg,W,Bronze,HUN,Judo,2012
+1688,Judo,- 48 kg,W,Gold,BRA,Judo,2012
+1689,Judo,- 48 kg,W,Silver,ROU,Judo,2012
+1690,Judo,- 60 kg,M,Bronze,BRA,Judo,2012
+1691,Judo,- 60 kg,M,Bronze,UZB,Judo,2012
+1692,Judo,- 60 kg,M,Gold,RUS,Judo,2012
+1693,Judo,- 60 kg,M,Silver,JPN,Judo,2012
+1694,Judo,+ 100kg,M,Bronze,BRA,Judo,2012
+1695,Judo,+ 100kg,M,Bronze,GER,Judo,2012
+1696,Judo,+ 100kg,M,Gold,FRA,Judo,2012
+1697,Judo,+ 100kg,M,Silver,RUS,Judo,2012
+1698,Judo,+ 78kg,W,Bronze,CHN,Judo,2012
+1699,Judo,+ 78kg,W,Bronze,GBR,Judo,2012
+1700,Judo,+ 78kg,W,Gold,CUB,Judo,2012
+1701,Judo,+ 78kg,W,Silver,JPN,Judo,2012
+1702,Judo,48 - 52kg,W,Bronze,FRA,Judo,2012
+1703,Judo,48 - 52kg,W,Bronze,ITA,Judo,2012
+1704,Judo,48 - 52kg,W,Gold,PRK,Judo,2012
+1705,Judo,48 - 52kg,W,Silver,CUB,Judo,2012
+1706,Judo,52 - 57kg,W,Bronze,FRA,Judo,2012
+1707,Judo,52 - 57kg,W,Bronze,USA,Judo,2012
+1708,Judo,52 - 57kg,W,Gold,JPN,Judo,2012
+1709,Judo,52 - 57kg,W,Silver,ROU,Judo,2012
+1710,Judo,57 - 63kg,W,Bronze,FRA,Judo,2012
+1711,Judo,57 - 63kg,W,Bronze,JPN,Judo,2012
+1712,Judo,57 - 63kg,W,Gold,SLO,Judo,2012
+1713,Judo,57 - 63kg,W,Silver,CHN,Judo,2012
+1714,Judo,60 - 66kg,M,Bronze,JPN,Judo,2012
+1715,Judo,60 - 66kg,M,Bronze,KOR,Judo,2012
+1716,Judo,60 - 66kg,M,Gold,GEO,Judo,2012
+1717,Judo,60 - 66kg,M,Silver,HUN,Judo,2012
+1718,Judo,63 - 70kg,W,Bronze,COL,Judo,2012
+1719,Judo,63 - 70kg,W,Bronze,NED,Judo,2012
+1720,Judo,63 - 70kg,W,Gold,FRA,Judo,2012
+1721,Judo,63 - 70kg,W,Silver,GER,Judo,2012
+1722,Judo,66 - 73kg,M,Bronze,FRA,Judo,2012
+1723,Judo,66 - 73kg,M,Bronze,MGL,Judo,2012
+1724,Judo,66 - 73kg,M,Gold,RUS,Judo,2012
+1725,Judo,66 - 73kg,M,Silver,JPN,Judo,2012
+1726,Judo,70 - 78kg,W,Bronze,BRA,Judo,2012
+1727,Judo,70 - 78kg,W,Bronze,FRA,Judo,2012
+1728,Judo,70 - 78kg,W,Gold,USA,Judo,2012
+1729,Judo,70 - 78kg,W,Silver,GBR,Judo,2012
+1730,Judo,73 - 81kg,M,Bronze,CAN,Judo,2012
+1731,Judo,73 - 81kg,M,Bronze,RUS,Judo,2012
+1732,Judo,73 - 81kg,M,Gold,KOR,Judo,2012
+1733,Judo,73 - 81kg,M,Silver,GER,Judo,2012
+1734,Judo,81 - 90kg,M,Bronze,GRE,Judo,2012
+1735,Judo,81 - 90kg,M,Bronze,JPN,Judo,2012
+1736,Judo,81 - 90kg,M,Gold,KOR,Judo,2012
+1737,Judo,81 - 90kg,M,Silver,CUB,Judo,2012
+1738,Judo,90 - 100kg,M,Bronze,GER,Judo,2012
+1739,Judo,90 - 100kg,M,Bronze,NED,Judo,2012
+1740,Judo,90 - 100kg,M,Gold,RUS,Judo,2012
+1741,Judo,90 - 100kg,M,Silver,MGL,Judo,2012
+1742,Modern Pentathlon,Individual,M,Bronze,HUN,Modern Pentathlon,2012
+1743,Modern Pentathlon,Individual,M,Gold,CZE,Modern Pentathlon,2012
+1744,Modern Pentathlon,Individual,M,Silver,CHN,Modern Pentathlon,2012
+1745,Modern Pentathlon,Individual,W,Bronze,BRA,Modern Pentathlon,2012
+1746,Modern Pentathlon,Individual,W,Gold,LTU,Modern Pentathlon,2012
+1747,Modern Pentathlon,Individual,W,Silver,GBR,Modern Pentathlon,2012
+1748,Rowing,coxless four,M,Bronze,USA,Rowing,2012
+1749,Rowing,coxless four,M,Gold,GBR,Rowing,2012
+1750,Rowing,coxless four,M,Silver,AUS,Rowing,2012
+1751,Rowing,coxless pair,M,Bronze,GBR,Rowing,2012
+1752,Rowing,coxless pair,M,Gold,NZL,Rowing,2012
+1753,Rowing,coxless pair,M,Silver,FRA,Rowing,2012
+1754,Rowing,coxless pair,W,Bronze,NZL,Rowing,2012
+1755,Rowing,coxless pair,W,Gold,GBR,Rowing,2012
+1756,Rowing,coxless pair,W,Silver,AUS,Rowing,2012
+1757,Rowing,double sculls,M,Bronze,SLO,Rowing,2012
+1758,Rowing,double sculls,M,Gold,NZL,Rowing,2012
+1759,Rowing,double sculls,M,Silver,ITA,Rowing,2012
+1760,Rowing,double sculls,W,Bronze,POL,Rowing,2012
+1761,Rowing,double sculls,W,Gold,GBR,Rowing,2012
+1762,Rowing,double sculls,W,Silver,AUS,Rowing,2012
+1763,Rowing,eight with coxs,M,Bronze,GBR,Rowing,2012
+1764,Rowing,eight with coxs,M,Gold,GER,Rowing,2012
+1765,Rowing,eight with coxs,M,Silver,CAN,Rowing,2012
+1766,Rowing,eight with coxs,W,Bronze,NED,Rowing,2012
+1767,Rowing,eight with coxs,W,Gold,USA,Rowing,2012
+1768,Rowing,eight with coxs,W,Silver,CAN,Rowing,2012
+1769,Rowing,lightweight doubles,M,Bronze,NZL,Rowing,2012
+1770,Rowing,lightweight doubles,M,Gold,DEN,Rowing,2012
+1771,Rowing,lightweight doubles,M,Silver,GBR,Rowing,2012
+1772,Rowing,lightweight four,M,Bronze,DEN,Rowing,2012
+1773,Rowing,lightweight four,M,Gold,RSA,Rowing,2012
+1774,Rowing,lightweight four,M,Silver,GBR,Rowing,2012
+1775,Rowing,lightweight doubles,W,Bronze,GRE,Rowing,2012
+1776,Rowing,lightweight doubles,W,Gold,GBR,Rowing,2012
+1777,Rowing,lightweight doubles,W,Silver,CHN,Rowing,2012
+1778,Rowing,quadruple scull,M,Bronze,AUS,Rowing,2012
+1779,Rowing,quadruple scull,M,Gold,GER,Rowing,2012
+1780,Rowing,quadruple scull,M,Silver,CRO,Rowing,2012
+1781,Rowing,quadruple scull,W,Bronze,USA,Rowing,2012
+1782,Rowing,quadruple scull,W,Gold,UKR,Rowing,2012
+1783,Rowing,quadruple scull,W,Silver,GER,Rowing,2012
+1784,Rowing,single sculls,M,Bronze,GBR,Rowing,2012
+1785,Rowing,single sculls,M,Gold,NZL,Rowing,2012
+1786,Rowing,single sculls,M,Silver,CZE,Rowing,2012
+1787,Rowing,single sculls,W,Bronze,AUS,Rowing,2012
+1788,Rowing,single sculls,W,Gold,CZE,Rowing,2012
+1789,Rowing,single sculls,W,Silver,DEN,Rowing,2012
