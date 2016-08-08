@@ -1,0 +1,85 @@
+sport,country,medal_type,pct
+Aquatics,USA,all,32.93
+Aquatics,USA,gold,41.73
+Archery,KOR,all,19.65
+Archery,KOR,gold,31.15
+Athletics,USA,all,27.39
+Athletics,USA,gold,34.51
+Badminton,CHN,all,41.76
+Badminton,CHN,gold,55.17
+Baseball,CUB,all,33.33
+Baseball,CUB,gold,60.0
+Basketball,USA,all,30.95
+Basketball,USA,gold,75.0
+Basque Pelota,ESP,all,50.0
+Basque Pelota,ESP,gold,100.0
+Boxing,USA,all,12.42
+Boxing,USA,gold,20.5
+Canoe,HUN,all,12.22
+Canoe,URS,gold,13.81
+Cricket,FRA,all,50.0
+Cricket,GBR,gold,100.0
+Croquet,FRA,all,100.0
+Croquet,FRA,gold,100.0
+Cycling,FRA,all,13.53
+Cycling,FRA,gold,18.39
+Equestrian,USA,all,11.86
+Equestrian,GER,gold,16.55
+Fencing,ITA,all,20.13
+Fencing,ITA,gold,23.38
+Football,USA,all,7.69
+Football,USA,gold,13.33
+Golf,USA,all,76.92
+Golf,USA,gold,75.0
+Gymnastics,URS,all,18.47
+Gymnastics,URS,gold,21.22
+Handball,KOR,all,10.61
+Handball,URS,gold,18.18
+Hockey,NED,all,17.02
+Hockey,IND,gold,25.81
+Ice Hockey,CAN,all,33.33
+Ice Hockey,CAN,gold,100.0
+Jeu de paume,GBR,all,66.67
+Jeu de paume,USA,gold,100.0
+Judo,JPN,all,14.66
+Judo,JPN,gold,29.27
+Lacrosse,CAN,all,60.0
+Lacrosse,CAN,gold,100.0
+Modern Pentathlon,HUN,all,19.3
+Modern Pentathlon,HUN,gold,23.68
+Polo,GBR,all,37.5
+Polo,ARG,gold,40.0
+Rackets,GBR,all,100.0
+Rackets,GBR,gold,100.0
+Roque,USA,all,100.0
+Roque,USA,gold,100.0
+Rowing,USA,all,12.02
+Rowing,GDR,gold,13.75
+Rugby,FRA,all,30.0
+Rugby,USA,gold,50.0
+Sailing,USA,all,11.95
+Sailing,GBR,gold,14.86
+Shooting,USA,all,13.82
+Shooting,USA,gold,20.54
+Skating,GBR,all,33.33
+Skating,SWE,gold,42.86
+Softball,AUS,all,33.33
+Softball,USA,gold,75.0
+Table Tennis,CHN,all,53.41
+Table Tennis,CHN,gold,85.71
+Taekwondo,KOR,all,12.5
+Taekwondo,KOR,gold,31.25
+Tennis,GBR,all,21.21
+Tennis,USA,gold,32.79
+Triathlon,AUS,all,20.83
+Triathlon,SUI,gold,25.0
+Tug of War,GBR,all,38.46
+Tug of War,GBR,gold,40.0
+Volleyball,BRA,all,18.52
+Volleyball,USA,gold,25.0
+Water Motorsports,GBR,all,66.67
+Water Motorsports,GBR,gold,66.67
+Weightlifting,URS,all,10.46
+Weightlifting,URS,gold,19.5
+Wrestling,USA,all,10.64
+Wrestling,URS,gold,15.86
