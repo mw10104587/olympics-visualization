@@ -1,0 +1,1424 @@
+
+======Aquatics======
+
+100m backstroke
+USA ranked first with 43.240000 pct of all medals
+JPN ranked second with 10.810000 pct of all medals
+
+100m breaststro
+USA ranked first with 34.780000 pct of all medals
+FRA ranked second with 8.700000 pct of all medals
+
+100m breaststroke
+AUS ranked first with 61.540000 pct of all medals
+USA ranked second with 15.380000 pct of all medals
+
+100m butterfly
+USA ranked first with 30.560000 pct of all medals
+AUS ranked second with 22.220000 pct of all medals
+
+100m freestyle
+USA ranked first with 26.320000 pct of all medals
+AUS ranked second with 13.160000 pct of all medals
+
+10m platform
+CHN ranked first with 44.440000 pct of all medals
+AUS ranked second with 13.890000 pct of all medals
+
+1500m freestyle
+AUS ranked first with 44.440000 pct of all medals
+CAN ranked second with 11.110000 pct of all medals
+
+200m backstroke
+USA ranked first with 35.140000 pct of all medals
+JPN ranked second with 10.810000 pct of all medals
+
+200m breaststro
+USA ranked first with 29.630000 pct of all medals
+HUN ranked second with 22.220000 pct of all medals
+
+200m breaststroke
+AUS ranked first with 33.330000 pct of all medals
+JPN ranked second with 22.220000 pct of all medals
+
+200m butterfly
+AUS ranked first with 25.000000 pct of all medals
+USA ranked second with 22.220000 pct of all medals
+
+200m freestyle
+AUS ranked first with 13.890000 pct of all medals
+USA ranked second with 13.890000 pct of all medals
+
+200m medley
+USA ranked first with 38.890000 pct of all medals
+HUN ranked second with 13.890000 pct of all medals
+
+3m springboard
+CHN ranked first with 52.780000 pct of all medals
+RUS ranked second with 16.670000 pct of all medals
+
+400m freestyle
+USA ranked first with 27.780000 pct of all medals
+AUS ranked second with 16.670000 pct of all medals
+
+400m medley
+USA ranked first with 41.670000 pct of all medals
+HUN ranked second with 13.890000 pct of all medals
+
+4x100m freestyl
+USA ranked first with 38.460000 pct of all medals
+GER ranked second with 15.380000 pct of all medals
+
+4x100m freestyle
+AUS ranked first with 50.000000 pct of all medals
+USA ranked second with 20.000000 pct of all medals
+
+4x100m medley
+USA ranked first with 33.330000 pct of all medals
+AUS ranked second with 25.000000 pct of all medals
+
+4x200m freestyl
+USA ranked first with 42.860000 pct of all medals
+GER ranked second with 19.050000 pct of all medals
+
+4x200m freestyle
+AUS ranked first with 58.330000 pct of all medals
+FRA ranked second with 16.670000 pct of all medals
+
+50m freestyle
+USA ranked first with 30.560000 pct of all medals
+NED ranked second with 13.890000 pct of all medals
+
+800m freestyle
+USA ranked first with 33.330000 pct of all medals
+GBR ranked second with 11.110000 pct of all medals
+
+duet
+JPN ranked first with 26.670000 pct of all medals
+RUS ranked second with 26.670000 pct of all medals
+
+marathon 10km
+GBR ranked first with 25.000000 pct of all medals
+GER ranked second with 16.670000 pct of all medals
+
+solo
+CAN ranked first with 33.330000 pct of all medals
+JPN ranked second with 33.330000 pct of all medals
+
+synchronized 10
+CHN ranked first with 33.330000 pct of all medals
+AUS ranked second with 16.670000 pct of all medals
+
+synchronized 10m
+CHN ranked first with 33.330000 pct of all medals
+MEX ranked second with 33.330000 pct of all medals
+
+synchronized 3m
+CHN ranked first with 29.170000 pct of all medals
+RUS ranked second with 25.000000 pct of all medals
+
+team
+RUS ranked first with 26.670000 pct of all medals
+JPN ranked second with 20.000000 pct of all medals
+
+water polo
+USA ranked first with 16.670000 pct of all medals
+ITA ranked second with 13.330000 pct of all medals
+
+======Archery======
+
+individual
+KOR ranked first with 41.670000 pct of all medals
+CHN ranked second with 8.330000 pct of all medals
+
+team (FITA)
+KOR ranked first with 30.560000 pct of all medals
+CHN ranked second with 13.890000 pct of all medals
+
+======Athletics======
+
+10000m
+ETH ranked first with 47.220000 pct of all medals
+KEN ranked second with 16.670000 pct of all medals
+
+10000m walk
+CHN ranked first with 50.000000 pct of all medals
+EUN ranked second with 16.670000 pct of all medals
+
+100m
+JAM ranked first with 36.110000 pct of all medals
+USA ranked second with 30.560000 pct of all medals
+
+100m hurdles
+USA ranked first with 38.890000 pct of all medals
+AUS ranked second with 11.110000 pct of all medals
+
+110m hurdles
+USA ranked first with 61.110000 pct of all medals
+CUB ranked second with 16.670000 pct of all medals
+
+1500m
+KEN ranked first with 16.670000 pct of all medals
+ALG ranked second with 11.110000 pct of all medals
+
+200m
+USA ranked first with 36.110000 pct of all medals
+JAM ranked second with 33.330000 pct of all medals
+
+20km race walk
+RUS ranked first with 25.000000 pct of all medals
+CHN ranked second with 16.670000 pct of all medals
+
+20km walk
+RUS ranked first with 16.670000 pct of all medals
+AUS ranked second with 11.110000 pct of all medals
+
+3000m
+EUN ranked first with 66.670000 pct of all medals
+CAN ranked second with 33.330000 pct of all medals
+
+3000m steeple
+RUS ranked first with 33.330000 pct of all medals
+ETH ranked second with 16.670000 pct of all medals
+
+3000m steeplech
+KEN ranked first with 80.000000 pct of all medals
+FRA ranked second with 6.670000 pct of all medals
+
+3000m steeplechase
+KEN ranked first with 66.670000 pct of all medals
+FRA ranked second with 33.330000 pct of all medals
+
+400m
+USA ranked first with 38.890000 pct of all medals
+GBR ranked second with 11.110000 pct of all medals
+
+400m hurdles
+USA ranked first with 38.890000 pct of all medals
+JAM ranked second with 13.890000 pct of all medals
+
+4x100m relay
+USA ranked first with 22.220000 pct of all medals
+JAM ranked second with 16.670000 pct of all medals
+
+4x400m relay
+USA ranked first with 30.560000 pct of all medals
+JAM ranked second with 16.670000 pct of all medals
+
+5000m
+ETH ranked first with 36.360000 pct of all medals
+KEN ranked second with 27.270000 pct of all medals
+
+50km walk
+RUS ranked first with 22.220000 pct of all medals
+POL ranked second with 16.670000 pct of all medals
+
+800m
+KEN ranked first with 25.000000 pct of all medals
+RUS ranked second with 11.110000 pct of all medals
+
+decathlon
+USA ranked first with 38.890000 pct of all medals
+CZE ranked second with 16.670000 pct of all medals
+
+discus throw
+GER ranked first with 13.890000 pct of all medals
+BLR ranked second with 13.890000 pct of all medals
+
+hammer throw
+BLR ranked first with 13.790000 pct of all medals
+CUB ranked second with 10.340000 pct of all medals
+
+heptathlon
+GBR ranked first with 22.220000 pct of all medals
+RUS ranked second with 16.670000 pct of all medals
+
+high jump
+RUS ranked first with 21.950000 pct of all medals
+USA ranked second with 12.200000 pct of all medals
+
+javelin throw
+GER ranked first with 16.670000 pct of all medals
+FIN ranked second with 13.890000 pct of all medals
+
+long jump
+USA ranked first with 33.330000 pct of all medals
+RUS ranked second with 16.670000 pct of all medals
+
+marathon
+KEN ranked first with 25.000000 pct of all medals
+ETH ranked second with 13.890000 pct of all medals
+
+pole vault
+RUS ranked first with 26.670000 pct of all medals
+USA ranked second with 23.330000 pct of all medals
+
+shot put
+USA ranked first with 25.710000 pct of all medals
+GER ranked second with 14.290000 pct of all medals
+
+triple jump
+RUS ranked first with 18.180000 pct of all medals
+USA ranked second with 15.150000 pct of all medals
+
+======Badminton======
+
+doubles
+CHN ranked first with 39.620000 pct of all medals
+KOR ranked second with 28.300000 pct of all medals
+
+singles
+CHN ranked first with 44.740000 pct of all medals
+INA ranked second with 26.320000 pct of all medals
+
+======Baseball======
+
+baseball
+CUB ranked first with 33.330000 pct of all medals
+JPN ranked second with 20.000000 pct of all medals
+
+======Basketball======
+
+basketball
+USA ranked first with 33.330000 pct of all medals
+AUS ranked second with 13.890000 pct of all medals
+
+======Boxing======
+
++ 91kg
+ITA ranked first with 16.670000 pct of all medals
+GBR ranked second with 12.500000 pct of all medals
+
+- 48kg
+BUL ranked first with 16.670000 pct of all medals
+CUB ranked second with 16.670000 pct of all medals
+
+-48 kg
+CHN ranked first with 25.000000 pct of all medals
+CUB ranked second with 25.000000 pct of all medals
+
+46 - 49kg
+CHN ranked first with 25.000000 pct of all medals
+IRL ranked second with 25.000000 pct of all medals
+
+48 - 51kg
+CUB ranked first with 20.000000 pct of all medals
+FRA ranked second with 10.000000 pct of all medals
+
+51 - 54kg
+CUB ranked first with 25.000000 pct of all medals
+RUS ranked second with 10.000000 pct of all medals
+
+51 kg
+CHN ranked first with 25.000000 pct of all medals
+GBR ranked second with 25.000000 pct of all medals
+
+52kg
+CUB ranked first with 25.000000 pct of all medals
+IRL ranked second with 25.000000 pct of all medals
+
+54 - 57kg
+USA ranked first with 10.000000 pct of all medals
+RUS ranked second with 10.000000 pct of all medals
+
+56kg
+CUB ranked first with 25.000000 pct of all medals
+GBR ranked second with 25.000000 pct of all medals
+
+57 - 60kg
+CUB ranked first with 16.670000 pct of all medals
+RUS ranked second with 12.500000 pct of all medals
+
+60 - 63.5kg
+CUB ranked first with 25.000000 pct of all medals
+ALG ranked second with 8.330000 pct of all medals
+
+60 - 64 kg
+CUB ranked first with 25.000000 pct of all medals
+THA ranked second with 16.670000 pct of all medals
+
+60 kg
+BRA ranked first with 25.000000 pct of all medals
+IRL ranked second with 25.000000 pct of all medals
+
+63.5 - 67kg
+CUB ranked first with 16.670000 pct of all medals
+PUR ranked second with 16.670000 pct of all medals
+
+64 - 69 kg
+KAZ ranked first with 25.000000 pct of all medals
+CUB ranked second with 16.670000 pct of all medals
+
+67 - 71kg
+CUB ranked first with 16.670000 pct of all medals
+KAZ ranked second with 16.670000 pct of all medals
+
+69 - 75 kg
+GBR ranked first with 16.670000 pct of all medals
+BRA ranked second with 8.330000 pct of all medals
+
+71-75kg
+CUB ranked first with 25.000000 pct of all medals
+USA ranked second with 16.670000 pct of all medals
+
+75 - 81kg
+KAZ ranked first with 12.500000 pct of all medals
+UZB ranked second with 8.330000 pct of all medals
+
+75 kg
+CHN ranked first with 25.000000 pct of all medals
+KAZ ranked second with 25.000000 pct of all medals
+
+81 - 91kg
+CUB ranked first with 20.830000 pct of all medals
+GER ranked second with 8.330000 pct of all medals
+
+======Canoe======
+
+C-1 (single)
+SVK ranked first with 33.330000 pct of all medals
+FRA ranked second with 27.780000 pct of all medals
+
+C-1 1000m
+HUN ranked first with 22.220000 pct of all medals
+CAN ranked second with 16.670000 pct of all medals
+
+C-1 200m
+LTU ranked first with 33.330000 pct of all medals
+RUS ranked second with 33.330000 pct of all medals
+
+C-1 500m
+GER ranked first with 20.000000 pct of all medals
+RUS ranked second with 20.000000 pct of all medals
+
+C-2 (double)
+CZE ranked first with 22.220000 pct of all medals
+SVK ranked second with 22.220000 pct of all medals
+
+C-2 1000m
+GER ranked first with 33.330000 pct of all medals
+HUN ranked second with 16.670000 pct of all medals
+
+C-2 500m
+CHN ranked first with 13.330000 pct of all medals
+GER ranked second with 13.330000 pct of all medals
+
+K-1 (single)
+FRA ranked first with 22.220000 pct of all medals
+GER ranked second with 19.440000 pct of all medals
+
+K-1 1000m
+NOR ranked first with 33.330000 pct of all medals
+AUS ranked second with 16.670000 pct of all medals
+
+K-1 200m
+CAN ranked first with 16.670000 pct of all medals
+ESP ranked second with 16.670000 pct of all medals
+
+K-1 500m
+CAN ranked first with 15.150000 pct of all medals
+HUN ranked second with 15.150000 pct of all medals
+
+K-2 1000m
+GER ranked first with 22.220000 pct of all medals
+ITA ranked second with 22.220000 pct of all medals
+
+K-2 200m
+BLR ranked first with 33.330000 pct of all medals
+GBR ranked second with 33.330000 pct of all medals
+
+K-2 500m
+GER ranked first with 30.300000 pct of all medals
+HUN ranked second with 18.180000 pct of all medals
+
+K-4 1000m
+GER ranked first with 27.780000 pct of all medals
+HUN ranked second with 27.780000 pct of all medals
+
+K-4 500m
+GER ranked first with 33.330000 pct of all medals
+HUN ranked second with 27.780000 pct of all medals
+
+======Cycling======
+
+1km time trial
+AUS ranked first with 16.670000 pct of all medals
+FRA ranked second with 16.670000 pct of all medals
+
+500m time trial
+AUS ranked first with 33.330000 pct of all medals
+CHN ranked second with 33.330000 pct of all medals
+
+Ind. Pursuit
+GBR ranked first with 26.670000 pct of all medals
+AUS ranked second with 20.000000 pct of all medals
+
+Individual
+LAT ranked first with 33.330000 pct of all medals
+USA ranked second with 33.330000 pct of all medals
+
+Keirin
+AUS ranked first with 23.080000 pct of all medals
+GBR ranked second with 23.080000 pct of all medals
+
+Kerin
+CHN ranked first with 33.330000 pct of all medals
+GBR ranked second with 33.330000 pct of all medals
+
+Madison
+AUS ranked first with 22.220000 pct of all medals
+ARG ranked second with 11.110000 pct of all medals
+
+Olympic Sprint
+AUS ranked first with 33.330000 pct of all medals
+FRA ranked second with 33.330000 pct of all medals
+
+Omnium
+GBR ranked first with 33.330000 pct of all medals
+AUS ranked second with 16.670000 pct of all medals
+
+Points Race
+ESP ranked first with 20.000000 pct of all medals
+GER ranked second with 13.330000 pct of all medals
+
+Sprint ind.
+GER ranked first with 26.670000 pct of all medals
+AUS ranked second with 13.330000 pct of all medals
+
+Sprint individual
+AUS ranked first with 33.330000 pct of all medals
+FRA ranked second with 33.330000 pct of all medals
+
+Team Pursuit
+GBR ranked first with 23.810000 pct of all medals
+AUS ranked second with 19.050000 pct of all medals
+
+Team Sprint
+GER ranked first with 33.330000 pct of all medals
+FRA ranked second with 25.000000 pct of all medals
+
+cross-country
+FRA ranked first with 20.000000 pct of all medals
+SUI ranked second with 16.670000 pct of all medals
+
+ind. pursuit
+GBR ranked first with 20.000000 pct of all medals
+AUS ranked second with 13.330000 pct of all medals
+
+individual
+FRA ranked first with 33.330000 pct of all medals
+COL ranked second with 16.670000 pct of all medals
+
+individual road
+ITA ranked first with 13.330000 pct of all medals
+GER ranked second with 13.330000 pct of all medals
+
+individual road race
+COL ranked first with 16.670000 pct of all medals
+GBR ranked second with 16.670000 pct of all medals
+
+points race
+NED ranked first with 25.000000 pct of all medals
+RUS ranked second with 16.670000 pct of all medals
+
+sprint
+AUS ranked first with 22.220000 pct of all medals
+CHN ranked second with 11.110000 pct of all medals
+
+team time trial
+FRA ranked first with 33.330000 pct of all medals
+GER ranked second with 33.330000 pct of all medals
+
+time trial
+USA ranked first with 20.690000 pct of all medals
+GBR ranked second with 13.790000 pct of all medals
+
+======Equestrian======
+
+Dressage Individual
+GBR ranked first with 66.670000 pct of all medals
+NED ranked second with 33.330000 pct of all medals
+
+Dressage Team
+GBR ranked first with 33.330000 pct of all medals
+GER ranked second with 33.330000 pct of all medals
+
+Eventing Individual
+GER ranked first with 66.670000 pct of all medals
+SWE ranked second with 33.330000 pct of all medals
+
+Eventing Team
+GBR ranked first with 33.330000 pct of all medals
+GER ranked second with 33.330000 pct of all medals
+
+Jumping Individual
+IRL ranked first with 33.330000 pct of all medals
+NED ranked second with 33.330000 pct of all medals
+
+Jumping Team
+GBR ranked first with 33.330000 pct of all medals
+KSA ranked second with 33.330000 pct of all medals
+
+individual
+GER ranked first with 31.110000 pct of all medals
+NED ranked second with 17.780000 pct of all medals
+
+team
+GER ranked first with 22.220000 pct of all medals
+USA ranked second with 22.220000 pct of all medals
+
+======Fencing======
+
+_p_e individual
+FRA ranked first with 27.270000 pct of all medals
+HUN ranked second with 15.150000 pct of all medals
+
+_p_e team
+FRA ranked first with 22.220000 pct of all medals
+ITA ranked second with 14.810000 pct of all medals
+
+foil individual
+ITA ranked first with 44.440000 pct of all medals
+FRA ranked second with 11.110000 pct of all medals
+
+foil team
+ITA ranked first with 26.670000 pct of all medals
+GER ranked second with 16.670000 pct of all medals
+
+sabre individua
+USA ranked first with 23.810000 pct of all medals
+FRA ranked second with 19.050000 pct of all medals
+
+sabre individual
+RUS ranked first with 33.330000 pct of all medals
+HUN ranked second with 16.670000 pct of all medals
+
+sabre team
+FRA ranked first with 19.050000 pct of all medals
+ITA ranked second with 19.050000 pct of all medals
+
+======Football======
+
+football
+USA ranked first with 15.150000 pct of all medals
+BRA ranked second with 15.150000 pct of all medals
+
+======Gymnastics======
+
+beam
+USA ranked first with 33.330000 pct of all medals
+CHN ranked second with 27.780000 pct of all medals
+
+floor exercises
+ROU ranked first with 23.680000 pct of all medals
+RUS ranked second with 18.420000 pct of all medals
+
+group competiti
+RUS ranked first with 33.330000 pct of all medals
+BLR ranked second with 16.670000 pct of all medals
+
+group competition
+BLR ranked first with 33.330000 pct of all medals
+ITA ranked second with 33.330000 pct of all medals
+
+horizontal bar
+GER ranked first with 20.000000 pct of all medals
+CHN ranked second with 15.000000 pct of all medals
+
+ind. all-round
+ROU ranked first with 37.500000 pct of all medals
+USA ranked second with 25.000000 pct of all medals
+
+individual
+CHN ranked first with 33.330000 pct of all medals
+CAN ranked second with 25.000000 pct of all medals
+
+individual all
+CHN ranked first with 20.000000 pct of all medals
+EUN ranked second with 20.000000 pct of all medals
+
+individual all-
+RUS ranked first with 40.000000 pct of all medals
+UKR ranked second with 26.670000 pct of all medals
+
+individual all-round
+RUS ranked first with 44.440000 pct of all medals
+USA ranked second with 22.220000 pct of all medals
+
+parallel bars
+CHN ranked first with 30.000000 pct of all medals
+EUN ranked second with 10.000000 pct of all medals
+
+pommel horse
+GBR ranked first with 16.670000 pct of all medals
+ROU ranked second with 16.670000 pct of all medals
+
+rings
+CHN ranked first with 26.320000 pct of all medals
+ITA ranked second with 15.790000 pct of all medals
+
+team competitio
+USA ranked first with 23.330000 pct of all medals
+ROU ranked second with 20.000000 pct of all medals
+
+team competition
+CHN ranked first with 16.670000 pct of all medals
+GBR ranked second with 16.670000 pct of all medals
+
+uneven bars
+CHN ranked first with 38.890000 pct of all medals
+USA ranked second with 27.780000 pct of all medals
+
+vault
+RUS ranked first with 22.220000 pct of all medals
+ROU ranked second with 19.440000 pct of all medals
+
+======Handball======
+
+handball
+ESP ranked first with 11.110000 pct of all medals
+KOR ranked second with 11.110000 pct of all medals
+
+======Hockey======
+
+hockey
+NED ranked first with 25.000000 pct of all medals
+AUS ranked second with 22.220000 pct of all medals
+
+======Judo======
+
++ 100kg
+FRA ranked first with 20.000000 pct of all medals
+JPN ranked second with 15.000000 pct of all medals
+
++ 72kg
+CHN ranked first with 25.000000 pct of all medals
+CUB ranked second with 25.000000 pct of all medals
+
++ 78kg
+CHN ranked first with 25.000000 pct of all medals
+CUB ranked second with 25.000000 pct of all medals
+
++ 95kg
+EUN ranked first with 25.000000 pct of all medals
+FRA ranked second with 25.000000 pct of all medals
+
+- 48 kg
+JPN ranked first with 16.670000 pct of all medals
+ROU ranked second with 16.670000 pct of all medals
+
+- 48kg
+JPN ranked first with 25.000000 pct of all medals
+CUB ranked second with 16.670000 pct of all medals
+
+- 60 kg
+JPN ranked first with 20.830000 pct of all medals
+KOR ranked second with 16.670000 pct of all medals
+
+48 - 52kg
+JPN ranked first with 20.830000 pct of all medals
+CHN ranked second with 16.670000 pct of all medals
+
+52 - 56kg
+CUB ranked first with 25.000000 pct of all medals
+ESP ranked second with 25.000000 pct of all medals
+
+52 - 57kg
+CUB ranked first with 12.500000 pct of all medals
+JPN ranked second with 12.500000 pct of all medals
+
+56 - 61kg
+BEL ranked first with 12.500000 pct of all medals
+CHN ranked second with 12.500000 pct of all medals
+
+57 - 63kg
+FRA ranked first with 18.750000 pct of all medals
+JPN ranked second with 18.750000 pct of all medals
+
+60 - 65kg
+BRA ranked first with 25.000000 pct of all medals
+CUB ranked second with 25.000000 pct of all medals
+
+60 - 66kg
+JPN ranked first with 20.000000 pct of all medals
+CUB ranked second with 15.000000 pct of all medals
+
+61 - 66kg
+BEL ranked first with 12.500000 pct of all medals
+CHN ranked second with 12.500000 pct of all medals
+
+63 - 70kg
+NED ranked first with 18.750000 pct of all medals
+CUB ranked second with 12.500000 pct of all medals
+
+65 - 71kg
+HUN ranked first with 25.000000 pct of all medals
+ISR ranked second with 25.000000 pct of all medals
+
+66 - 72kg
+JPN ranked first with 25.000000 pct of all medals
+BEL ranked second with 12.500000 pct of all medals
+
+66 - 73kg
+BRA ranked first with 15.000000 pct of all medals
+KOR ranked second with 15.000000 pct of all medals
+
+70 - 78kg
+CHN ranked first with 18.750000 pct of all medals
+FRA ranked second with 18.750000 pct of all medals
+
+71 - 78kg
+FRA ranked first with 25.000000 pct of all medals
+JPN ranked second with 25.000000 pct of all medals
+
+73 - 81kg
+KOR ranked first with 20.000000 pct of all medals
+BRA ranked second with 10.000000 pct of all medals
+
+78 - 86kg
+CAN ranked first with 25.000000 pct of all medals
+FRA ranked second with 25.000000 pct of all medals
+
+81 - 90kg
+NED ranked first with 15.000000 pct of all medals
+GEO ranked second with 10.000000 pct of all medals
+
+86 - 95kg
+EUN ranked first with 25.000000 pct of all medals
+GBR ranked second with 25.000000 pct of all medals
+
+90 - 100kg
+FRA ranked first with 10.000000 pct of all medals
+GER ranked second with 10.000000 pct of all medals
+
+======Modern Pentathlon======
+
+Individual
+GBR ranked first with 16.670000 pct of all medals
+HUN ranked second with 16.670000 pct of all medals
+
+Team
+EUN ranked first with 33.330000 pct of all medals
+ITA ranked second with 33.330000 pct of all medals
+
+======Rowing======
+
+4- with coxwain
+GER ranked first with 33.330000 pct of all medals
+POL ranked second with 33.330000 pct of all medals
+
+coxless four
+AUS ranked first with 23.810000 pct of all medals
+GBR ranked second with 23.810000 pct of all medals
+
+coxless pair
+AUS ranked first with 19.440000 pct of all medals
+GBR ranked second with 13.890000 pct of all medals
+
+double sculls
+GBR ranked first with 11.110000 pct of all medals
+GER ranked second with 11.110000 pct of all medals
+
+eight with coxs
+CAN ranked first with 19.440000 pct of all medals
+NED ranked second with 16.670000 pct of all medals
+
+lightweight 2
+FRA ranked first with 16.670000 pct of all medals
+GRE ranked second with 16.670000 pct of all medals
+
+lightweight 4
+DEN ranked first with 33.330000 pct of all medals
+AUS ranked second with 16.670000 pct of all medals
+
+lightweight dou
+ROU ranked first with 25.000000 pct of all medals
+GER ranked second with 16.670000 pct of all medals
+
+lightweight doubles
+GBR ranked first with 33.330000 pct of all medals
+CHN ranked second with 16.670000 pct of all medals
+
+lightweight four
+DEN ranked first with 33.330000 pct of all medals
+GBR ranked second with 33.330000 pct of all medals
+
+pair-oared with
+GBR ranked first with 33.330000 pct of all medals
+ITA ranked second with 33.330000 pct of all medals
+
+quadruple scull
+GER ranked first with 27.780000 pct of all medals
+GBR ranked second with 8.330000 pct of all medals
+
+single sculls
+GER ranked first with 13.890000 pct of all medals
+BLR ranked second with 11.110000 pct of all medals
+
+======Sailing======
+
+470
+AUS ranked first with 13.890000 pct of all medals
+GBR ranked second with 13.890000 pct of all medals
+
+49er
+ESP ranked first with 22.220000 pct of all medals
+GBR ranked second with 22.220000 pct of all medals
+
+49er - Skiff
+AUS ranked first with 33.330000 pct of all medals
+DEN ranked second with 33.330000 pct of all medals
+
+Europe
+DEN ranked first with 16.670000 pct of all medals
+NED ranked second with 16.670000 pct of all medals
+
+Finn
+GBR ranked first with 22.220000 pct of all medals
+ESP ranked second with 11.110000 pct of all medals
+
+Laser
+BRA ranked first with 20.000000 pct of all medals
+GBR ranked second with 20.000000 pct of all medals
+
+Laser Radial
+CHN ranked first with 33.330000 pct of all medals
+BEL ranked second with 16.670000 pct of all medals
+
+RS:X
+GBR ranked first with 16.670000 pct of all medals
+POL ranked second with 16.670000 pct of all medals
+
+Soling
+DEN ranked first with 22.220000 pct of all medals
+GER ranked second with 22.220000 pct of all medals
+
+Star
+BRA ranked first with 27.780000 pct of all medals
+GBR ranked second with 16.670000 pct of all medals
+
+Tornado
+AUS ranked first with 26.670000 pct of all medals
+ARG ranked second with 13.330000 pct of all medals
+
+Yngling
+GBR ranked first with 22.220000 pct of all medals
+AUS ranked second with 11.110000 pct of all medals
+
+board (Mistral)
+ITA ranked first with 16.670000 pct of all medals
+NZL ranked second with 16.670000 pct of all medals
+
+board (lechner)
+AUS ranked first with 16.670000 pct of all medals
+CHN ranked second with 16.670000 pct of all medals
+
+flying dutchman
+DEN ranked first with 33.330000 pct of all medals
+ESP ranked second with 33.330000 pct of all medals
+
+======Shooting======
+
+10m Air Pistol
+CHN ranked first with 33.330000 pct of all medals
+FRA ranked second with 33.330000 pct of all medals
+
+10m Air Rifle
+CHN ranked first with 66.670000 pct of all medals
+POL ranked second with 33.330000 pct of all medals
+
+10m air pistol
+CHN ranked first with 21.210000 pct of all medals
+RUS ranked second with 15.150000 pct of all medals
+
+10m air rifle
+CHN ranked first with 18.180000 pct of all medals
+RUS ranked second with 15.150000 pct of all medals
+
+10m runni 30+30
+CHN ranked first with 33.330000 pct of all medals
+RUS ranked second with 33.330000 pct of all medals
+
+25m pistol
+CHN ranked first with 27.780000 pct of all medals
+BUL ranked second with 16.670000 pct of all medals
+
+25m rapid pisto
+GER ranked first with 33.330000 pct of all medals
+RUS ranked second with 20.000000 pct of all medals
+
+25m rapid pistol
+CHN ranked first with 33.330000 pct of all medals
+CUB ranked second with 33.330000 pct of all medals
+
+50m Rifle 3 Position
+CZE ranked first with 33.330000 pct of all medals
+SRB ranked second with 33.330000 pct of all medals
+
+50m pistol
+KOR ranked first with 22.220000 pct of all medals
+CHN ranked second with 16.670000 pct of all medals
+
+50m rifle 3 Position
+ITA ranked first with 33.330000 pct of all medals
+KOR ranked second with 33.330000 pct of all medals
+
+50m rifle 3 pos
+CHN ranked first with 13.330000 pct of all medals
+RUS ranked second with 13.330000 pct of all medals
+
+50m rifle prone
+BLR ranked first with 16.670000 pct of all medals
+GER ranked second with 11.110000 pct of all medals
+
+50m runni 30+30
+CHN ranked first with 33.330000 pct of all medals
+CZE ranked second with 16.670000 pct of all medals
+
+Double trap
+GBR ranked first with 33.330000 pct of all medals
+RUS ranked second with 33.330000 pct of all medals
+
+Skeet
+USA ranked first with 33.330000 pct of all medals
+CHN ranked second with 16.670000 pct of all medals
+
+Trap
+ITA ranked first with 33.330000 pct of all medals
+CRO ranked second with 16.670000 pct of all medals
+
+double trap 120
+USA ranked first with 33.330000 pct of all medals
+AUS ranked second with 11.110000 pct of all medals
+
+double trap 150
+CHN ranked first with 25.000000 pct of all medals
+AUS ranked second with 16.670000 pct of all medals
+
+skeet (125 targ
+CHN ranked first with 33.330000 pct of all medals
+ITA ranked second with 33.330000 pct of all medals
+
+skeet (125)
+ITA ranked first with 25.000000 pct of all medals
+USA ranked second with 16.670000 pct of all medals
+
+skeet (75)
+AZE ranked first with 22.220000 pct of all medals
+HUN ranked second with 22.220000 pct of all medals
+
+trap (125 targe
+ITA ranked first with 33.330000 pct of all medals
+JPN ranked second with 33.330000 pct of all medals
+
+trap (125)
+AUS ranked first with 25.000000 pct of all medals
+ITA ranked second with 25.000000 pct of all medals
+
+trap (75)
+AUS ranked first with 11.110000 pct of all medals
+CHN ranked second with 11.110000 pct of all medals
+
+======Softball======
+
+softball
+AUS ranked first with 33.330000 pct of all medals
+USA ranked second with 33.330000 pct of all medals
+
+======Table Tennis======
+
+doubles
+CHN ranked first with 53.850000 pct of all medals
+KOR ranked second with 26.920000 pct of all medals
+
+singles
+CHN ranked first with 63.160000 pct of all medals
+KOR ranked second with 10.530000 pct of all medals
+
+team
+CHN ranked first with 33.330000 pct of all medals
+KOR ranked second with 25.000000 pct of all medals
+
+======Taekwondo======
+
++ 67 kg
+CHN ranked first with 14.290000 pct of all medals
+FRA ranked second with 14.290000 pct of all medals
+
++ 80 kg
+KOR ranked first with 21.430000 pct of all medals
+FRA ranked second with 14.290000 pct of all medals
+
+- 49 kg
+CUB ranked first with 21.430000 pct of all medals
+THA ranked second with 21.430000 pct of all medals
+
+- 58 kg
+TPE ranked first with 21.430000 pct of all medals
+ESP ranked second with 14.290000 pct of all medals
+
+49 - 57 kg
+KOR ranked first with 21.430000 pct of all medals
+TUR ranked second with 14.290000 pct of all medals
+
+57 - 67 kg
+KOR ranked first with 28.570000 pct of all medals
+CAN ranked second with 7.140000 pct of all medals
+
+58 - 68 kg
+IRI ranked first with 21.430000 pct of all medals
+KOR ranked second with 21.430000 pct of all medals
+
+68 - 80 kg
+IRI ranked first with 14.290000 pct of all medals
+ITA ranked second with 14.290000 pct of all medals
+
+======Tennis======
+
+doubles
+USA ranked first with 18.420000 pct of all medals
+ESP ranked second with 13.160000 pct of all medals
+
+mixed doubles
+BLR ranked first with 33.330000 pct of all medals
+GBR ranked second with 33.330000 pct of all medals
+
+singles
+USA ranked first with 21.050000 pct of all medals
+RUS ranked second with 15.790000 pct of all medals
+
+======Triathlon======
+
+Individual
+AUS ranked first with 20.830000 pct of all medals
+SUI ranked second with 16.670000 pct of all medals
+
+======Volleyball======
+
+beach volleybal
+BRA ranked first with 36.670000 pct of all medals
+USA ranked second with 30.000000 pct of all medals
+
+volleyball
+BRA ranked first with 22.220000 pct of all medals
+RUS ranked second with 16.670000 pct of all medals
+
+======Weightlifting======
+
++ 105kg
+IRI ranked first with 33.330000 pct of all medals
+RUS ranked second with 25.000000 pct of all medals
+
++ 108kg, total
+AUS ranked first with 33.330000 pct of all medals
+GER ranked second with 33.330000 pct of all medals
+
++ 110kg, total
+EUN ranked first with 66.670000 pct of all medals
+GER ranked second with 33.330000 pct of all medals
+
++ 75kg
+CHN ranked first with 25.000000 pct of all medals
+KOR ranked second with 16.670000 pct of all medals
+
+- 52kg total
+BUL ranked first with 33.330000 pct of all medals
+CHN ranked second with 33.330000 pct of all medals
+
+- 54kg total
+BUL ranked first with 33.330000 pct of all medals
+CHN ranked second with 33.330000 pct of all medals
+
+-56kg total
+CHN ranked first with 41.670000 pct of all medals
+TUR ranked second with 16.670000 pct of all medals
+
+100-110kg total
+BUL ranked first with 33.330000 pct of all medals
+EUN ranked second with 33.330000 pct of all medals
+
+105kg
+RUS ranked first with 33.330000 pct of all medals
+IRI ranked second with 16.670000 pct of all medals
+
+48kg
+CHN ranked first with 25.000000 pct of all medals
+INA ranked second with 16.670000 pct of all medals
+
+53kg
+INA ranked first with 16.670000 pct of all medals
+THA ranked second with 16.670000 pct of all medals
+
+54 - 59kg total
+BUL ranked first with 33.330000 pct of all medals
+CHN ranked second with 33.330000 pct of all medals
+
+56 - 60kg total
+BUL ranked first with 33.330000 pct of all medals
+CHN ranked second with 33.330000 pct of all medals
+
+56kg
+CHN ranked first with 66.670000 pct of all medals
+TUR ranked second with 33.330000 pct of all medals
+
+58kg
+CHN ranked first with 25.000000 pct of all medals
+PRK ranked second with 25.000000 pct of all medals
+
+59 - 64kg total
+CHN ranked first with 33.330000 pct of all medals
+GRE ranked second with 33.330000 pct of all medals
+
+60-67.5kg total
+BUL ranked first with 33.330000 pct of all medals
+EUN ranked second with 33.330000 pct of all medals
+
+62kg
+CHN ranked first with 25.000000 pct of all medals
+COL ranked second with 16.670000 pct of all medals
+
+63kg
+BLR ranked first with 16.670000 pct of all medals
+KAZ ranked second with 16.670000 pct of all medals
+
+64 - 70kg total
+CHN ranked first with 33.330000 pct of all medals
+HUN ranked second with 33.330000 pct of all medals
+
+67.5-75kg total
+CUB ranked first with 33.330000 pct of all medals
+EUN ranked second with 33.330000 pct of all medals
+
+69kg
+CHN ranked first with 25.000000 pct of all medals
+BLR ranked second with 8.330000 pct of all medals
+
+70 - 76kg total
+BUL ranked first with 33.330000 pct of all medals
+CUB ranked second with 33.330000 pct of all medals
+
+75-82.5kg total
+GRE ranked first with 50.000000 pct of all medals
+POL ranked second with 50.000000 pct of all medals
+
+75kg
+RUS ranked first with 33.330000 pct of all medals
+KAZ ranked second with 16.670000 pct of all medals
+
+76 - 83kg total
+GER ranked first with 33.330000 pct of all medals
+GRE ranked second with 33.330000 pct of all medals
+
+77kg
+CHN ranked first with 33.330000 pct of all medals
+ARM ranked second with 16.670000 pct of all medals
+
+82.5-90kg total
+EUN ranked first with 66.670000 pct of all medals
+POL ranked second with 33.330000 pct of all medals
+
+83 - 91kg total
+GER ranked first with 33.330000 pct of all medals
+GRE ranked second with 33.330000 pct of all medals
+
+85kg
+BLR ranked first with 16.670000 pct of all medals
+GEO ranked second with 16.670000 pct of all medals
+
+90-100kg total
+EUN ranked first with 66.670000 pct of all medals
+POL ranked second with 33.330000 pct of all medals
+
+91 - 99kg total
+GRE ranked first with 33.330000 pct of all medals
+KAZ ranked second with 33.330000 pct of all medals
+
+94kg
+RUS ranked first with 41.670000 pct of all medals
+KAZ ranked second with 16.670000 pct of all medals
+
+99-108kg total
+ROU ranked first with 33.330000 pct of all medals
+RUS ranked second with 33.330000 pct of all medals
+
+======Wrestling======
+
+- 48kg
+CUB ranked first with 10.530000 pct of all medals
+EUN ranked second with 10.530000 pct of all medals
+
+- 55kg
+RUS ranked first with 28.570000 pct of all medals
+JPN ranked second with 14.290000 pct of all medals
+
+100 - 130kg
+USA ranked first with 25.000000 pct of all medals
+EUN ranked second with 16.670000 pct of all medals
+
+48 - 52kg
+BUL ranked first with 16.670000 pct of all medals
+USA ranked second with 16.670000 pct of all medals
+
+48 - 54kg
+AZE ranked first with 16.670000 pct of all medals
+CUB ranked second with 16.670000 pct of all medals
+
+48 - 55kg
+CAN ranked first with 28.570000 pct of all medals
+JPN ranked second with 28.570000 pct of all medals
+
+52 - 57kg
+CHN ranked first with 16.670000 pct of all medals
+PRK ranked second with 16.670000 pct of all medals
+
+54 - 58kg
+BUL ranked first with 16.670000 pct of all medals
+CHN ranked second with 16.670000 pct of all medals
+
+55 - 60kg
+CUB ranked first with 14.290000 pct of all medals
+IRI ranked second with 14.290000 pct of all medals
+
+55 - 63kg
+JPN ranked first with 28.570000 pct of all medals
+USA ranked second with 28.570000 pct of all medals
+
+57 - 62kg
+CUB ranked first with 25.000000 pct of all medals
+TUR ranked second with 16.670000 pct of all medals
+
+58 - 63kg
+RUS ranked first with 33.330000 pct of all medals
+BUL ranked second with 16.670000 pct of all medals
+
+60 - 66kg
+UKR ranked first with 21.430000 pct of all medals
+TUR ranked second with 14.290000 pct of all medals
+
+62 - 68kg
+EUN ranked first with 16.670000 pct of all medals
+RUS ranked second with 16.670000 pct of all medals
+
+63 - 69kg
+RUS ranked first with 33.330000 pct of all medals
+CAN ranked second with 16.670000 pct of all medals
+
+63 - 72kg
+CHN ranked first with 28.570000 pct of all medals
+JPN ranked second with 28.570000 pct of all medals
+
+66 - 74kg
+RUS ranked first with 21.430000 pct of all medals
+BUL ranked second with 14.290000 pct of all medals
+
+68 - 74kg
+KOR ranked first with 16.670000 pct of all medals
+POL ranked second with 16.670000 pct of all medals
+
+69 - 76kg
+USA ranked first with 33.330000 pct of all medals
+FIN ranked second with 16.670000 pct of all medals
+
+74 - 82kg
+EUN ranked first with 16.670000 pct of all medals
+IRI ranked second with 16.670000 pct of all medals
+
+74 - 84kg
+RUS ranked first with 23.080000 pct of all medals
+BLR ranked second with 7.690000 pct of all medals
+
+76 - 85kg
+CUB ranked first with 16.670000 pct of all medals
+GEO ranked second with 16.670000 pct of all medals
+
+82 - 90kg
+EUN ranked first with 16.670000 pct of all medals
+GER ranked second with 16.670000 pct of all medals
+
+84 - 96kg
+RUS ranked first with 21.430000 pct of all medals
+GEO ranked second with 14.290000 pct of all medals
+
+85 - 97kg
+GEO ranked first with 16.670000 pct of all medals
+KAZ ranked second with 16.670000 pct of all medals
+
+90 - 100kg
+EUN ranked first with 16.670000 pct of all medals
+GER ranked second with 16.670000 pct of all medals
+
+96 - 120kg
+RUS ranked first with 21.430000 pct of all medals
+KAZ ranked second with 14.290000 pct of all medals
+
+97 - 130kg
+RUS ranked first with 33.330000 pct of all medals
+BLR ranked second with 16.670000 pct of all medals
+
+WF 120 kg
+GEO ranked first with 25.000000 pct of all medals
+IRI ranked second with 25.000000 pct of all medals
+
+WF 48 kg
+AZE ranked first with 25.000000 pct of all medals
+CAN ranked second with 25.000000 pct of all medals
+
+WF 55 kg
+JPN ranked first with 25.000000 pct of all medals
+AZE ranked second with 12.500000 pct of all medals
+
+WF 60 kg
+AZE ranked first with 25.000000 pct of all medals
+IND ranked second with 25.000000 pct of all medals
+
+WF 63 kg
+CHN ranked first with 25.000000 pct of all medals
+JPN ranked second with 25.000000 pct of all medals
+
+WF 66 kg
+CUB ranked first with 25.000000 pct of all medals
+IND ranked second with 25.000000 pct of all medals
+
+WF 72 kg
+BUL ranked first with 25.000000 pct of all medals
+ESP ranked second with 25.000000 pct of all medals
+
+WF 74 kg
+HUN ranked first with 25.000000 pct of all medals
+IRI ranked second with 25.000000 pct of all medals
+
+WF 84 kg
+AZE ranked first with 25.000000 pct of all medals
+GEO ranked second with 25.000000 pct of all medals
+
+WF 96 kg
+AZE ranked first with 25.000000 pct of all medals
+GEO ranked second with 25.000000 pct of all medals
+
+WG 120 kg
+CUB ranked first with 25.000000 pct of all medals
+EST ranked second with 25.000000 pct of all medals
+
+WG 55 kg
+AZE ranked first with 25.000000 pct of all medals
+HUN ranked second with 25.000000 pct of all medals
+
+WG 60 kg
+GEO ranked first with 25.000000 pct of all medals
+IRI ranked second with 25.000000 pct of all medals
+
+WG 66 kg
+FRA ranked first with 25.000000 pct of all medals
+GEO ranked second with 25.000000 pct of all medals
+
+WG 74 kg
+ARM ranked first with 25.000000 pct of all medals
+AZE ranked second with 25.000000 pct of all medals
+
+WG 84 kg
+EGY ranked first with 25.000000 pct of all medals
+KAZ ranked second with 25.000000 pct of all medals
+
+WG 96 kg
+ARM ranked first with 25.000000 pct of all medals
+IRI ranked second with 25.000000 pct of all medals
