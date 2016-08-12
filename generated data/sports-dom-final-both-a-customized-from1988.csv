@@ -1,0 +1,94 @@
+sport,country,medal-type,pct
+Diving,CHN,all,42.42
+Diving,CHN,weighted-all,51.519999999999996
+Diving,CHN,gold,72.73
+Swimming,USA,all,28.4
+Swimming,USA,weighted-all,31.3
+Swimming,USA,gold,37.89
+Synchronized Swimming,JPN,all,25.64
+Synchronized Swimming,RUS,weighted-all,30.380000000000003
+Synchronized Swimming,RUS,gold,57.14
+Water polo,USA,all,18.18
+Water polo,USA,weighted-all,18.18
+Water polo,HUN,gold,27.27
+Archery,KOR,all,38.1
+Archery,KOR,weighted-all,45.83
+Archery,KOR,gold,64.29
+Athletics,USA,all,18.099999999999998
+Athletics,USA,weighted-all,19.5
+Athletics,USA,gold,22.51
+Badminton,CHN,all,41.760000000000005
+Badminton,CHN,weighted-all,43.82
+Badminton,CHN,gold,55.17
+Baseball,CUB,all,33.33
+Baseball,CUB,weighted-all,43.33
+Baseball,CUB,gold,60.0
+Basketball,USA,all,33.33
+Basketball,USA,weighted-all,42.86
+Basketball,USA,gold,78.57
+Boxing,CUB,all,12.65
+Boxing,CUB,weighted-all,16.7
+Boxing,CUB,gold,26.51
+Canoe,GER,all,16.36
+Canoe,GER,weighted-all,18.21
+Canoe,GER,gold,24.07
+Cycling,AUS,all,12.06
+Cycling,GBR,weighted-all,13.489999999999998
+Cycling,GBR,gold,19.05
+Equestrian,GER,all,22.220000000000002
+Equestrian,GER,weighted-all,25.4
+Equestrian,GER,gold,35.71
+Fencing,ITA,all,20.200000000000003
+Fencing,ITA,weighted-all,20.96
+Fencing,ITA,gold,25.76
+Football,BRA,all,16.669999999999998
+Football,USA,weighted-all,19.439999999999998
+Football,USA,gold,33.33
+Gymnastics,CHN,all,15.620000000000001
+Gymnastics,CHN,weighted-all,16.55
+Gymnastics,CHN,gold,19.35
+Handball,KOR,all,14.29
+Handball,KOR,weighted-all,15.479999999999999
+Handball,DEN,gold,21.43
+Hockey,NED,all,26.19
+Hockey,NED,weighted-all,26.19
+Hockey,AUS,gold,28.57
+Judo,JPN,all,14.84
+Judo,JPN,weighted-all,18.21
+Judo,JPN,gold,25.27
+Modern Pentathlon,HUN,all,17.95
+Modern Pentathlon,HUN,weighted-all,19.23
+Modern Pentathlon,HUN,gold,23.08
+Rowing,GER,all,9.86
+Rowing,GER,weighted-all,10.54
+Rowing,GBR,gold,13.27
+Sailing,GBR,all,11.74
+Sailing,GBR,weighted-all,13.38
+Sailing,ESP,gold,15.49
+Shooting,CHN,all,13.65
+Shooting,CHN,weighted-all,14.6
+Shooting,CHN,gold,17.14
+Softball,AUS,all,33.33
+Softball,USA,weighted-all,45.83
+Softball,USA,gold,75.0
+Table Tennis,CHN,all,53.410000000000004
+Table Tennis,CHN,weighted-all,63.949999999999996
+Table Tennis,CHN,gold,85.71
+Taekwondo,KOR,all,12.5
+Taekwondo,KOR,weighted-all,17.31
+Taekwondo,KOR,gold,31.25
+Tennis,USA,all,22.11
+Tennis,USA,weighted-all,26.919999999999998
+Tennis,USA,gold,44.83
+Triathlon,AUS,all,20.830000000000002
+Triathlon,AUS,weighted-all,18.75
+Triathlon,SUI,gold,25.0
+Volleyball,BRA,all,26.39
+Volleyball,BRA,weighted-all,27.08
+Volleyball,USA,gold,33.33
+Weightlifting,CHN,all,16.48
+Weightlifting,CHN,weighted-all,19.59
+Weightlifting,CHN,gold,27.78
+Wrestling,RUS,all,11.29
+Wrestling,RUS,weighted-all,13.25
+Wrestling,RUS,gold,19.23
